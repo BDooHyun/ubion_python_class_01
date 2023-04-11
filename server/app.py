@@ -39,7 +39,8 @@ def corona() :
     print(servicekey)
     if servicekey == "aaa" :
         df = pd.read_csv("../csv/corona.csv")
-        json_data = df.to_json()
+        df = df.dropna(axis = 0)
+        dict_data = df.to_dict("record")
         return jsonify(json_data)
     else :
         return "servicekey error"
