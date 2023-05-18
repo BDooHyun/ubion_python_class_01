@@ -6,9 +6,15 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>999</width>
-    <height>725</height>
+    <width>1219</width>
+    <height>829</height>
    </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>EF_다이어리</family>
+    <pointsize>10</pointsize>
+   </font>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
@@ -19,17 +25,22 @@
      <rect>
       <x>20</x>
       <y>20</y>
-      <width>181</width>
-      <height>41</height>
+      <width>201</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>12</pointsize>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>16</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">color: rgb(246, 174, 8);</string>
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 16pt &quot;빛의 계승자 Bold&quot;;</string>
     </property>
     <property name="text">
      <string>Select Data File</string>
@@ -38,20 +49,26 @@
    <widget class="QPushButton" name="Browse">
     <property name="geometry">
      <rect>
-      <x>220</x>
-      <y>30</y>
-      <width>101</width>
-      <height>21</height>
+      <x>230</x>
+      <y>20</y>
+      <width>91</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <weight>75</weight>
-      <bold>true</bold>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(255, 174, 0);</string>
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
      <string>Browse</string>
@@ -61,69 +78,94 @@
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>60</y>
+      <y>70</y>
       <width>301</width>
-      <height>281</height>
+      <height>171</height>
      </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+background-color: rgb(192, 197, 213);
+selection-color: rgb(102, 136, 154);
+border-color: rgb(255, 255, 255);
+font: 9pt &quot;조선100년체&quot;;</string>
     </property>
    </widget>
    <widget class="QPushButton" name="Submit">
     <property name="geometry">
      <rect>
       <x>220</x>
-      <y>350</y>
+      <y>260</y>
       <width>101</width>
-      <height>21</height>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <weight>75</weight>
-      <bold>true</bold>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(255, 174, 0);</string>
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
-     <string>Set_Target</string>
+     <string>Set Target</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>340</y>
-      <width>181</width>
-      <height>41</height>
+      <y>260</y>
+      <width>201</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>12</pointsize>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>9</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">color: rgb(169, 255, 169);
-color: rgb(43, 133, 30);</string>
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 9pt &quot;빛의 계승자 Bold&quot;;</string>
     </property>
     <property name="text">
-     <string>Select Data File</string>
+     <string>Select the Target Column</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>350</x>
-      <y>130</y>
-      <width>101</width>
+      <x>390</x>
+      <y>110</y>
+      <width>121</width>
       <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>12</pointsize>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
      </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
     </property>
     <property name="text">
      <string>Target Set</string>
@@ -132,11 +174,24 @@ color: rgb(43, 133, 30);</string>
    <widget class="QLabel" name="target_col">
     <property name="geometry">
      <rect>
-      <x>330</x>
-      <y>180</y>
-      <width>121</width>
-      <height>51</height>
+      <x>410</x>
+      <y>160</y>
+      <width>101</width>
+      <height>41</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>HS봄바람체 2.1</family>
+      <pointsize>12</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(126, 128, 152);
+font: 12pt &quot;HS봄바람체 2.1&quot;;</string>
     </property>
     <property name="text">
      <string/>
@@ -145,21 +200,68 @@ color: rgb(43, 133, 30);</string>
    <widget class="QTableView" name="tableView">
     <property name="geometry">
      <rect>
-      <x>460</x>
+      <x>520</x>
       <y>60</y>
-      <width>511</width>
-      <height>281</height>
+      <width>651</width>
+      <height>231</height>
      </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+background-color: rgb(192, 197, 213);
+gridline-color: rgb(255, 255, 255);
+selection-color: rgb(102, 136, 154);
+font: 9pt &quot;조선100년체&quot;;
+</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>10</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Data Shape :</string>
     </property>
    </widget>
    <widget class="QLabel" name="shape">
     <property name="geometry">
      <rect>
-      <x>530</x>
-      <y>20</y>
-      <width>251</width>
-      <height>31</height>
+      <x>660</x>
+      <y>10</y>
+      <width>241</width>
+      <height>41</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>HS봄바람체 2.1</family>
+      <pointsize>9</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(126, 128, 152);
+font: 9pt &quot;HS봄바람체 2.1&quot;;</string>
     </property>
     <property name="text">
      <string/>
@@ -168,11 +270,14 @@ color: rgb(43, 133, 30);</string>
    <widget class="QComboBox" name="scaler">
     <property name="geometry">
      <rect>
-      <x>790</x>
+      <x>910</x>
       <y>20</y>
-      <width>67</width>
-      <height>22</height>
+      <width>181</width>
+      <height>31</height>
      </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 10pt &quot;EF_다이어리&quot;;</string>
     </property>
     <item>
      <property name="text">
@@ -193,88 +298,165 @@ color: rgb(43, 133, 30);</string>
    <widget class="QPushButton" name="scale_btn">
     <property name="geometry">
      <rect>
-      <x>860</x>
+      <x>1100</x>
       <y>20</y>
-      <width>111</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <weight>75</weight>
-      <bold>true</bold>
-     </font>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">background-color: rgb(255, 174, 0);</string>
-    </property>
-    <property name="text">
-     <string>Submit</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_5">
-    <property name="geometry">
-     <rect>
-      <x>410</x>
-      <y>20</y>
-      <width>121</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>15</pointsize>
-     </font>
-    </property>
-    <property name="text">
-     <string>DataShape : </string>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="convert_btn">
-    <property name="geometry">
-     <rect>
-      <x>250</x>
-      <y>420</y>
       <width>71</width>
       <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <weight>75</weight>
-      <bold>true</bold>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(255, 174, 0);</string>
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
-     <string>Convert</string>
+     <string>Submit</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label_6">
+   <widget class="QPushButton" name="convert_btn">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>380</y>
-      <width>231</width>
-      <height>41</height>
+      <x>300</x>
+      <y>360</y>
+      <width>91</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <pointsize>12</pointsize>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
      </font>
     </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
     <property name="text">
-     <string>Convert Categorical to</string>
+     <string>Convert</string>
     </property>
    </widget>
    <widget class="QComboBox" name="cat_column">
     <property name="geometry">
      <rect>
       <x>20</x>
-      <y>420</y>
+      <y>360</y>
+      <width>261</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 10pt &quot;EF_다이어리&quot;;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>310</y>
+      <width>251</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>12</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 12pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Convert categorical to</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>310</y>
+      <width>151</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>11</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 11pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Drop Column</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>350</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>11</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 11pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Empty Column</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="drop_column">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>320</y>
+      <width>221</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="empty_column">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>360</y>
       <width>221</width>
       <height>31</height>
      </rect>
@@ -283,98 +465,54 @@ color: rgb(43, 133, 30);</string>
    <widget class="QPushButton" name="drop_btn">
     <property name="geometry">
      <rect>
-      <x>800</x>
-      <y>380</y>
-      <width>91</width>
-      <height>21</height>
+      <x>910</x>
+      <y>320</y>
+      <width>121</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <weight>75</weight>
-      <bold>true</bold>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>11</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(255, 174, 0);</string>
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 11pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
      <string>Drop</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label_7">
-    <property name="geometry">
-     <rect>
-      <x>460</x>
-      <y>370</y>
-      <width>121</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="text">
-     <string>Drop Column</string>
-    </property>
-   </widget>
-   <widget class="QComboBox" name="drop_column">
-    <property name="geometry">
-     <rect>
-      <x>570</x>
-      <y>380</y>
-      <width>221</width>
-      <height>22</height>
-     </rect>
-    </property>
-   </widget>
-   <widget class="QComboBox" name="empty_column">
-    <property name="geometry">
-     <rect>
-      <x>570</x>
-      <y>420</y>
-      <width>221</width>
-      <height>22</height>
-     </rect>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_8">
-    <property name="geometry">
-     <rect>
-      <x>460</x>
-      <y>410</y>
-      <width>121</width>
-      <height>41</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>12</pointsize>
-     </font>
-    </property>
-    <property name="text">
-     <string>Empty Column</string>
-    </property>
-   </widget>
    <widget class="QPushButton" name="fillmean_btn">
     <property name="geometry">
      <rect>
-      <x>800</x>
-      <y>420</y>
-      <width>91</width>
-      <height>21</height>
+      <x>910</x>
+      <y>360</y>
+      <width>121</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <weight>75</weight>
-      <bold>true</bold>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(255, 174, 0);</string>
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
      <string>Fill Mean</string>
@@ -383,23 +521,1457 @@ color: rgb(43, 133, 30);</string>
    <widget class="QPushButton" name="fillna_btn">
     <property name="geometry">
      <rect>
-      <x>900</x>
-      <y>420</y>
-      <width>91</width>
-      <height>21</height>
+      <x>1040</x>
+      <y>360</y>
+      <width>131</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="font">
      <font>
-      <weight>75</weight>
-      <bold>true</bold>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(255, 174, 0);</string>
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
-     <string>Fill &quot;&quot;Unknown</string>
+     <string>Fill 'UnKnown'</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Nontarget_alarm">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>50</y>
+      <width>141</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>10</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+color: rgb(198, 103, 103);
+font: 75 10pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="Line" name="line">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>400</y>
+      <width>1151</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Horizontal</enum>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>420</y>
+      <width>131</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Scatter Plot</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_9">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>460</y>
+      <width>31</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>11</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 11pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>X : </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_10">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>500</y>
+      <width>31</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>11</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 11pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Y : </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_11">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>540</y>
+      <width>31</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>c : </string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="scatter_x">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>470</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="scatter_y">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>510</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="scatter_c">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>550</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>r</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>g</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>b</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>y</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>k</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label_12">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>580</y>
+      <width>81</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>marker</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="scatter_marker">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>590</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>.</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>,</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>o</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>^</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>&lt;</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>&gt;</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>1</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>2</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>3</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>4</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>8</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label_13">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>630</y>
+      <width>61</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>10</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 10pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>vmin : </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_15">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>630</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="scatterplot">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>730</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Show</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_16">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>660</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_14">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>660</y>
+      <width>61</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>10</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 10pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>vmax : </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_17">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>660</y>
+      <width>61</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>10</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 10pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>vmax : </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_18">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>500</y>
+      <width>31</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>11</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 11pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Y : </string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="plot_c">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>550</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>r</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>g</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>b</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>y</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>k</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label_19">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>580</y>
+      <width>81</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>marker</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="lineplot">
+    <property name="geometry">
+     <rect>
+      <x>340</x>
+      <y>730</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Show</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_20">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>540</y>
+      <width>31</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>c : </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_21">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>630</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_22">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>630</y>
+      <width>61</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>10</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 10pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>vmin : </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_23">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>660</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="plot_y">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>510</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="plot_x">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>470</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="plot_marker">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>590</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>.</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>,</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>o</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>^</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>&lt;</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>&gt;</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>1</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>2</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>3</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>4</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>8</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label_24">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>420</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Line Plot</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_25">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>460</y>
+      <width>31</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>11</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 11pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>X : </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_27">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>610</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_29">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>420</y>
+      <width>201</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Histogram : Select</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_30">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>610</y>
+      <width>61</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>11</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 11pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>vmin : </string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="hist_column_add">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>510</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="hist_column">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>470</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="histogram">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>730</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Show</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_32">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>650</y>
+      <width>61</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>11</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 11pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>vmax : </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_34">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>650</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_35">
+    <property name="geometry">
+     <rect>
+      <x>780</x>
+      <y>420</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Line Plot</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="convert_btn_5">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>470</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Show</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_28">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>570</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_31">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>570</y>
+      <width>61</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>11</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 11pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>vmin : </string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="hist_add_btn">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>470</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Add</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="hist_remove_btn">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>510</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Remove</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="convert_btn_8">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>580</y>
+      <width>101</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Other Plots</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_33">
+    <property name="geometry">
+     <rect>
+      <x>920</x>
+      <y>420</y>
+      <width>241</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Select Training Model</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="model_select">
+    <property name="geometry">
+     <rect>
+      <x>930</x>
+      <y>470</y>
+      <width>221</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Linear Regression</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>SVM</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Logistic Regression</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Random Forest</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Multi Layer Perceptron</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="train">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>540</y>
+      <width>191</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Train</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_26">
+    <property name="geometry">
+     <rect>
+      <x>1030</x>
+      <y>610</y>
+      <width>31</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Or</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_36">
+    <property name="geometry">
+     <rect>
+      <x>940</x>
+      <y>650</y>
+      <width>201</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Bold</family>
+      <pointsize>13</pointsize>
+      <weight>9</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(87, 89, 127);
+font: 75 13pt &quot;빛의 계승자 Bold&quot;;</string>
+    </property>
+    <property name="text">
+     <string>Use a Pre-Trained Model</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pre_train">
+    <property name="geometry">
+     <rect>
+      <x>940</x>
+      <y>710</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Browse</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="go_pre_train">
+    <property name="geometry">
+     <rect>
+      <x>1060</x>
+      <y>710</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>빛의 계승자 Regular</family>
+      <pointsize>10</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+      <underline>false</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(133, 154, 194);
+font: 10pt &quot;빛의 계승자 Regular&quot;;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>Go</string>
+    </property>
+   </widget>
+   <widget class="Line" name="line_2">
+    <property name="geometry">
+     <rect>
+      <x>233</x>
+      <y>420</y>
+      <width>20</width>
+      <height>351</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="Line" name="line_3">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>420</y>
+      <width>20</width>
+      <height>351</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="Line" name="line_4">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>420</y>
+      <width>20</width>
+      <height>351</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
+    </property>
+   </widget>
+   <widget class="Line" name="line_5">
+    <property name="geometry">
+     <rect>
+      <x>890</x>
+      <y>420</y>
+      <width>20</width>
+      <height>351</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Vertical</enum>
     </property>
    </widget>
   </widget>
@@ -408,8 +1980,8 @@ color: rgb(43, 133, 30);</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>999</width>
-     <height>22</height>
+     <width>1219</width>
+     <height>19</height>
     </rect>
    </property>
   </widget>
