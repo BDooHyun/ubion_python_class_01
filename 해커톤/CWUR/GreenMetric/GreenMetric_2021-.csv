@@ -1,0 +1,957 @@
+﻿University,Country,Total Score,Setting & Infrastructure,Energy & Climate Change,Waste,Water,Transportation,Education & Research,Rank
+Wageningen University & Research,Netherlands,9300,1325,1825,1800,1000,1550,1800,1.0
+University of Nottingham,United Kingdom,8850,1375,1525,1800,1000,1500,1650,2.0
+University of Groningen,Netherlands,8800,1275,1550,1800,1000,1650,1525,3.0
+Nottingham Trent University,United Kingdom,8750,1200,1750,1800,800,1450,1750,4.0
+"University of California, Davis",USA,8750,1300,1650,1725,950,1450,1675,5.0
+Umwelt-Campus Birkenfeld (Trier University of Applied Sciences),Germany,8725,1025,1950,1500,1000,1650,1600,6.0
+Leiden University,Netherlands,8700,900,1825,1800,1000,1650,1525,7.0
+University College Cork,Ireland,8700,1300,1650,1650,850,1550,1700,8.0
+University of Connecticut,USA,8700,1250,1500,1725,1000,1475,1750,9.0
+Universidade de Sao Paulo USP,Brazil,8700,1350,1475,1650,950,1675,1600,10.0
+University of Southern Denmark,Denmark,8675,975,1825,1725,1000,1550,1600,11.0
+Universita di Bologna,Italy,8675,1200,1400,1725,800,1800,1750,12.0
+Dublin City University,Ireland,8650,1250,1550,1800,950,1450,1650,13.0
+Hame University of Applied Sciences,Finland,8625,1275,1700,1725,1000,1425,1500,14.0
+Bangor University,United Kingdom,8600,1275,1525,1725,750,1600,1725,15.0
+Universitat Bremen,Germany,8575,1150,1675,1650,950,1475,1675,16.0
+Université de Sherbrooke,Canada,8550,1125,1700,1650,950,1475,1650,17.0
+Universidad Autónoma De Nuevo León,Mexico,8550,1275,1475,1650,900,1600,1650,18.0
+Leuphana Universitat Luneburg,Germany,8525,1000,1850,1575,850,1600,1650,19.0
+Politecnico di Torino,Italy,8500,600,1775,1800,1000,1600,1725,20.0
+University of Limerick,Ireland,8500,1250,1575,1575,850,1550,1700,21.0
+Luiss University,Italy,8475,950,1925,1500,900,1650,1550,22.0
+Universita degli Studi di Torino,Italy,8475,1150,1675,1575,800,1550,1725,23.0
+Universitas Indonesia,Indonesia,8450,1175,1700,1575,950,1425,1625,24.0
+Freie Universitat Berlin,Germany,8450,1300,1650,1725,750,1275,1750,25.0
+King Abdulaziz University,Saudi Arabia,8450,1375,1400,1650,950,1475,1600,26.0
+Universiti Putra Malaysia,Malaysia,8425,1300,1600,1425,900,1625,1575,27.0
+RUDN University,Russia,8425,1175,1525,1650,850,1650,1575,28.0
+National Pingtung University of Science & Technology,Chinese Taipei,8425,1275,1475,1500,950,1600,1625,29.0
+Universitas Diponegoro,Indonesia,8400,1025,1650,1425,950,1550,1800,30.0
+National Chi Nan University,Chinese Taipei,8375,1375,1600,1500,900,1475,1525,31.0
+Universiti Malaya,Malaysia,8375,1350,1175,1575,1000,1525,1750,32.0
+Universitas Gadjah Mada,Indonesia,8350,1175,1600,1350,900,1525,1800,33.0
+University of Eastern Finland,Finland,8325,775,1875,1800,1000,1300,1575,34.0
+Universidad Autónoma de Occidente,Colombia,8325,1175,1600,1800,1000,1150,1600,35.0
+University of Warwick,United Kingdom,8325,1125,1500,1650,700,1625,1725,36.0
+Universita degli Studi dell'Aquila,Italy,8300,1200,1550,1425,850,1500,1775,37.0
+Universidad Complutense De Madrid,Spain,8275,900,1600,1800,1000,1500,1475,38.0
+Carleton University,Canada,8275,1075,1575,1800,950,1350,1525,39.0
+Institut Teknologi Sepuluh Nopember,Indonesia,8275,1225,1500,1425,950,1375,1800,40.0
+Universidad del Rosario,Colombia,8275,1250,1450,1650,850,1500,1575,41.0
+University of Pécs,Hungary,8275,1225,1350,1575,850,1650,1625,42.0
+Universitas Negeri Semarang,Indonesia,8250,1250,1525,1275,900,1600,1700,43.0
+Universitat Autónoma de Barcelona,Spain,8225,1025,1700,1725,850,1375,1550,44.0
+Kasetsart University,Thailand,8225,1175,1625,1425,850,1525,1625,45.0
+IPB University,Indonesia,8225,1350,975,1575,900,1625,1800,46.0
+Universidad de Alcalá,Spain,8200,1175,1825,1425,850,1375,1550,47.0
+Universidade Federal de Lavras - UFLA,Brazil,8200,1300,1325,1500,1000,1325,1750,48.0
+University of A Coruña,Spain,8175,1125,1650,1650,850,1250,1650,49.0
+Riga Technical University,Latvia,8175,1000,1425,1575,900,1700,1575,50.0
+Lincoln University,New Zealand,8175,1300,1225,1425,850,1650,1725,51.0
+Al-Balqa Applied University,Jordan,8150,1200,1725,1200,850,1550,1625,52.0
+Universidad De Santander,Colombia,8150,1300,1725,1275,800,1550,1500,53.0
+Università degli Studi di Genova,Italy,8150,1325,1650,1575,700,1500,1400,54.0
+Universidad Nacional de Colombia,Colombia,8150,1025,1475,1500,900,1575,1675,55.0
+National Yunlin University of Science & Technology,Chinese Taipei,8150,1175,1475,1500,900,1525,1575,56.0
+Istanbul Technical University,Turkey,8150,1225,1400,1575,900,1400,1650,57.0
+Keele University,United Kingdom,8100,1150,1625,1800,800,1250,1475,58.0
+Mahidol University,Thailand,8100,1175,1375,1425,950,1525,1650,59.0
+Benemérita Universidad Autónoma de Puebla,Mexico,8075,1025,1525,1725,1000,1350,1450,60.0
+Da-Yeh University,Chinese Taipei,8075,1075,1475,1500,1000,1375,1650,61.0
+Czech University of Life Sciences Prague,Czech Republic,8075,1050,1375,1725,1000,1175,1750,62.0
+Chaoyang University of Technology,Chinese Taipei,8050,1125,1500,1500,900,1475,1550,63.0
+Nanhua University Taiwan,Chinese Taipei,8050,1200,1250,1800,900,1475,1425,64.0
+University of Campinas,Brazil,8050,1050,1200,1575,950,1600,1675,65.0
+Universidad Tecnologica de Pereira,Colombia,8025,1050,1700,1500,900,1300,1575,66.0
+Universiti Malaysia Sabah (UMS),Malaysia,8025,1450,1525,1275,950,1325,1500,67.0
+National Chin-Yi University of Technology,Chinese Taipei,8000,1100,1475,1725,800,1250,1650,68.0
+Shinshu University,Japan,8000,1125,1450,1725,650,1350,1700,69.0
+Universidad De Antioquia,Colombia,8000,1225,1450,1350,900,1325,1750,70.0
+Princess Nourah Bint Abdulrahman University,Saudi Arabia,8000,1275,1450,1275,1000,1450,1550,71.0
+University Of California San Diego,USA,7975,1075,1500,1425,900,1500,1575,72.0
+Siberian Federal University,Russia,7975,1275,1500,1200,850,1625,1525,73.0
+National Taitung University,Chinese Taipei,7975,1200,1450,1425,850,1500,1550,74.0
+Suranaree University of Technology,Thailand,7975,1275,1375,1425,850,1450,1600,75.0
+Fundación Universidad del Norte Barranquilla,Colombia,7975,1225,1325,1725,950,1200,1550,76.0
+Universidad de Caldas,Colombia,7975,1100,1025,1800,900,1500,1650,77.0
+Tilburg University,Netherlands,7950,1000,1650,1725,1000,1325,1250,78.0
+Universitas Sebelas Maret,Indonesia,7950,1050,1475,1425,900,1375,1725,79.0
+Politecnico Di Milano,Italy,7950,725,1375,1800,850,1550,1650,80.0
+Universitas Islam Negeri Raden Intan Lampung,Indonesia,7925,1175,1700,1425,900,1425,1300,81.0
+Universidad de los Andes Colombia,Colombia,7925,1000,1500,1575,800,1450,1600,82.0
+King Mongkut 's University of Technology Thonburi,Thailand,7900,1050,1550,1425,650,1650,1575,83.0
+Universiti Tunku Abdul Rahman,Malaysia,7900,1175,1250,1500,900,1375,1700,84.0
+University of Szeged,Hungary,7900,1275,1250,1650,850,1450,1425,85.0
+Universidad Pontificia Bolivariana,Colombia,7900,1375,1200,1650,600,1525,1550,86.0
+Universidad Nacional Autónoma de México,Mexico,7900,1100,1150,1575,850,1500,1725,87.0
+Universidade do Minho,Portugal,7875,1100,1400,1725,800,1250,1600,88.0
+Washington University Saint Louis,USA,7875,1100,1400,1575,950,1375,1475,89.0
+Universidad El Bosque,Colombia,7850,1000,1700,1275,950,1450,1475,90.0
+Ozyegin University,Turkey,7850,975,1525,1425,800,1450,1675,91.0
+Universidad Rey Juan Carlos,Spain,7850,900,1475,1800,750,1350,1575,92.0
+National Cheng Kung University,Chinese Taipei,7850,1075,1475,1425,800,1550,1525,93.0
+"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",Brazil,7850,1150,1275,1650,950,1250,1575,94.0
+University of Zanjan,Iran,7850,1375,1125,1500,1000,1150,1700,95.0
+Chang Jung Christian University,Chinese Taipei,7825,975,1375,1650,550,1550,1725,96.0
+Universita degli Studi di Padova,Italy,7800,1125,1325,1650,750,1250,1700,97.0
+Universidad Autonoma De Yucatan,Mexico,7775,1250,1650,1275,850,1225,1525,98.0
+Erciyes University,Turkey,7775,1225,1400,1350,800,1425,1575,99.0
+Università degli Studi di Salerno,Italy,7750,1075,1650,1725,650,1175,1475,100.0
+Dhurakij Pundit University,Thailand,7750,1150,1425,1575,650,1425,1525,101.0
+Telkom University,Indonesia,7750,1125,1350,1425,800,1325,1725,102.0
+Siam University,Thailand,7750,875,1300,1425,800,1600,1750,103.0
+University of Kashan,Iran,7725,875,1875,1275,900,1425,1375,104.0
+OMNES EDUCATION,France,7725,575,1650,1800,850,1200,1650,105.0
+An-Najah National University,Palestine,7725,1075,1625,1125,950,1300,1650,106.0
+Yildiz Technical University,Turkey,7725,1025,1450,1275,900,1575,1500,107.0
+Ege University,Turkey,7725,1125,1300,1575,800,1425,1500,108.0
+Universiti Utara Malaysia,Malaysia,7725,1275,1100,1275,850,1625,1600,109.0
+Universiti Teknikal Malaysia Melaka,Malaysia,7700,1275,1475,1050,850,1475,1575,110.0
+Cyprus International University,Turkey,7700,1125,1350,1350,900,1550,1425,111.0
+Universitas Islam Indonesia,Indonesia,7700,1150,1325,1500,900,1325,1500,112.0
+Mae Fah Luang University,Thailand,7700,1125,1300,1425,850,1375,1625,113.0
+National Chung Hsing University,Chinese Taipei,7700,1200,1275,1725,900,975,1625,114.0
+Yeditepe University,Turkey,7700,1025,1225,1575,800,1500,1575,115.0
+Walailak University,Thailand,7700,1225,1225,1425,850,1600,1375,116.0
+Holy Spirit University of Kaslik (USEK),Lebanon,7675,975,1600,1650,700,1325,1425,117.0
+National Taipei University of Technology,Chinese Taipei,7675,1075,1425,1125,800,1650,1600,118.0
+University of Sharjah,United Arab Emirates,7675,1375,975,1500,1000,1175,1650,119.0
+Universitat De Girona,Spain,7650,875,1750,1575,600,1275,1575,120.0
+Maejo University,Thailand,7650,1250,1500,1200,650,1375,1675,121.0
+Ton Duc Thang University,Vietnam,7650,950,1475,1575,900,1250,1500,122.0
+D. Serikbayev East Kazakhstan technical university,Kazakhstan,7650,1250,1400,1200,800,1450,1550,123.0
+University of Babylon,Iraq,7650,1375,1400,1200,800,1325,1550,124.0
+Aksaray University,Turkey,7650,1200,1125,1575,700,1475,1575,125.0
+Università Degli Studi Gabriele D'Annunzio Chieti e Pescara,Italy,7650,1125,1075,1800,750,1150,1750,126.0
+Middle East Technical University,Turkey,7650,1325,1075,1200,850,1400,1800,127.0
+Universiti Malaysia Pahang,Malaysia,7650,1175,975,1425,900,1425,1750,128.0
+Universidad Miguel Hernandez,Spain,7625,1075,1675,1500,500,1500,1375,129.0
+Universidad EAFIT,Colombia,7625,850,1650,1575,650,1350,1550,130.0
+Masaryk University,Czech Republic,7625,950,1500,1350,750,1425,1650,131.0
+Mangalore University,India,7625,1300,1300,1200,900,1425,1500,132.0
+Trent University,Canada,7625,1100,1250,1650,750,1225,1650,133.0
+Gdansk University of Technology,Poland,7625,1175,1225,1725,450,1500,1550,134.0
+Glasgow Caledonian University,United Kingdom,7600,450,1650,1800,800,1650,1250,135.0
+Universidad de Oviedo,Spain,7600,1050,1550,1500,750,1175,1575,136.0
+Manipal Academy of Higher Education,India,7600,925,1475,1500,1000,1450,1250,137.0
+Universitas Padjadjaran,Indonesia,7600,1225,1000,1575,750,1375,1675,138.0
+Airlangga University,Indonesia,7600,1325,800,1350,850,1575,1700,139.0
+Perm National Research Polytechnic University,Russia,7575,1350,1725,1275,550,1375,1300,140.0
+Universidad Iberoamericana Puebla,Mexico,7575,900,1575,1575,850,1275,1400,141.0
+"ITESO, Universidad Jesuita de Guadalajara",Mexico,7575,950,1525,1800,850,1000,1450,142.0
+Institut Teknologi Sumatera,Indonesia,7575,1125,1525,1275,850,1350,1450,143.0
+Universidad Autónoma de Madrid,Spain,7575,1125,1450,1650,750,975,1625,144.0
+Mahasarakham University,Thailand,7575,1200,1350,1050,750,1475,1750,145.0
+Universitas Multimedia Nusantara,Indonesia,7575,1100,1350,1425,950,1275,1475,146.0
+San Jose State University,USA,7575,1000,1325,1500,1000,1225,1525,147.0
+Tunghai University,Chinese Taipei,7575,1325,1275,1275,800,1475,1425,148.0
+Universiti Teknologi Malaysia,Malaysia,7575,1200,1100,1425,550,1550,1750,149.0
+UiTM SHAH ALAM,Malaysia,7575,850,1100,1650,1000,1175,1800,150.0
+Qassim University,Saudi Arabia,7575,1050,1100,1650,1000,1200,1575,151.0
+Universidad Panamericana,Mexico,7550,1125,1575,1425,900,1125,1400,152.0
+Universitas Lampung,Indonesia,7550,1050,1475,1275,750,1275,1725,153.0
+"Muahmmad Nawaz Shareef University of Agriculture, Multan",Pakistan,7550,1200,1350,1275,850,1375,1500,154.0
+University of Mohaghegh Ardabili,Iran,7550,1250,1200,1350,850,1350,1550,155.0
+Al-Mustaqbal University College,Iraq,7525,1200,1375,1275,750,1575,1350,156.0
+Tzu Chi University,Chinese Taipei,7525,1275,1050,1575,850,1375,1400,157.0
+Rajamangala University of Technology Thanyaburi (RMUTT),Thailand,7500,1075,1425,1350,750,1400,1500,158.0
+American University in Cairo,Egypt,7500,875,1300,1575,650,1375,1725,159.0
+Modul University,Austria,7475,600,1750,1725,650,1650,1100,160.0
+University Of Anbar,Iraq,7475,1175,1700,750,800,1525,1525,161.0
+American University of Beirut (AUB),Lebanon,7475,1000,1450,1275,800,1375,1575,162.0
+Universidade Federal De Mato Grosso Do Sul,Brazil,7475,1050,1125,1425,850,1325,1700,163.0
+Fo Guang University,Chinese Taipei,7475,1125,1100,1650,850,1450,1300,164.0
+Universiti Tun Hussein Onn Malaysia,Malaysia,7475,1150,1025,1200,850,1550,1700,165.0
+Brawijaya University,Indonesia,7450,1000,1500,1200,750,1400,1600,166.0
+Alzahra University,Iran,7450,1000,1300,1425,600,1500,1625,167.0
+Universiti Sains Malaysia,Malaysia,7425,925,1475,1350,850,1350,1475,168.0
+Al Ain University,United Arab Emirates,7425,1250,1325,1500,800,1200,1350,169.0
+Universidad Icesi,Colombia,7400,950,1400,1500,650,1400,1500,170.0
+University of Phayao,Thailand,7400,1150,1375,1275,900,1375,1325,171.0
+Universidad de Sonora,Mexico,7400,1200,1250,1425,800,1375,1350,172.0
+Universität Bayreuth,Germany,7400,1175,850,1800,750,1400,1425,173.0
+Immanuel Kant Baltic Federal University,Russia,7375,1100,1600,1350,650,1375,1300,174.0
+Daffodil International University,Bangladesh,7375,1025,1475,1275,700,1325,1575,175.0
+Universiti Pendidikan Sultan Idris,Malaysia,7375,1225,1475,1050,700,1575,1350,176.0
+Universidade de Aveiro,Portugal,7350,900,1625,1575,650,975,1625,177.0
+S R M University (Institute of Science and Technology),India,7350,850,1275,1725,950,1325,1225,178.0
+National University of Sciences and Technology,Pakistan,7350,1100,1225,975,850,1400,1800,179.0
+De La Salle University - Dasmarinas,Philippines,7325,925,1525,1500,550,1275,1550,180.0
+Tra Vinh University,Vietnam,7325,1100,1250,1200,850,1650,1275,181.0
+Università di Trieste,Italy,7325,875,1225,1800,900,1100,1425,182.0
+Maynooth University,Ireland,7325,1075,1200,1650,900,1200,1300,183.0
+Universitas Sumatera Utara,Indonesia,7325,1175,1050,1500,850,1300,1450,184.0
+University of Passau,Germany,7300,900,1525,1575,700,1500,1100,185.0
+Universitat PolitÃ¨cnica de ValÃ¨ncia,Spain,7300,800,1500,1650,750,1025,1575,186.0
+Hasanuddin University,Indonesia,7300,1125,1450,1200,800,1325,1400,187.0
+Universidad CES,Colombia,7300,975,1425,1350,850,1200,1500,188.0
+Bartin University,Turkey,7300,1200,1150,1125,800,1475,1550,189.0
+Universita Politecnica delle Marche,Italy,7275,1125,1500,1275,900,1000,1475,190.0
+Pir Mehr Ali Shah Arid Agriculture University Rawalpindi,Pakistan,7275,1225,1500,900,850,1475,1325,191.0
+University of Milano-Bicocca,Italy,7275,625,1300,1800,850,1325,1375,192.0
+National Pingtung University,Chinese Taipei,7275,1050,1200,1200,600,1600,1625,193.0
+Universitas Muhammadiyah Yogyakarta,Indonesia,7250,1075,1650,1200,800,1200,1325,194.0
+Chettinad Academy of Research and Education,India,7225,1125,1550,975,750,1525,1300,195.0
+Kashan University of Medical Sciences and Health Services,Iran,7225,925,1425,1125,700,1575,1475,196.0
+Yogyakarta State University,Indonesia,7225,1150,1200,1350,750,1425,1350,197.0
+Izmir Institute of Technology,Turkey,7225,1125,925,1425,700,1500,1550,198.0
+Universitat Rovira i Virgili,Spain,7200,875,1350,1725,600,1100,1550,199.0
+National Institute of Technology Silchar,India,7200,1125,1250,1125,800,1500,1400,200.0
+Centro Universitário Facens,Brazil,7175,925,1625,1050,800,1350,1425,201.0
+Volgograd State University,Russia,7175,1100,1300,1200,650,1600,1325,202.0
+University of Navarra,Spain,7150,1050,1250,1725,750,1300,1075,203.0
+Universiti Malaysia Terengganu (UMT),Malaysia,7150,975,1075,1125,900,1425,1650,204.0
+Jordan University of Science and Technology,Jordan,7150,1350,950,1500,900,1225,1225,205.0
+University of Debrecen,Hungary,7150,975,825,1575,650,1650,1475,206.0
+Al-Zaytoonah University of Jordan (zuj),Jordan,7125,1100,1650,1050,850,1350,1125,207.0
+Sakarya University,Turkey,7125,1225,1250,1050,850,1450,1300,208.0
+Srinakharinwirot University,Thailand,7125,1050,1150,1275,850,1550,1250,209.0
+Universidad de Murcia,Spain,7100,700,1350,1650,900,1000,1500,210.0
+Arab American University,Palestine,7100,1075,1350,1125,850,1325,1375,211.0
+Al-Farabi Kazakh National University,Kazakhstan,7100,1125,1150,1200,700,1325,1600,212.0
+Universita degli Studi di Bari Aldo Moro,Italy,7100,875,1125,1500,950,1250,1400,213.0
+Universidad Autonoma Metropolitana,Mexico,7100,1050,1050,1575,800,1025,1600,214.0
+University of Peradeniya,Sri Lanka,7100,1250,1050,1125,750,1450,1475,215.0
+University of Agriculture Faisalabad,Pakistan,7100,1100,975,1275,650,1525,1575,216.0
+Kafrelsheikh University,Egypt,7075,725,1625,1275,850,1175,1425,217.0
+Universitas Sriwijaya,Indonesia,7075,1225,1450,1125,600,1275,1400,218.0
+Hungkuang University,Chinese Taipei,7075,825,1425,1275,850,1375,1325,219.0
+Jadara University,Jordan,7075,1250,1300,1125,850,1400,1150,220.0
+King Faisal University,Saudi Arabia,7075,1125,1250,1125,800,1275,1500,221.0
+Razi University Kermanshah,Iran,7075,1075,1125,975,950,1500,1450,222.0
+Ukrainian National Forestry University,Ukraine,7075,1100,1050,1275,700,1275,1675,223.0
+Universitas Sultan Ageng Tirtayasa,Indonesia,7050,875,1575,1050,800,1325,1425,224.0
+Irkutsk National Research Technical University,Russia,7050,1050,1525,900,650,1475,1450,225.0
+The University of Lahore,Pakistan,7050,850,1450,1050,900,1500,1300,226.0
+Universitas Teuku Umar,Indonesia,7050,1075,1225,1125,750,1450,1425,227.0
+De La Salle University Manila,Philippines,7050,800,1200,1575,650,1400,1425,228.0
+Universitas Muhammadiyah Malang,Indonesia,7025,1000,1600,1050,700,1275,1400,229.0
+Universidad de Bogota Jorge Tadeo Lozano,Colombia,7025,1150,1500,1050,650,1250,1425,230.0
+Universitas Syiah Kuala,Indonesia,7025,1100,1125,900,700,1600,1600,231.0
+University of Ioannina,Greece,7025,1075,1050,1800,750,1175,1175,232.0
+Ontario Tech University,Canada,7000,825,1575,1425,850,1000,1325,233.0
+Khwaja Fareed University of Engineering and Information Technology,Pakistan,7000,1275,1550,750,650,1425,1350,234.0
+Valaya Alongkorn Rajabhat University Under the Royal Patronage,Thailand,7000,1150,1475,975,800,1275,1325,235.0
+Universitas Halu Oleo,Indonesia,7000,925,1350,1350,800,1125,1450,236.0
+Voronezh State University,Russia,7000,950,1250,1350,650,1300,1500,237.0
+Eötvös Loránd University Budapest,Hungary,7000,775,875,1725,750,1350,1525,238.0
+Phetchaburi Rajabhat University,Thailand,7000,1125,875,1425,700,1325,1550,239.0
+Escuela Superior Politecnica del Litoral,Ecuador,7000,900,800,1425,900,1375,1600,240.0
+Instituto Politecnico De Viana Do Castelo,Portugal,6975,1100,1700,975,700,1200,1300,241.0
+Cairo University,Egypt,6975,1025,1100,1500,600,1150,1600,242.0
+University Lucian Blaga of Sibiu,Romania,6975,1150,675,1800,750,1450,1150,243.0
+Firat University,Turkey,6950,1175,1450,975,850,1225,1275,244.0
+I-Shou University,Chinese Taipei,6950,925,1375,1725,800,1025,1100,245.0
+Politeknik Merlimau Melaka,Malaysia,6950,975,1325,1575,500,1300,1275,246.0
+University of Kelaniya,Sri Lanka,6950,725,1300,1425,800,1200,1500,247.0
+Sri Sri University,India,6950,1250,1250,1050,850,1350,1200,248.0
+Bashkir State Agrarian University,Russia,6950,1200,1175,1050,700,1400,1425,249.0
+"Adam Mickiewicz University, Poznan",Poland,6950,975,950,1650,800,1225,1350,250.0
+Universidad Militar Nueva Granada,Colombia,6925,1175,1500,900,450,1375,1525,251.0
+University of Baghdad,Iraq,6925,1125,1350,1050,650,1375,1375,252.0
+Nitte (Deemed to be University),India,6925,1200,1275,900,650,1425,1475,253.0
+Universitas Medan Area,Indonesia,6925,925,1250,1200,750,1375,1425,254.0
+Universitas Pancasila,Indonesia,6925,1125,1225,1050,650,1325,1550,255.0
+Tokat Gaziosmanpasa University,Turkey,6900,1225,1550,1050,650,1250,1175,256.0
+Universita degli Studi di Milano La Statale,Italy,6900,1000,1450,1800,150,1250,1250,257.0
+University of Petra,Jordan,6900,850,1350,1275,1000,1025,1400,258.0
+Pontificia Universidad Javeriana-Bogota,Colombia,6900,875,1325,1275,750,1375,1300,259.0
+Universidade do Vale do Taquari - UNIVATES,Brazil,6900,1000,1275,1125,900,1250,1350,260.0
+Tarlac Agricultural University,Philippines,6900,1150,1250,900,700,1275,1625,261.0
+Ming Chi University of Technology,Chinese Taipei,6900,1250,1150,1575,600,1175,1150,262.0
+Universidad Iberoamericana Torreón,Mexico,6900,1300,1100,1275,1000,925,1300,263.0
+National Chiayi University,Chinese Taipei,6900,1225,1050,1125,850,1325,1325,264.0
+Slovak University of Agriculture in Nitra,Slovakia,6900,1075,900,1275,850,1250,1550,265.0
+University of Isfahan,Iran,6875,1350,1450,1050,700,1275,1050,266.0
+Universitas Islam Negeri Walisongo Semarang,Indonesia,6875,950,1425,825,800,1375,1500,267.0
+American University of the Middle East (AUM),Kuwait,6875,1000,975,1200,850,1450,1400,268.0
+Teesside University,United Kingdom,6850,425,1775,1500,800,1125,1225,269.0
+Centro Universitario do Rio Grande do Norte UNI-RN,Brazil,6850,925,1225,1425,800,1050,1425,270.0
+National Taipei University,Chinese Taipei,6850,925,1200,1200,850,1175,1500,271.0
+Università Degli Studi di Modena e Reggio Emilia,Italy,6850,975,1025,1425,300,1600,1525,272.0
+Asia University Taiwan,Chinese Taipei,6825,925,1275,1575,850,1025,1175,273.0
+Tecnologico de Monterrey,Mexico,6825,950,1175,1200,750,1175,1575,274.0
+Bilecik University,Turkey,6825,1025,1100,1275,400,1450,1575,275.0
+Hochschule Anhalt,Germany,6825,1075,1050,1350,700,1600,1050,276.0
+Costa Rica Institute of Technology,Costa Rica,6825,875,975,1575,700,1350,1350,277.0
+Naresuan University,Thailand,6825,950,975,1275,800,1200,1625,278.0
+Russian State Agrarian University - Moscow Timiryazev Agricultural Academy,Russia,6825,1300,550,1125,850,1450,1550,279.0
+Sunway University,Malaysia,6800,700,1400,1050,700,1500,1450,280.0
+British Columbia Institute of Technology,Canada,6800,675,1300,1425,850,1050,1500,281.0
+University of Sopron,Hungary,6800,900,1200,1200,800,1200,1500,282.0
+Universidad de Ciencias Aplicadas y Ambientales UDCA,Colombia,6800,975,800,1800,1000,950,1275,283.0
+Universidad Santo Tomas,Colombia,6775,750,1475,1350,750,1025,1425,284.0
+Universidade Federal de Vicosa - UFV,Brazil,6775,725,1425,1275,750,1050,1550,285.0
+Capital University Of Science And Technology,Pakistan,6775,1075,1375,975,550,1350,1450,286.0
+Babes Bolyai University,Romania,6775,975,1025,1125,450,1650,1550,287.0
+Trakya University,Turkey,6775,1200,950,1425,500,1375,1325,288.0
+Universita della Calabria,Italy,6750,1175,1125,1425,500,1200,1325,289.0
+Silpakorn University,Thailand,6725,925,1375,1050,550,1400,1425,290.0
+Acharya Nagarjuna University,India,6725,1000,1375,1050,700,1325,1275,291.0
+Providence University,Chinese Taipei,6725,1000,1175,975,850,1475,1250,292.0
+"George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures",Romania,6725,1200,1150,1575,300,1375,1125,293.0
+International University of Business Agriculture and Technology,Bangladesh,6725,1025,1125,1050,750,1425,1350,294.0
+Dokuz Eylul University,Turkey,6725,1125,950,1050,750,1525,1325,295.0
+Institución Universitaria Politecnico Grancolombiano,Colombia,6700,950,1425,1350,800,1100,1075,296.0
+University of Colombo,Sri Lanka,6700,750,1325,1050,700,1450,1425,297.0
+"Mehran University of Engineering & Technology, Jamshoro",Pakistan,6700,925,1200,1050,750,1275,1500,298.0
+Ferdowsi University of Mashhad,Iran,6700,875,1150,1200,650,1350,1475,299.0
+Imam Abdulrahman Bin Faisal University,Saudi Arabia,6700,1000,850,1500,900,1050,1400,300.0
+Universidad del Valle,Colombia,6700,1250,625,1575,450,1300,1500,301.0
+Universidad De Guadalajara,Mexico,6675,750,1375,975,750,1400,1425,302.0
+Universiti Malaysia Perlis,Malaysia,6675,900,1350,1275,550,1075,1525,303.0
+Universitas Sam Ratulangi,Indonesia,6675,675,1125,1350,650,1325,1550,304.0
+Kalasalingam Academy of Research and Education,India,6675,975,975,1350,650,1675,1050,305.0
+King Mongkuts Institute of Technology Ladkrabang,Thailand,6650,975,1225,1050,650,1400,1350,306.0
+Universitas Budi Luhur,Indonesia,6650,825,1150,1350,850,1325,1150,307.0
+Minin University,Russia,6650,700,1100,1575,600,1725,950,308.0
+Zonguldak Bulent Ecevit University,Turkey,6625,1050,1200,1275,700,1450,950,309.0
+Inonu University Malatya,Turkey,6600,1075,1350,750,750,1350,1325,310.0
+Thaksin University,Thailand,6600,975,1150,1125,900,1150,1300,311.0
+Universitas Terbuka,Indonesia,6600,1225,700,1275,650,1250,1500,312.0
+Universitas Negeri Surabaya,Indonesia,6575,875,1450,900,800,1250,1300,313.0
+Saveetha Institute of Medical and Technical Sciences,India,6575,825,1300,825,700,1400,1525,314.0
+National Taiwan University of Science and Technology,Chinese Taipei,6575,975,1100,1275,600,1325,1300,315.0
+Universitas Islam Negeri Sultan Thaha Saifuddin Jambi,Indonesia,6575,1125,1075,825,550,1400,1600,316.0
+South Eastern University of Sri Lanka,Sri Lanka,6575,1100,1000,1050,850,1350,1225,317.0
+Universidad de Valladolid,Spain,6550,850,1425,1200,650,1150,1275,318.0
+SSM Institute of Engineering and Technology,India,6550,950,1350,825,700,1425,1300,319.0
+Metropolia University of Applied Sciences,Finland,6550,575,1325,1425,900,1400,925,320.0
+Universidade Federal de Itajuba,Brazil,6550,925,1300,1200,800,1200,1125,321.0
+Università degli Studi di Firenze,Italy,6550,1025,650,1650,450,1250,1525,322.0
+Universitas Pendidikan Indonesia,Indonesia,6525,1075,1250,975,750,925,1550,323.0
+Universidad de Jaén,Spain,6525,875,1200,1200,800,1200,1250,324.0
+Universidad de Salamanca,Spain,6525,925,1150,975,650,1300,1525,325.0
+Phranakhon Si Ayutthaya Rajabhat University,Thailand,6525,850,1000,1350,550,1400,1375,326.0
+Universidade Federal do Triângulo Mineiro,Brazil,6525,1150,800,1425,600,950,1600,327.0
+Università degli Studi di Udine,Italy,6500,1050,625,1575,700,1225,1325,328.0
+Al-Furat Al-Awsat Technical University,Iraq,6475,975,1450,750,700,1575,1025,329.0
+Universidade Federal do Rio Grande do Sul - UFRGS,Brazil,6475,725,1300,1275,650,1325,1200,330.0
+Universidade de Vigo,Spain,6475,1025,1250,1275,700,1000,1225,331.0
+King Mongkut's University of Technology North Bangkok,Thailand,6475,700,1150,1200,650,1525,1250,332.0
+M. Auezov South Kazakhstan State University,Kazakhstan,6475,825,1125,1050,650,1350,1475,333.0
+Pontificia Universidad Javeriana Cali,Colombia,6475,900,1025,1200,700,1300,1350,334.0
+Bursa Uludag University,Turkey,6475,1250,625,1200,500,1225,1675,335.0
+Altai State University,Russia,6450,950,1250,1200,600,1300,1150,336.0
+"Chitkara University, Punjab",India,6450,875,1175,1275,900,1150,1075,337.0
+Universitas Riau,Indonesia,6450,1075,1125,975,750,1225,1300,338.0
+Universidad Del Cauca,Colombia,6450,850,825,1275,750,1375,1375,339.0
+Iscte - Instituto UniversitÃ¡rio de Lisboa,Portugal,6425,550,1450,1500,500,1100,1325,340.0
+The University of Faisalabad,Pakistan,6425,975,1350,1050,800,1100,1150,341.0
+University of Al-Qadisiyah,Iraq,6425,1025,1225,1500,850,1075,750,342.0
+Northeastern University,Thailand,6425,850,1125,1050,650,1200,1550,343.0
+Afyon Kocatepe University,Turkey,6425,875,925,1725,400,1525,975,344.0
+Hitit University,Turkey,6400,1000,1275,1350,550,1375,850,345.0
+Universitas Negeri Malang,Indonesia,6375,775,1675,825,700,1150,1250,346.0
+Benha University,Egypt,6375,825,1475,750,700,1125,1500,347.0
+Universidad De Castilla La Mancha,Spain,6375,900,1400,1200,650,1000,1225,348.0
+Universita IUAV di Venezia,Italy,6375,700,1375,1275,700,950,1375,349.0
+Universita degli Studi della Tuscia,Italy,6375,1175,1125,1350,350,1100,1275,350.0
+Universita degli Studi di Ferrara,Italy,6375,925,950,1575,550,1150,1225,351.0
+KaragandaTechnical University,Kazakhstan,6350,1000,1325,825,600,1125,1475,352.0
+Iqra University,Pakistan,6350,1050,1275,975,700,1200,1150,353.0
+Universitas Esa Unggul,Indonesia,6350,1025,1175,975,650,975,1550,354.0
+Pontificia Universidad Catolica De Chile,Chile,6350,725,1100,1275,700,1200,1350,355.0
+Universidade De Santiago De Compostela,Spain,6325,900,1300,1500,250,1000,1375,356.0
+Universitas Katolik Indonesia Atma Jaya,Indonesia,6325,1100,750,750,800,1575,1350,357.0
+Birzeit University,Palestine,6300,825,1625,1200,600,875,1175,358.0
+"California State University, Sacramento",USA,6300,875,1325,1350,600,1075,1075,359.0
+Mugla Sitki Kocman University,Turkey,6300,1025,1125,1125,450,1175,1400,360.0
+Senac University Center,Brazil,6300,875,875,1500,700,1050,1300,361.0
+Yasouj University,Iran,6300,1000,725,1050,750,1425,1350,362.0
+Università degli Studi di Perugia,Italy,6300,825,700,1350,700,1350,1375,363.0
+University of West Attica,Greece,6275,900,850,1425,400,1300,1400,364.0
+Universidad EIA,Colombia,6250,675,1150,1275,750,1100,1300,365.0
+Irkutsk State Agrarian University named after A.A. Ezhevsky,Russia,6250,1175,1125,675,450,1400,1425,366.0
+Cukurova University,Turkey,6250,1350,975,600,500,1475,1350,367.0
+Pascual Bravo University,Colombia,6225,1000,1050,1275,600,1300,1000,368.0
+State Islamic University Syarif Hidayatullah Jakarta,Indonesia,6225,1150,1000,1050,650,1150,1225,369.0
+Akdeniz University,Turkey,6225,1200,700,1200,500,1325,1300,370.0
+Instituto Tecnologico Metropolitano,Colombia,6200,800,1350,975,700,1350,1025,371.0
+Universitat de Vic - Universitat Central de Catalunya,Spain,6200,600,1250,1500,500,1450,900,372.0
+Universitat de Valencia,Spain,6200,550,1175,1275,700,1100,1400,373.0
+Escuela Superior Politécnica De Chimborazo,Ecuador,6200,875,950,1425,550,1225,1175,374.0
+Hasan Kalyoncu University,Turkey,6175,1100,1125,1125,550,1100,1175,375.0
+Tarbiat Modares University,Iran,6175,900,725,1350,800,1275,1125,376.0
+Tel Aviv University,Israel,6150,675,1350,1350,500,1275,1000,377.0
+Petrozavodsk State University,Russia,6150,875,1125,975,450,1375,1350,378.0
+Baskent University,Turkey,6150,925,950,1125,600,1425,1125,379.0
+National Institute of Development Administration,Thailand,6150,950,825,1200,700,1075,1400,380.0
+Ubon Ratchathani University,Thailand,6150,1225,675,900,700,1200,1450,381.0
+University of Bengkulu,Indonesia,6125,775,1425,975,600,800,1550,382.0
+University at Albany,USA,6125,825,1150,1275,800,875,1200,383.0
+Universitas Ahmad Dahlan,Indonesia,6125,925,1100,1200,850,800,1250,384.0
+Sumy State University,Ukraine,6125,975,1025,1050,650,1225,1200,385.0
+Hebrew University Of Jerusalem,Israel,6125,950,875,1050,650,1325,1275,386.0
+Al-Muthanna University,Iraq,6100,900,1200,900,600,1125,1375,387.0
+The Institute of Telecommunications and Informatics of Turkmenistan,Turkmenistan,6100,925,1100,1125,750,1125,1075,388.0
+The National University of Ostroh Academy,Ukraine,6100,1000,1025,1050,550,1350,1125,389.0
+Universiy of Kufa,Iraq,6075,1025,1150,1050,700,1025,1125,390.0
+Indian Institute of Technology Roorkee,India,6075,850,975,1050,700,1350,1150,391.0
+Universita Degli Studi Di Cagliari,Italy,6075,1000,650,1500,700,850,1375,392.0
+Mersin University,Turkey,6075,1100,600,1425,450,1100,1400,393.0
+Hashemite University,Jordan,6050,950,1250,975,750,950,1175,394.0
+Orel State University named after I.S.Turgenev,Russia,6050,850,1100,750,700,1325,1325,395.0
+University of Technology Sarawak,Malaysia,6050,725,1000,1050,850,1275,1150,396.0
+University of 17 Agustus 1945 Surabaya,Indonesia,6025,925,1500,1050,650,875,1025,397.0
+"Hazara University Mansehra, Khyber Pakhtunkhwa (KP) Pakistan",Pakistan,6000,1050,1275,675,600,1225,1175,398.0
+Universidade Federal De Sao Carlos,Brazil,6000,825,1150,1200,500,1175,1150,399.0
+Sohag University,Egypt,6000,1050,1125,900,600,1150,1175,400.0
+GITAM : Gandhi Institute of Technology and Management,India,6000,850,1075,1050,750,1025,1250,401.0
+Universidad de Zaragoza,Spain,6000,650,1050,975,500,1175,1650,402.0
+Yazd University,Iran,6000,775,900,900,650,1325,1450,403.0
+Süleyman Demirel University,Turkey,6000,1050,900,1425,500,1150,975,404.0
+Hakim Sabzevari University,Iran,6000,1025,850,825,700,1400,1200,405.0
+New Jersey City University,USA,5975,700,1325,1200,500,1275,975,406.0
+Cappadocia University,Turkey,5975,825,725,1350,500,1400,1175,407.0
+Ziauddin University,Pakistan,5950,1000,1475,600,800,1100,975,408.0
+Mutah University,Jordan,5950,1100,1275,1125,550,1100,800,409.0
+Arak University,Iran,5950,850,1225,750,750,1500,875,410.0
+University Of Information Technology And Management In Rzeszow,Poland,5950,900,1200,1350,250,1150,1100,411.0
+Istanbul Sabahattin Zaim University,Turkey,5950,700,875,1275,400,1350,1350,412.0
+Earlham College,USA,5950,1050,475,1425,550,1150,1300,413.0
+Universidad de Pamplona,Colombia,5925,1000,1325,1125,250,1125,1100,414.0
+The Catholic University of America,USA,5925,875,1075,975,750,1225,1025,415.0
+University of Lucerne,Switzerland,5925,875,1025,1425,550,1350,700,416.0
+Katholische Universitat Eichstatt-ingolstadt,Germany,5900,750,1500,1050,300,1250,1050,417.0
+Al-Kitab University,Iraq,5900,900,1300,525,750,1200,1225,418.0
+University of Malakand,Pakistan,5900,825,1150,975,700,850,1400,419.0
+Seinäjoki University of Applied Sciences,Finland,5900,800,925,1200,550,1150,1275,420.0
+National University of Uzbekistan named after Mirzo Ulugbek,Uzbekistan,5900,750,875,1200,550,1500,1025,421.0
+Moscow State University of Food Production,Russia,5875,900,825,750,650,1325,1425,422.0
+Kastamonu University,Turkey,5875,1200,450,975,600,1050,1600,423.0
+Universiti Selangor (Unisel),Malaysia,5875,1050,400,1050,700,1425,1250,424.0
+Universidade Positivo,Brazil,5850,675,1675,1425,750,550,775,425.0
+Universidad Tecnologica ECOTEC,Ecuador,5850,750,1100,1050,500,1175,1275,426.0
+Almaty University of Power Engineering and Telecommunications,Kazakhstan,5850,650,1075,975,650,1175,1325,427.0
+Perm State University,Russia,5850,825,1025,1125,550,1175,1150,428.0
+October 6 University,Egypt,5850,675,950,900,550,1375,1400,429.0
+The University of Texas Rio Grande Valley,USA,5850,725,950,1275,800,875,1225,430.0
+Rajamangala University of Technology Isan,Thailand,5850,950,650,900,550,1300,1500,431.0
+Alexandria University,Egypt,5825,825,1600,450,400,1200,1350,432.0
+Universidad Metropolitana Caracas,Venezuela,5825,950,900,1050,800,975,1150,433.0
+Yenepoya University,India,5825,1025,725,1050,850,1350,825,434.0
+Al Istiqlal University,Palestine,5825,1050,650,750,850,1250,1275,435.0
+Ain Shams University,Egypt,5800,675,1300,1275,350,875,1325,436.0
+University of Basrah,Iraq,5800,875,1250,750,700,1000,1225,437.0
+Islamia University of Bahawalpur,Pakistan,5800,850,1025,1200,600,1175,950,438.0
+Soochow University Taiwan,Chinese Taipei,5800,775,975,1350,600,1050,1050,439.0
+Centro Universitário da Fundação Hermínio Ometto - FHO,Brazil,5800,675,850,1275,900,750,1350,440.0
+Novosibirsk State University Of Economics And Management,Russia,5800,600,825,1575,800,850,1150,441.0
+Universidad Politécnica Estatal del Carchi,Ecuador,5800,1175,825,1050,500,1175,1075,442.0
+Ataturk University,Turkey,5800,1150,750,975,600,1225,1100,443.0
+National Dong Hwa University,Chinese Taipei,5800,1150,600,1425,200,975,1450,444.0
+Pontificia Universidade Catolica Do Rio De Janeiro Puc-rio,Brazil,5800,900,425,1050,650,1425,1350,445.0
+Universidad Tecnica Federico Santa Maria,Chile,5775,900,1425,675,650,875,1250,446.0
+Universidade Federal Fluminense,Brazil,5775,950,550,900,600,1375,1400,447.0
+Kazakh National Agrarian Research University,Kazakhstan,5750,875,1100,975,450,1175,1175,448.0
+Universidad de Alicante,Spain,5750,775,925,1350,700,750,1250,449.0
+Liepaja University,Latvia,5725,500,1200,1500,400,1200,925,450.0
+Sabanci University,Turkey,5725,1050,1125,1050,700,825,975,451.0
+Amirkabir University of Technology,Iran,5725,625,1050,675,650,1375,1350,452.0
+Universitas Katolik Parahyangan,Indonesia,5725,975,1050,975,700,1350,675,453.0
+Khon Kaen University,Thailand,5725,1250,1050,1050,600,975,800,454.0
+Kutahya Saglik Bilimleri University,Turkey,5725,925,750,825,700,1075,1450,455.0
+University of Arkansas at Little Rock,USA,5725,900,650,1200,950,1225,800,456.0
+Kutahya Dumlupinar University,Turkey,5725,1075,550,675,650,1375,1400,457.0
+University of Bahrain,Bahrain,5725,1000,500,975,950,625,1675,458.0
+Applied Science University,Bahrain,5700,975,1175,825,700,1100,925,459.0
+Federal University of Alfenas,Brazil,5700,850,975,1275,550,1000,1050,460.0
+Universidade De Passo Fundo,Brazil,5675,825,1025,1200,650,825,1150,461.0
+Damietta University,Egypt,5675,925,875,825,650,1000,1400,462.0
+Universidad Católica De Manizales,Colombia,5675,575,775,1125,700,1300,1200,463.0
+"University of Central Punjab,Lahore, Pakistan",Pakistan,5650,1100,1000,975,500,1000,1075,464.0
+Gaziantep University,Turkey,5650,900,875,1350,600,850,1075,465.0
+Rostov State Trasport University,Russia,5625,875,1150,750,600,1150,1100,466.0
+Sergo Ordzhonikidze Russian State University For Geological Prospecting (MGRI),Russia,5625,1000,1050,750,500,1450,875,467.0
+Hatyai University,Thailand,5625,1100,1000,900,550,775,1300,468.0
+Indian Institute of Management Indore,India,5625,700,950,1200,800,1150,825,469.0
+Universiti Malaysia Kelantan (UMK),Malaysia,5625,1025,500,1275,600,1200,1025,470.0
+Shahid Rajaee Teacher Training University,Iran,5600,725,1350,675,600,1025,1225,471.0
+Universitat Internacional de Catalunya,Spain,5600,625,1275,1650,450,700,900,472.0
+Piri Reis University,Turkey,5600,600,1200,1350,750,1075,625,473.0
+University of Warith Al-anbiyaa,Iraq,5600,1000,1075,825,650,1000,1050,474.0
+Uman National University of Horticulture,Ukraine,5575,700,1250,975,650,975,1025,475.0
+Semmelweis University,Hungary,5575,475,1075,1200,450,1600,775,476.0
+Pontificia Universidad CatÃ³lica Del PerÃº,Peru,5575,650,1025,1275,150,1025,1450,477.0
+Universitas Teknokrat Indonesia,Indonesia,5575,625,1000,975,600,1075,1300,478.0
+Gunadarma University,Indonesia,5575,825,800,750,550,1275,1375,479.0
+Hindustan Institute of Technology & Science,India,5550,650,1200,900,750,1100,950,480.0
+Pontifícia Universidade Católica de Campinas,Brazil,5550,1075,925,750,750,825,1225,481.0
+Universidad del Magdalena,Colombia,5550,1000,900,525,600,1100,1425,482.0
+Misr University for Science and Technology,Egypt,5525,800,1200,975,250,1150,1150,483.0
+Arak University of Technology,Iran,5525,825,1125,450,450,1425,1250,484.0
+Allama Iqbal Open University,Pakistan,5525,1175,1075,750,400,1050,1075,485.0
+Institute of Business Management,Pakistan,5500,450,1300,1050,900,1125,675,486.0
+Universiti Sultan Zainal Abidin,Malaysia,5500,1000,600,750,800,1200,1150,487.0
+Mustansiriyah University,Iraq,5475,950,1250,600,550,1150,975,488.0
+University of Okara,Pakistan,5475,1125,1200,675,600,950,925,489.0
+Sukkur IBA University,Pakistan,5475,800,1100,750,550,1225,1050,490.0
+University of Maribor,Slovenia,5475,575,975,1200,600,1000,1125,491.0
+Derzhavin Tambov State University,Russia,5475,600,875,900,550,1450,1100,492.0
+Lviv Polytechnic National University,Ukraine,5450,625,1075,825,450,950,1525,493.0
+"Guru Jambheshwar University of Science and Technology,Hisar, Haryana",India,5450,825,1075,825,750,1000,975,494.0
+Universidad Nacional Abierta y a Distancia Colombia,Colombia,5450,450,1025,1500,600,725,1150,495.0
+Tashkent State University Of Law,Uzbekistan,5450,1100,725,1050,600,1050,925,496.0
+Universita Degli Studi Di Bergamo,Italy,5425,525,1250,1350,450,950,900,497.0
+Universitas Pendidikan Muhammadiyah Sorong,Indonesia,5425,1050,1100,750,700,800,1025,498.0
+Universitas Islam Negeri Raden Fatah,Indonesia,5425,1000,950,525,800,1025,1125,499.0
+University of Ibagué,Colombia,5425,825,850,1350,600,1000,800,500.0
+University of Diyala,Iraq,5400,675,1275,675,650,1125,1000,501.0
+Al Aqsa University,Palestine,5400,650,1175,900,650,975,1050,502.0
+The Hang Seng University of Hong Kong,Hong Kong,5400,450,1150,900,650,1350,900,503.0
+Universidad del QuindÃ­o,Colombia,5400,825,975,750,650,1250,950,504.0
+Universidade Estadual de MaringÃ¡,Brazil,5400,900,750,750,750,1075,1175,505.0
+Universidad de CÃ³rdoba,Colombia,5400,950,525,1425,400,1100,1000,506.0
+Düzce University,Turkey,5375,1150,850,450,400,1175,1350,507.0
+Universidad Tecnica del Norte,Ecuador,5375,500,700,1125,600,1175,1275,508.0
+University of Samarra,Iraq,5350,650,1300,1125,500,825,950,509.0
+Benazir Bhutto Shaheed University of Technology & Skill Development,Pakistan,5350,950,1150,675,500,1225,850,510.0
+State University of Land Use Planning,Russia,5350,550,1075,900,250,1250,1325,511.0
+University of Management and Technology,Pakistan,5350,700,1050,750,400,1075,1375,512.0
+Universitas Bangka Belitung,Indonesia,5350,900,1000,675,550,1000,1225,513.0
+University of Thi-qar,Iraq,5350,800,850,675,550,1425,1050,514.0
+Gorgan University Of Agricultural Sciences And Natural Resources,Iran,5350,775,700,600,600,1275,1400,515.0
+Universiti Kebangsaan Malaysia,Malaysia,5350,725,625,1050,500,1150,1300,516.0
+Universidade Federal de Santa Maria,Brazil,5350,900,500,900,750,1075,1225,517.0
+TOBB University of Economy and Technology,Turkey,5350,800,400,1275,700,1225,950,518.0
+Ondokuz Mayis University,Turkey,5350,1150,375,1275,550,800,1200,519.0
+University of Sialkot,Pakistan,5325,875,1350,975,650,750,725,520.0
+Universidad de Manizales,Colombia,5325,725,1325,1050,400,1200,625,521.0
+Islamic university of Lebanon,Lebanon,5325,1025,1250,600,500,975,975,522.0
+Mindanao State University Iligan Institute of Technology,Philippines,5325,625,1100,675,250,1275,1400,523.0
+Universidad Pontificia Comillas,Spain,5325,850,900,1275,550,650,1100,524.0
+Babol Noshirvani University of Technology,Iran,5300,900,1225,1050,500,775,850,525.0
+Jamia Millia Islamia,India,5300,725,950,900,700,1025,1000,526.0
+Universidad Autonoma De San Luis Potosi,Mexico,5300,750,775,1050,300,900,1525,527.0
+Polytechnic of Mersing,Malaysia,5300,650,750,975,500,1300,1125,528.0
+Atyrau University,Kazakhstan,5300,850,675,825,700,1525,725,529.0
+University of Malta,Malta,5275,575,1300,1200,400,750,1050,530.0
+University of AlKafeel,Iraq,5275,775,1200,825,500,1050,925,531.0
+Al-Maarif University College,Iraq,5275,1075,1125,600,500,700,1275,532.0
+Universidad Catolica Andres Bello,Venezuela,5275,825,1050,1050,400,850,1100,533.0
+Western Kentucky University,USA,5275,600,1000,1500,450,875,850,534.0
+Aligarh Muslim University,India,5275,1000,975,675,500,1000,1125,535.0
+Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,Pakistan,5275,800,775,600,650,1250,1200,536.0
+Azarbaijan Shahid Madani University,Iran,5275,750,700,525,700,1100,1500,537.0
+University of Sri Jayewardenepura,Sri Lanka,5250,800,1000,825,450,975,1200,538.0
+Universitas Negeri Padang,Indonesia,5250,700,1000,900,550,750,1350,539.0
+Kakatiya University,India,5250,825,875,900,500,1175,975,540.0
+Indian Institute of Technology Bhubaneswar,India,5250,1200,850,975,700,850,675,541.0
+Universidad Santiago de Cali,Colombia,5225,575,1175,1275,950,575,675,542.0
+University of Hradec Kralove,Czech Republic,5225,725,875,1275,650,950,750,543.0
+National University of Science and Technology,Iraq,5225,800,825,975,650,1025,950,544.0
+University of Mosul,Iraq,5225,1050,775,675,700,1025,1000,545.0
+Universidad Publica De Navarra,Spain,5225,825,700,1200,400,850,1250,546.0
+Omsk State Agrarian University,Russia,5225,975,325,1050,400,1125,1350,547.0
+Budapest Business School,Hungary,5200,350,1400,975,700,700,1075,548.0
+Islamic University of Gaza,Palestine,5200,750,900,675,450,1100,1325,549.0
+Universitas 'Aisyiyah Yogyakarta,Indonesia,5200,875,700,825,450,1075,1275,550.0
+"Universidad Iberoamericana, A.C.",Mexico,5200,750,675,1275,800,900,800,551.0
+Estonian University of Life Sciences,Estonia,5200,775,300,1050,500,925,1650,552.0
+University of Kurdistan,Iran,5175,925,1075,525,500,1025,1125,553.0
+NOVA University Lisbon,Portugal,5175,825,975,1125,400,850,1000,554.0
+Instituto Politecnico do Cavado e do Ave,Portugal,5175,750,975,975,550,975,950,555.0
+Voronezh State University of Forestry and Technologies named after G.F. Morozov,Russia,5175,1075,975,825,400,800,1100,556.0
+Technische Universität Kaiserslautern (TUK),Germany,5175,575,875,1725,150,900,950,557.0
+Huachiew Chalermprakiet University,Thailand,5175,875,775,975,350,1200,1000,558.0
+University of Ruhuna,Sri Lanka,5175,950,675,900,500,1050,1100,559.0
+Mizoram University,India,5150,875,1150,825,550,950,800,560.0
+Russian State University of Tourism and Service,Russia,5150,1050,925,750,400,1025,1000,561.0
+Pontificia Universidade Catolica Do Rio Grande Do Sul Pucrs,Brazil,5150,700,875,1350,600,800,825,562.0
+Persian Gulf University,Iran,5150,875,775,675,600,1100,1125,563.0
+Universita Degli Studi Roma Tre,Italy,5125,575,1600,750,350,875,975,564.0
+Universite De Sousse,Tunisia,5125,800,1075,525,800,775,1150,565.0
+Tanta University,Egypt,5125,775,1050,525,550,1075,1150,566.0
+Adiyaman University,Turkey,5125,925,1025,975,400,750,1050,567.0
+University of Tehran,Iran,5125,750,775,900,550,1150,1000,568.0
+Juraj Dobrila University of Pula,Croatia,5125,875,700,1500,450,625,975,569.0
+University of Kerbala,Iraq,5125,850,625,600,500,1250,1300,570.0
+Universidad Autonoma Del Estado De Mexico,Mexico,5125,900,300,1125,700,1100,1000,571.0
+The Women University Multan,Pakistan,5100,1050,1250,375,450,1100,875,572.0
+Southern Utah University,USA,5100,600,1200,975,650,1075,600,573.0
+University of Oradea,Romania,5100,700,1050,1050,550,925,825,574.0
+Alrafidain University College,Iraq,5100,625,1025,900,650,850,1050,575.0
+University of Balochistan,Pakistan,5100,875,925,1050,550,1050,650,576.0
+Samara State Technical University,Russia,5100,675,550,1050,300,1000,1525,577.0
+Universidade Federal de Santa Catarina (UFSC),Brazil,5100,900,500,1350,300,900,1150,578.0
+Universidade Federal Do Ceara,Brazil,5100,1225,375,975,150,975,1400,579.0
+Universitas Pattimura,Indonesia,5075,825,1100,675,550,900,1025,580.0
+Universidade de Sorocaba,Brazil,5075,925,975,675,650,1100,750,581.0
+Universiti Sains Islam Malaysia,Malaysia,5075,875,875,750,300,1050,1225,582.0
+Atilim University,Turkey,5075,925,475,1350,550,900,875,583.0
+Global Humanistic University,Curacao,5050,725,875,1200,500,800,950,584.0
+National University of Science and Technology Misis (Moscow Institute of Steel and Alloys),Russia,5050,325,850,750,500,1325,1300,585.0
+Universidad de Costa Rica,Costa Rica,5050,600,650,1050,650,1175,925,586.0
+Tashkent State Agrarian University,Uzbekistan,5025,900,1125,300,650,1325,725,587.0
+Universidade Estadual De Londrina,Brazil,5025,875,975,975,450,900,850,588.0
+Eskisehir Technical University,Turkey,5025,750,775,1425,650,775,650,589.0
+Ahvaz Jundishapur University of Medical Sciences,Iran,5025,700,650,975,450,1275,975,590.0
+Universidad Católica De Oriente,Colombia,5025,975,625,825,650,1050,900,591.0
+University Oil Gas Ploiesti,Romania,5000,600,1100,600,600,950,1150,592.0
+Universidade do Vale do Itajai UNIVALI,Brazil,5000,975,900,1050,150,825,1100,593.0
+Islamic University,Iraq,5000,675,875,900,500,1275,775,594.0
+Universita Degli Studi Del Piemonte Orientale Amedeo Avogadro,Italy,5000,550,800,1050,450,1050,1100,595.0
+Azerbaijan University of Architecture and Construction,Azerbaijan,5000,775,750,825,650,800,1200,596.0
+Universitas Muhammadiyah Prof Dr Hamka,Indonesia,4975,700,800,750,450,1100,1175,597.0
+Selcuk University,Turkey,4975,950,500,1200,350,975,1000,598.0
+Universita Degli Studi Di Parma,Italy,4975,750,475,1050,450,1125,1125,599.0
+University of Wah,Pakistan,4950,650,1300,750,350,800,1100,600.0
+Universidad de San Buenaventura Cali,Colombia,4950,850,1125,825,700,950,500,601.0
+Universidad Tecnologica de Bolivar,Colombia,4950,775,1100,600,500,975,1000,602.0
+University of Sumer,Iraq,4950,775,950,750,300,1100,1075,603.0
+Sri Padmavati Mahila Visvavidyalayam (Women's University),India,4950,1025,775,375,300,1175,1300,604.0
+Voronezh State Technical University,Russia,4950,825,750,825,350,875,1325,605.0
+Telafer University,Iraq,4950,900,625,600,750,825,1250,606.0
+Universita Degli Studi Della Basilicata,Italy,4950,850,575,1125,300,875,1225,607.0
+Universitas Islam Sultan Agung,Indonesia,4950,1125,500,525,600,1225,975,608.0
+Bharathiar University,India,4925,800,900,525,500,1125,1075,609.0
+University Of Pannonia,Hungary,4925,825,775,1050,550,550,1175,610.0
+Saratov State University,Russia,4925,675,725,750,350,1200,1225,611.0
+Mendel University in Brno,Czech Republic,4925,875,475,900,700,800,1175,612.0
+Universidad de Vina Del Mar,Chile,4900,700,1125,1050,550,725,750,613.0
+West Ukrainian National University,Ukraine,4900,500,925,675,500,1050,1250,614.0
+Nakhon Si Thammarat Rajabhat University,Thailand,4900,850,900,1050,550,750,800,615.0
+Advanced Studies In Basic Sciences,Iran,4900,950,850,450,550,1325,775,616.0
+Prince of Songkla University,Thailand,4900,825,700,900,550,825,1100,617.0
+Al-Farahidi University,Iraq,4875,1000,1225,525,400,750,975,618.0
+Universidad Autonoma De Tamaulipas,Mexico,4875,800,825,600,550,725,1375,619.0
+Institut Teknologi Nasional Bandung,Indonesia,4850,575,575,675,450,1075,1500,620.0
+Niğde Ömer Halisdemir University,Turkey,4850,825,350,1275,450,1100,850,621.0
+Rubtsovsk Institute (branch) of Altai State University,Russia,4825,775,950,750,300,1150,900,622.0
+Canadian Memorial Chiropractic College,Canada,4825,700,925,1425,600,700,475,623.0
+Universitas Bosowa,Indonesia,4825,875,825,975,450,800,900,624.0
+Universidad Centroamericana Jose Simeon Canas,El Salvador,4825,925,750,975,500,700,975,625.0
+Universidad Hemisferios,Ecuador,4825,1150,575,750,400,900,1050,626.0
+North-eastern Federal University,Russia,4825,950,525,1050,200,300,1800,627.0
+Escuela Agricola Panamericana Zamorano,Honduras,4825,700,525,975,450,1250,925,628.0
+Bolu Abant Izzet Baysal University (BAIBU),Turkey,4825,825,450,900,550,875,1225,629.0
+University of Kirkuk,Iraq,4800,450,1075,450,650,1300,875,630.0
+Kto Karatay University,Turkey,4800,475,900,600,550,1425,850,631.0
+Don State Technical University,Russia,4800,825,875,525,400,1425,750,632.0
+Sharif University of Technology,Iran,4800,425,825,825,400,1200,1125,633.0
+Igdir Universitesi,Turkey,4800,750,750,825,400,950,1125,634.0
+University of Gdansk,Poland,4800,725,700,1050,550,475,1300,635.0
+Universidad Nacional Del Litoral,Argentina,4800,1075,700,750,400,900,975,636.0
+Burapha University,Thailand,4800,800,700,675,700,1100,825,637.0
+Sukhothai Thammathirat Open University,Thailand,4800,700,625,900,600,1075,900,638.0
+NED University of Engineering & Technology,Pakistan,4775,650,1025,450,600,1325,725,639.0
+Technical University Of KoÅ¡ice,Slovakia,4750,825,950,450,500,725,1300,640.0
+Universidade Estadual do Norte do Parana UENP,Brazil,4750,850,600,825,300,1000,1175,641.0
+Palacky University Olomouc,Czech Republic,4725,650,800,1050,550,675,1000,642.0
+Osmaniye Korkut Ata University,Turkey,4725,925,750,825,450,975,800,643.0
+Politeknik Sultan Idris Shah,Malaysia,4725,850,650,1050,500,800,875,644.0
+Universitas Dinamika,Indonesia,4725,925,550,975,750,700,825,645.0
+Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - CEFET/RJ,Brazil,4725,575,425,1125,450,950,1200,646.0
+Tver State Technical University,Russia,4700,925,975,675,200,900,1025,647.0
+IAIN Salatiga,Indonesia,4700,625,925,750,500,1225,675,648.0
+MIT World Peace University,India,4700,1000,675,900,400,625,1100,649.0
+Georgia College & State University,USA,4700,675,575,1050,700,825,875,650.0
+Bilkent University,Turkey,4700,875,275,1050,450,1325,725,651.0
+Universitas Negeri Medan,Indonesia,4675,675,950,825,550,825,850,652.0
+Middle East University (MEU),Jordan,4675,900,950,750,600,925,550,653.0
+Amman Arab University,Jordan,4675,950,900,675,450,650,1050,654.0
+Kyrgyz Turkish Manas University,Kyrgyzstan,4675,950,575,675,400,1025,1050,655.0
+Universitas Kristen Krida Wacana,Indonesia,4650,600,975,750,600,950,775,656.0
+Shaheed Benazir Bhutto Women University Peshawar Pakistan,Pakistan,4650,1050,925,525,200,1000,950,657.0
+Dow University of Health Sciences Karachi,Pakistan,4650,775,750,825,500,1075,725,658.0
+Abai Kazakh National Pedagogical University,Kazakhstan,4650,625,725,300,450,1425,1125,659.0
+Xavier University Ateneo De Cagayan,Philippines,4650,700,525,1050,550,900,925,660.0
+National Institute of Technology Hamirpur,India,4650,875,425,825,750,975,800,661.0
+University Politechnica of Bucharest,Romania,4625,650,1175,675,200,950,975,662.0
+Ateneo de Davao University,Philippines,4625,600,825,900,500,1050,750,663.0
+President University,Indonesia,4625,575,775,525,350,1200,1200,664.0
+Universitas Bakrie,Indonesia,4600,350,1075,525,600,1100,950,665.0
+Pibulsongkram Rajabhat University,Thailand,4600,800,800,525,500,1100,875,666.0
+Bashkir State University,Russia,4600,875,575,675,450,1100,925,667.0
+Maykop State Technological University,Russia,4575,650,1350,900,500,825,350,668.0
+Universitas Muhammadiyah Surakarta,Indonesia,4575,725,1050,750,350,925,775,669.0
+Sumy National Agrarian University,Ukraine,4575,1025,825,525,250,850,1100,670.0
+Universidad Autónoma de Querétaro,Mexico,4575,1050,600,675,350,1150,750,671.0
+Shahrood University of Technology,Iran,4550,775,750,750,650,1000,625,672.0
+Guru Ghasidas Vishwavidyalaya,India,4550,900,750,525,700,925,750,673.0
+Universidad Nacional de San Martin Argentina,Argentina,4550,950,550,525,200,1225,1100,674.0
+Institut Teknologi Telkom Jakarta,Indonesia,4525,775,925,975,400,1075,375,675.0
+Universitas Pembangunan Nasional Veteran Yogyakarta,Indonesia,4525,750,850,900,350,750,925,676.0
+Universitaria Agustiniana,Colombia,4525,675,700,1275,800,150,925,677.0
+Lahore Garrison Univeristy,Pakistan,4525,350,675,1200,600,675,1025,678.0
+Sari Agricultural Sciences And Natural Resources University,Iran,4525,975,425,375,600,875,1275,679.0
+Yala Rajabhat University,Thailand,4525,650,275,900,800,875,1025,680.0
+Universidad Catolica San Antonio De Murcia,Spain,4500,575,650,1350,400,625,900,681.0
+Universidad De San Carlos De Guatemala,Guatemala,4500,875,550,900,300,1100,775,682.0
+Universitas Negeri Manado,Indonesia,4500,1175,550,600,350,825,1000,683.0
+Integral University,India,4475,850,950,675,400,725,875,684.0
+Tomsk State University,Russia,4475,1150,400,600,300,800,1225,685.0
+Federal University of GoiÃ¡s,Brazil,4450,975,675,975,500,550,775,686.0
+Universitas Hang Tuah,Indonesia,4450,900,575,750,500,525,1200,687.0
+Valahia University of Targoviste,Romania,4425,700,1225,600,350,700,850,688.0
+NFC Institute of Engineering and Technology,Pakistan,4425,750,1050,450,500,900,775,689.0
+Saint-Petersburg State Forest Technical University named after S.M. Kirov,Russia,4425,950,650,525,400,925,975,690.0
+Kohat University of Science & Technology,Pakistan,4400,900,775,375,550,825,975,691.0
+Mykolas Romeris University,Lithuania,4400,825,750,450,250,950,1175,692.0
+Western Caspian University,Azerbaijan,4400,425,600,825,350,950,1250,693.0
+Universidad Católica Andrés Bello Extensión Guayana,Venezuela,4400,825,600,825,550,650,950,694.0
+Universidad Popular De La Chontalpa,Mexico,4400,1075,600,825,500,650,750,695.0
+Antalya Bilim Ãœniversitesi,Turkey,4400,925,225,825,550,950,925,696.0
+Universitas Udayana,Indonesia,4375,900,950,975,500,350,700,697.0
+Atma Jaya Yogyakarta University,Indonesia,4375,600,925,825,450,700,875,698.0
+Università di Foggia,Italy,4375,475,800,1575,400,100,1025,699.0
+Platov South-Russian State Polytechnic University (NPI),Russia,4375,650,775,1050,400,500,1000,700.0
+Colegio de Estudios Superiores de Administracion CESA,Colombia,4350,525,875,525,500,1100,825,701.0
+Universitas Tarumanagara,Indonesia,4350,825,450,1200,550,475,850,702.0
+National University,Ukraine,4325,525,850,675,500,975,800,703.0
+Universitas Maritim Raja Ali Haji (UMRAH),Indonesia,4325,650,725,675,450,1000,825,704.0
+King Khalid University,Saudi Arabia,4325,850,625,525,500,875,950,705.0
+Tambov State Technical University,Russia,4325,950,600,375,250,575,1575,706.0
+Indian Institute of Management Ahmedabad,India,4325,650,575,825,500,1300,475,707.0
+Government College Women University Faisalabad Pakistan,Pakistan,4300,650,1075,300,450,900,925,708.0
+Al-Nahrain University,Iraq,4300,650,900,450,400,950,950,709.0
+University of Al-Ameed,Iraq,4275,725,1175,675,500,600,600,710.0
+Al-Karkh University of Science,Iraq,4275,750,675,975,350,675,850,711.0
+Universidad de Cartagena,Colombia,4275,775,650,900,100,1200,650,712.0
+Universitas Surabaya,Indonesia,4275,625,575,975,550,900,650,713.0
+Universitas Kuningan,Indonesia,4275,975,575,750,450,675,850,714.0
+Tyumen Industrial University,Russia,4275,550,550,975,350,825,1025,715.0
+"University of Sargodha, Sargodha",Pakistan,4275,925,550,300,50,1150,1300,716.0
+Maranhao State University,Brazil,4275,750,500,750,300,800,1175,717.0
+Scuola Superiore Sant'anna,Italy,4275,500,400,1350,350,475,1200,718.0
+Manila Central University,Philippines,4275,825,375,1350,500,825,400,719.0
+Moscow State University of Civil Engineering,Russia,4250,975,675,300,300,650,1350,720.0
+POLITEKNIK KUCHING SARAWAK,Malaysia,4250,800,625,825,200,1000,800,721.0
+University of South Africa,South Africa,4225,950,525,975,200,850,725,722.0
+Middle Technical University (MTU),Iraq,4200,525,975,600,350,1150,600,723.0
+Universitas Trisakti,Indonesia,4200,650,675,750,450,525,1150,724.0
+Open University of Sri Lanka,Sri Lanka,4200,875,425,750,300,925,925,725.0
+Kazan State Medical University,Russia,4175,875,650,825,150,550,1125,726.0
+Kadir Has University,Turkey,4175,850,450,525,300,1200,850,727.0
+Marmara University,Turkey,4175,750,350,900,450,1050,675,728.0
+Tadeusz Kosciuszko Cracow University of Technology,Poland,4150,500,1100,750,500,600,700,729.0
+UIN Sultan Aji Muhammad Idris Samarinda,Indonesia,4150,600,1025,750,450,975,350,730.0
+Minhaj University Lahore,Pakistan,4150,800,900,600,550,825,475,731.0
+Northern Technical University,Iraq,4150,775,725,525,400,900,825,732.0
+Dicle University,Turkey,4150,925,250,900,350,1200,525,733.0
+Madonna University,USA,4100,800,1050,750,300,500,700,734.0
+"University of Engineering and Technology, Taxila",Pakistan,4100,750,650,450,200,1300,750,735.0
+"Universidad de Puerto Rico, MayagÃ¼ez Campus",USA,4100,275,550,1050,400,1175,650,736.0
+Bataan Peninsula State University,Philippines,4100,775,550,600,350,850,975,737.0
+Taif University,Saudi Arabia,4100,950,475,675,150,1175,675,738.0
+Polytechnical University of Bari,Italy,4075,200,1200,750,300,1100,525,739.0
+University of Mazandaran Babolsar,Iran,4075,700,1025,525,500,825,500,740.0
+Bayburt University,Turkey,4075,825,875,750,200,750,675,741.0
+Imam Al-Kadhum College,Iraq,4075,550,825,525,350,1225,600,742.0
+Kharazmi University,Iran,4075,725,800,825,450,1050,225,743.0
+King Edward Medical University,Pakistan,4075,700,550,450,550,900,925,744.0
+Dunarea de Jos University of Galati,Romania,4075,950,425,225,450,700,1325,745.0
+Ankara University,Turkey,4075,1025,250,600,400,800,1000,746.0
+Al-Mustafa University College,Iraq,4050,675,800,1050,250,450,825,747.0
+Karamanoglu Mehmetbey Universitesi,Turkey,4050,600,700,825,250,950,725,748.0
+Universidad AutÃ³noma Del Estado De Hidalgo,Mexico,4050,750,700,750,300,575,975,749.0
+Yanka Kupala State University of Grodno,Belarus,4050,625,600,825,100,1100,800,750.0
+Universidade Federal do Oeste do ParÃ¡ - Ufopa,Brazil,4025,800,700,375,550,425,1175,751.0
+Universidad de la Costa,Colombia,4025,350,650,825,450,500,1250,752.0
+Universidad La Gran Colombia,Colombia,4025,925,600,375,500,500,1125,753.0
+Rajamangala University of Technology Rattanakosin,Thailand,4025,550,450,825,400,1000,800,754.0
+University of Miskolc,Hungary,4025,750,450,1275,250,950,350,755.0
+Al-zahrawi University College,Iraq,4000,900,1225,450,250,550,625,756.0
+Universidad Autónoma de Chiapas,Mexico,4000,625,700,600,550,1375,150,757.0
+Gazi University,Turkey,4000,775,375,600,400,1075,775,758.0
+Tomsk State University of Architecture and Building,Russia,4000,775,375,825,500,775,750,759.0
+Technical Institution of Al-Shatrah,Iraq,3975,875,900,600,300,925,375,760.0
+Abbottabad University of Science and Technology,Pakistan,3950,800,1000,600,350,550,650,761.0
+Universidad Autónoma de Coahuila,Mexico,3950,525,750,450,150,925,1150,762.0
+Namal Institute,Pakistan,3925,800,1075,75,150,1100,725,763.0
+Rezekne Academy of Technologies,Latvia,3925,750,850,450,250,875,750,764.0
+Mazaya University College,Iraq,3925,350,650,600,450,900,975,765.0
+Air University Islamabad,Pakistan,3925,675,575,525,450,700,1000,766.0
+Al-Kut University College,Iraq,3925,775,575,525,450,725,875,767.0
+Universitas Muhammadiyah Parepare,Indonesia,3925,700,450,675,250,825,1025,768.0
+Ulyanovsk State Technical University,Russia,3925,850,375,450,200,900,1150,769.0
+University of Warmia and Mazury in Olsztyn,Poland,3925,875,225,750,250,725,1100,770.0
+South Valley University,Egypt,3900,1025,825,525,350,550,625,771.0
+Tashkent Institute of Irrigation and Agricultural Mechanization Engineers,Uzbekistan,3900,375,700,450,400,1125,850,772.0
+The Government Sadiq College Women University Bahawalpur,Pakistan,3900,575,600,975,500,1025,225,773.0
+Universidad Bernardo O'Higgins,Chile,3900,825,525,225,400,675,1250,774.0
+Aqaba University of Technology,Jordan,3900,825,525,450,550,950,600,775.0
+Universidade Federal de Sao Paulo,Brazil,3900,550,475,675,600,525,1075,776.0
+Penza State University,Russia,3900,975,400,600,350,600,975,777.0
+University of Sindh Jamshoro,Pakistan,3875,825,900,450,450,725,525,778.0
+BINUS University,Indonesia,3875,800,575,525,400,725,850,779.0
+Narxoz University,Kazakhstan,3875,700,400,525,200,1025,1025,780.0
+Payame Noor University of Ilam,Iran,3850,450,800,450,200,1125,825,781.0
+International Sakharov Environmental Institute of Belarusian State University,Belarus,3850,500,800,525,200,800,1025,782.0
+"University of Technology, Iraq",Iraq,3850,500,775,675,450,975,475,783.0
+Eskisehir Osmangazi University,Turkey,3850,700,450,525,250,825,1100,784.0
+University of Birjand,Iran,3825,350,700,525,400,950,900,785.0
+"Laucala Campus, University of the South Pacific",Fiji,3825,550,475,900,600,1075,225,786.0
+Sri Ramachandra Institute of Higher Education and Research (SRIHER),India,3825,925,425,600,500,825,550,787.0
+University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca,Romania,3825,575,375,1050,200,1175,450,788.0
+Women University Mardan,Pakistan,3800,700,725,525,550,650,650,789.0
+Bukhara State Medical Institute named after Abu Ali ibn Sino,Uzbekistan,3800,825,600,150,550,450,1225,790.0
+West University of Timisoara,Romania,3800,550,525,450,400,800,1075,791.0
+Andijan Machine-Building Institute,Uzbekistan,3800,500,500,375,350,850,1225,792.0
+Universidad Catolica Del Norte,Chile,3800,450,375,675,300,925,1075,793.0
+Wasit University,Iraq,3775,875,925,225,500,875,375,794.0
+Universidad Tecnológica de México - Campus Atizapán,Mexico,3775,600,225,1125,250,800,775,795.0
+Bingöl University,Turkey,3750,925,775,450,100,950,550,796.0
+Universidad Tecnologica de Panama,Panama,3750,975,150,525,450,400,1250,797.0
+Dijlah University College,Iraq,3725,575,1025,600,400,950,175,798.0
+National University of Pharmacy,Ukraine,3725,725,725,600,250,625,800,799.0
+Associação Caruaruense de Ensino Superior e Técnico - Asces-unita,Brazil,3725,700,625,375,400,775,850,800.0
+National Aviation University,Ukraine,3725,1050,600,600,150,950,375,801.0
+Cankaya University,Turkey,3725,550,525,600,300,825,925,802.0
+Can Tho University,Vietnam,3700,725,875,375,350,450,925,803.0
+Ariel University,Israel,3700,475,450,525,500,575,1175,804.0
+"National Institute of Fashion Technology, Bhubaneswar",India,3675,800,800,300,250,875,650,805.0
+Universidad del Valle de Mexico -  Campus Tlalpan,Mexico,3675,425,525,750,300,825,850,806.0
+The Ghazi University,Pakistan,3650,825,600,75,50,925,1175,807.0
+Uzhhorod National University,Ukraine,3650,725,350,450,300,975,850,808.0
+Kermanshah University of Technology,Iran,3625,750,875,525,550,500,425,809.0
+Prince Sattam bin Abdulaziz University,Saudi Arabia,3625,725,650,300,400,875,675,810.0
+Budapest Metropolitan University,Hungary,3625,525,350,1050,200,1250,250,811.0
+North-Caucasus Federal University,Russia,3625,725,225,525,350,825,975,812.0
+University of Sistan and Baluchestan,Iran,3600,650,900,300,250,825,675,813.0
+Ardakan University,Iran,3600,625,650,375,450,600,900,814.0
+"Northern University, Nowshera",Pakistan,3575,825,875,300,250,825,500,815.0
+Instituição Toledo de Ensino,Brazil,3575,550,775,675,350,475,750,816.0
+The Maria Grzegorzewska University,Poland,3575,550,425,825,250,700,825,817.0
+Institut Teknologi Telkom Purwokerto,Indonesia,3525,500,950,750,450,375,500,818.0
+Universidade Lusofona,Portugal,3525,275,800,750,300,425,975,819.0
+Al-Turath University College,Iraq,3525,675,700,600,450,625,475,820.0
+Zanjan University of Medical Sciences and Health Services,Iran,3525,475,575,525,550,800,600,821.0
+Ivan Franko National University of Lviv,Ukraine,3525,900,575,300,300,700,750,822.0
+Kharkiv National University of Radio Electronics,Ukraine,3500,350,875,600,150,675,850,823.0
+Universitas Wiraraja,Indonesia,3500,625,850,450,350,475,750,824.0
+Wroclaw Medical University,Poland,3475,800,1000,75,200,900,500,825.0
+Mykolayiv National Agrarian University,Ukraine,3475,675,525,300,450,775,750,826.0
+"El Colegio de México, A.C.",Mexico,3450,350,825,450,500,750,575,827.0
+"Islamic Azad University, Science and Research Branch (srbiau)",Iran,3450,725,725,525,400,450,625,828.0
+Universitas Internasional Semen Indonesia,Indonesia,3450,775,550,525,350,525,725,829.0
+Universidad Biblica De Las Americas,Venezuela,3425,600,775,375,350,675,650,830.0
+Zhubanov University,Kazakhstan,3425,325,650,1125,250,450,625,831.0
+Al-nisour University College,Iraq,3425,650,425,525,550,550,725,832.0
+Sawa University,Iraq,3400,350,650,525,400,800,675,833.0
+Usak University,Turkey,3400,975,650,300,200,525,750,834.0
+Arabian Gulf University,Bahrain,3375,500,900,525,350,300,800,835.0
+Institut Teknologi Telkom Surabaya,Indonesia,3375,925,825,75,200,650,700,836.0
+Institut Agama Islam Negeri Langsa,Indonesia,3375,750,575,450,300,850,450,837.0
+Universitas Kristen Indonesia,Indonesia,3350,400,800,375,200,775,800,838.0
+Politeknik Sultan Haji Ahmad Shah,Malaysia,3350,450,575,600,500,525,700,839.0
+Rubtsov industrial Institute (branch) of the Federal state budgetary educational institution of higher professional education,Russia,3325,250,800,825,250,600,600,840.0
+Manisa Celal Bayar University,Turkey,3325,550,800,1125,100,750,0,841.0
+Rider University,USA,3325,375,625,600,100,925,700,842.0
+Universidad Central de Venezuela,Venezuela,3325,450,550,375,350,750,850,843.0
+Denau Institute of Entrepreneurship and Pedagogy,Uzbekistan,3300,625,825,225,400,550,675,844.0
+Ukhta State Technical University,Russia,3275,375,700,900,150,725,425,845.0
+Al Amara University College,Iraq,3275,350,575,525,450,675,700,846.0
+Kyiv National University Of Technologies And Design,Ukraine,3250,625,850,75,450,550,700,847.0
+STIE Muhammadiyah Jakarta,Indonesia,3250,575,600,675,350,300,750,848.0
+Anadolu University,Turkey,3250,750,450,1125,250,450,225,849.0
+Universitat de les Illes Balears,Spain,3250,325,75,975,600,350,925,850.0
+Al-Ayen University,Iraq,3225,625,725,75,500,925,375,851.0
+Government College Women University Sialkot,Pakistan,3225,625,650,900,200,375,475,852.0
+KREA University,India,3225,300,175,450,450,1050,800,853.0
+Punyashlok Ahilyadevi Holkar Solapur University Solapur,India,3200,450,900,675,200,250,725,854.0
+Tomas Bata University,Czech Republic,3200,500,450,750,400,325,775,855.0
+Daneshpajoohan Pishro Higher Education Institute (DHEI),Iran,3175,475,700,150,0,775,1075,856.0
+Gebze Techinal University,Turkey,3175,650,300,0,0,1400,825,857.0
+"Islamia College Peshawar, Pakistan",Pakistan,3150,750,1050,450,100,350,450,858.0
+Universitas Pendidikan Ganesha,Indonesia,3150,475,825,375,400,425,650,859.0
+Tver State University,Russia,3150,775,625,225,400,300,825,860.0
+"Islamic Azad University, Najafabad Branch",Iran,3150,550,375,300,300,975,650,861.0
+Madenat Alelem University College,Iraq,3150,550,375,525,600,550,550,862.0
+Harokopio University Of Athens,Greece,3125,600,550,825,200,500,450,863.0
+Kherson State Maritime Academy,Ukraine,3125,425,375,975,100,575,675,864.0
+University of The State Fiscal Service of Ukraine,Ukraine,3100,975,100,375,50,600,1000,865.0
+Al-Esraa University College,Iraq,3075,400,700,375,750,475,375,866.0
+Sekolah Tinggi Manajemen Ipmi,Indonesia,3075,550,675,450,250,175,975,867.0
+Nakhon Ratchasima Rajabhat University,Thailand,3075,500,650,600,200,275,850,868.0
+Corvinus University of Budapest,Hungary,3075,300,350,1050,50,800,525,869.0
+Sivas Cumhuriyet University,Turkey,3075,850,225,600,200,725,475,870.0
+Université de Monastir,Tunisia,3050,350,700,450,250,550,750,871.0
+Zhetysu university named after I. Zhansugurov,Kazakhstan,3050,600,425,300,250,575,900,872.0
+Nakhon Pathom Rajabhat University,Thailand,3050,350,300,750,450,725,475,873.0
+Universita di Macerata (Universita degli Studi di Macerata),Italy,3025,125,775,750,50,550,775,874.0
+Al-Bayan University,Iraq,3025,500,675,300,200,600,750,875.0
+Azerbaijan State University of Economics (UNEC),Azerbaijan,3025,375,625,600,300,550,575,876.0
+Technical And Vocational University,Iran,3000,425,1075,375,300,325,500,877.0
+Universitas Islam Negeri Alauddin Makassar,Indonesia,3000,600,400,375,250,625,750,878.0
+Akfa University,Uzbekistan,2975,650,700,75,300,675,575,879.0
+Catholic University In Erbil,Iraq,2975,700,625,450,300,500,400,880.0
+Indus University,Pakistan,2950,450,1025,450,300,100,625,881.0
+Guru Nanak Dev Engineering College,India,2950,375,725,525,350,450,525,882.0
+Universitas Teknologi Sumbawa,Indonesia,2950,850,675,375,150,525,375,883.0
+Almaty Management University,Kazakhstan,2950,1000,450,300,50,550,600,884.0
+Shahid Beheshti Univresity,Iran,2925,750,350,375,600,400,450,885.0
+Politeknik Nilai,Malaysia,2925,725,225,450,200,500,825,886.0
+Universitas Katolik Widya Mandala Surabaya,Indonesia,2750,475,750,450,200,450,425,887.0
+Politeknik Banting Selangor (PBS),Malaysia,2750,550,225,675,250,725,325,888.0
+University of Kragujevac,Serbia,2725,200,650,525,350,425,575,889.0
+L.N. Gumilyov Eurasian National University,Kazakhstan,2725,700,175,0,150,650,1050,890.0
+University of Manouba,Tunisia,2675,575,450,375,100,375,800,891.0
+Songkhla Rajabhat University,Thailand,2675,650,325,450,250,475,525,892.0
+University of Education Winneba,Ghana,2650,350,750,450,250,400,450,893.0
+Gilgamesh Ahliya University,Iraq,2650,550,675,375,250,500,300,894.0
+Hawler Medical University,Iraq,2625,425,550,375,250,600,425,895.0
+Alsafwa University College,Iraq,2625,575,450,525,350,525,200,896.0
+Universidad Libre,Colombia,2600,225,725,900,0,325,425,897.0
+Institut Teknologi Kalimantan,Indonesia,2575,750,525,225,400,200,475,898.0
+Ion Mincu University of Architecture and Urbanism,Romania,2575,275,350,450,0,350,1150,899.0
+Alanya Alaaddin Keykubat University,Turkey,2550,300,875,675,150,350,200,900.0
+South Ural State University,Russia,2550,425,600,150,200,400,775,901.0
+"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais e Tecnologia do Sudeste de Minas Gerais",Brazil,2550,650,175,450,450,275,550,902.0
+National University of Water And Environmental Engineering,Ukraine,2525,450,675,225,0,525,650,903.0
+Ninevah University,Iraq,2525,525,625,150,300,700,225,904.0
+Erzurum Technical University,Turkey,2525,575,500,300,300,700,150,905.0
+Ibn Sina University of Medical and Pharmaceutical Sciences,Iraq,2500,250,650,375,250,375,600,906.0
+Universitas Muria Kudus,Indonesia,2500,550,425,450,250,250,575,907.0
+Meybod University,Iran,2500,600,400,225,200,700,375,908.0
+Alnoor University College,Iraq,2475,725,450,600,200,225,275,909.0
+Politeknik Teknologi Kimia Industri - Medan,Indonesia,2450,475,650,375,450,375,125,910.0
+Ufa State Aviation Technical University,Russia,2450,750,175,225,300,250,750,911.0
+Aga Khan University,Pakistan,2350,275,575,450,300,575,175,912.0
+"Bahauddin Zakariya University, Multan Pakistan",Pakistan,2350,550,450,300,0,550,500,913.0
+Medical University - Sofia,Bulgaria,2325,225,475,450,200,600,375,914.0
+Konya Teknik Ãœniversitesi,Turkey,2325,450,275,375,150,675,400,915.0
+Kilis 7 Aralk University,Turkey,2325,825,100,300,250,525,325,916.0
+University Of Applied Social Sciences,Lithuania,2300,50,600,300,200,850,300,917.0
+Al Hikma University College,Iraq,2250,575,900,375,50,250,100,918.0
+Edo State University Uzairue,Nigeria,2200,525,575,525,300,275,0,919.0
+K. N. Toosi University of Technology,Iran,2200,525,550,225,150,400,350,920.0
+University of Fallujah,Iraq,2175,300,150,525,300,200,700,921.0
+"International Islamic University, Islamabad",Pakistan,2175,975,125,225,200,350,300,922.0
+University of Kwazulu Natal,South Africa,2175,575,100,300,250,650,300,923.0
+North Ossetian State University,Russia,2150,400,500,225,100,425,500,924.0
+Cardinal Stefan Wyszynski University in Warsaw,Poland,2125,250,500,375,50,450,500,925.0
+Imam Ja'afar Al-Sadiq University,Iraq,2125,350,300,150,350,550,425,926.0
+Poltekkes Kemenkes Tanjungkarang,Indonesia,2100,550,375,150,250,125,650,927.0
+Tikrit University,Iraq,2075,475,400,225,200,650,125,928.0
+Al-Manara College of Medical Sciences,Iraq,2025,475,375,0,50,350,775,929.0
+Rajamangala University of Technology Krungthep,Thailand,2000,100,600,300,0,525,475,930.0
+Jabir ibn Hayyan Medical University,Iraq,2000,500,550,225,50,475,200,931.0
+Al-Hadi University Collage,Iraq,1975,450,450,375,250,275,175,932.0
+Al-Zahraa University for Women,Iraq,1950,625,125,75,250,475,400,933.0
+Universitas Ma Chung,Indonesia,1900,450,250,375,50,575,200,934.0
+Astrakhan State University,Russia,1825,375,325,0,0,550,575,935.0
+University of Information Technology and Communications,Iraq,1775,300,600,225,250,250,150,936.0
+Universidade do Estado do Amazonas,Brazil,1750,500,250,300,150,200,350,937.0
+Moscow University for the Humanities,Russia,1750,925,150,450,0,225,0,938.0
+North-west Institute of Management of the Russian Presidential Academy of National Economy and Public Administration,Russia,1725,350,225,75,200,550,325,939.0
+Bilad Al Rafidain University College,Iraq,1675,450,350,225,50,350,250,940.0
+Universitas Al Azhar Indonesia,Indonesia,1600,75,500,75,0,125,825,941.0
+Al-Qasim Green University,Iraq,1600,250,275,0,100,150,825,942.0
+"Central University Of Technology, Free State",South Africa,1450,50,425,225,100,375,275,943.0
+Universitas Mataram,Indonesia,1450,200,250,75,100,425,400,944.0
+Alrasheed University,Iraq,1375,350,125,225,0,525,150,945.0
+Green International University,Pakistan,1325,325,425,0,50,275,250,946.0
+Faculdade Santo Agostinho (Unidade Itabuna-Bahia),Brazil,1225,450,100,225,250,200,0,947.0
+Universitas Nusa Mandiri,Indonesia,1200,225,200,225,150,0,400,948.0
+Sekolah Tinggi Ilmu Ekonomi Kesuma Negara,Indonesia,1100,0,625,75,0,400,0,949.0
+"Tecnológico Nacional de México, Campus Hermosillo",Mexico,1075,350,0,75,50,200,400,950.0
+Universitas Cokroaminoto Palopo,Indonesia,875,100,350,0,0,325,100,951.0
+Universidad Francisco de Paula Santander,Colombia,775,775,0,0,0,0,0,952.0
+University of Al-hamdaniya,Iraq,600,50,50,0,0,0,500,953.0
+Basrah University College,Iraq,400,100,0,0,0,275,25,954.0
+STIE Indonesia Banking School,Indonesia,400,250,0,0,50,0,100,955.0
+Universitas Harapan Medan,Indonesia,300,200,0,0,100,0,0,956.0

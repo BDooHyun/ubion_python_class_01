@@ -1,0 +1,953 @@
+﻿Rank,Country,University,P,P(top 50%),PP(top 50%)
+1,United States,Harvard Univ,33188,22140,66.7
+2,China,Shanghai Jiao Tong Univ,22367,11427,51.1
+3,Canada,Univ Toronto,22149,12950,58.5
+4,China,Zhejiang Univ,22100,11429,51.7
+5,China,Tsinghua Univ,18404,10403,56.5
+6,United States,Univ Michigan,18203,11122,61.1
+7,United States,Johns Hopkins Univ,16902,10447,61.8
+8,Brazil,Univ São Paulo,16846,7407,44.0
+9,China,Peking Univ,16171,8594,53.1
+10,South Korea,Seoul Natl Univ,15969,7580,47.5
+11,United States,Stanford Univ,15543,10535,67.8
+12,China,Sichuan Univ,14792,6922,46.8
+13,China,Huazhong Univ Sci & Technol,14745,7802,52.9
+14,United Kingdom,Univ Oxford,14698,9525,64.8
+15,Japan,Univ Tokyo,14602,7060,48.4
+16,United States,Univ Washington - Seattle,14403,8978,62.3
+17,China,Fudan Univ,14337,7382,51.5
+18,United Kingdom,Univ Coll London,14256,9010,63.2
+19,China,Jilin Univ,13891,6220,44.8
+20,China,Xi'an Jiaotong Univ,13648,6903,50.6
+21,China,Shandong Univ,13531,6511,48.1
+22,United States,Univ California - Los Angeles,13480,8306,61.6
+23,China,Sun Yat-sen Univ,13429,7093,52.8
+24,United States,Univ Penn,13215,8268,62.6
+25,United Kingdom,Univ Cambridge,13154,8429,64.1
+26,Canada,Univ British Columbia,12594,7320,58.1
+27,China,Harbin Inst Technol,12555,6426,51.2
+28,United States,Univ Wisconsin - Madison,12401,7356,59.3
+29,United States,Univ Minnesota - Twin Cities,12380,7058,57.0
+30,Australia,Univ Melbourne,12307,6986,56.8
+31,Denmark,Univ Copenhagen,12277,7001,57.0
+32,Australia,Univ Sydney,12242,6879,56.2
+33,United States,Columbia Univ,12138,7653,63.0
+34,United States,Ohio State Univ,12107,6802,56.2
+35,China,Cent S Univ,12041,6034,50.1
+36,Australia,Univ Queensland,11997,6889,57.4
+37,United States,Univ California - San Diego,11959,7498,62.7
+38,Singapore,Natl Univ Singapore,11929,7050,59.1
+39,United States,Cornell Univ,11818,7311,61.9
+40,United States,Univ Pittsburgh,11722,6944,59.2
+41,United Kingdom,Imperial Coll London,11584,7324,63.2
+42,United States,Duke Univ,11332,6978,61.6
+43,United States,Univ California - Berkeley,11223,7503,66.9
+44,China,Nanjing Univ,11213,6045,53.9
+45,Japan,Kyoto Univ,11196,5118,45.7
+46,United States,Yale Univ,11160,7196,64.5
+47,United States,Univ Florida,11133,5773,51.9
+48,United States,Penn State Univ,11107,6302,56.7
+49,Canada,McGill Univ,11032,6262,56.8
+50,South Korea,Yonsei Univ,10805,4915,45.5
+51,China,Wuhan Univ,10637,5544,52.1
+52,Belgium,Katholieke Univ Leuven,10636,6300,59.2
+53,United States,Northwestern Univ,10529,6658,63.2
+54,United States,Univ California - Davis,10409,5915,56.8
+55,Australia,Univ New S Wales,10365,5949,57.4
+56,Canada,Univ Alberta,10360,5482,52.9
+57,United States,MIT,10358,7203,69.5
+58,United States,Univ N Carolina - Chapel Hill,10311,6234,60.5
+59,China,Tianjin Univ,10270,5402,52.6
+60,United States,Case West Reserve Univ,10124,5620,55.5
+61,Belgium,Ghent Univ,10009,5606,56.0
+62,United States,Univ Illinois - Urbana-Champaign,9934,5736,57.7
+63,United States,Univ California - San Francisco,9810,6336,64.6
+64,United States,Texas A&M Univ - College Stn,9732,5169,53.1
+65,Australia,Monash Univ,9675,5487,56.7
+66,Singapore,Nanyang Technol Univ,9643,5866,60.8
+67,China,Tongji Univ,9636,4842,50.2
+68,China,Univ Sci & Technol China,9627,5313,55.2
+69,United Kingdom,Univ Manchester,9556,5735,60.0
+70,United States,Univ Texas - Austin,9524,5799,60.9
+71,Taiwan,Natl Taiwan Univ,9395,4492,47.8
+72,Netherlands,Utrecht Univ,9202,5663,61.5
+73,Switzerland,ETH Zurich,9152,5962,65.2
+74,Italy,Sapienza Univ Rome,9034,4576,50.6
+75,China,Southeast Univ,8988,4337,48.3
+76,United States,Univ Texas - Hlth Sci Ctr - Houston,8949,5404,60.4
+77,Israel,Tel Aviv Univ,8943,4311,48.2
+78,Japan,Tohoku Univ,8834,3915,44.3
+79,Netherlands,Univ Amsterdam,8826,5404,61.2
+80,United States,NYU,8776,5312,60.5
+81,United States,Washington Univ St Louis,8641,5435,62.9
+82,France,Sorbonne Univ,8604,4969,57.8
+83,Japan,Osaka Univ,8569,3793,44.3
+84,China,S China Univ Technol,8548,4732,55.4
+85,United States,Purdue Univ - W Lafayette,8531,4733,55.5
+86,South Korea,Sungkyunkwan Univ,8406,3911,46.5
+87,China,Beihang Univ,8388,4217,50.3
+88,China,Soochow Univ,8191,4219,51.5
+89,United States,Rutgers Univ,8183,4485,54.8
+90,United States,Univ South California,8180,4760,58.2
+91,China,Dalian Univ Technol,8178,4179,51.1
+92,Sweden,Karolinska Inst,8152,4749,58.3
+93,United States,Vanderbilt Univ,8143,4873,59.8
+94,Sweden,Lund Univ,7980,4404,55.2
+95,Switzerland,Univ Zurich,7893,4616,58.5
+96,Netherlands,Univ Groningen,7822,4631,59.2
+97,South Korea,Korea Univ,7783,3482,44.7
+98,United Kingdom,King's Coll London,7732,4785,61.9
+99,Germany,Heidelberg Univ,7718,4331,56.1
+100,United States,Emory Univ,7708,4598,59.7
+101,Germany,Tech Univ Munich,7603,4347,57.2
+102,United States,Univ Chicago,7543,4812,63.8
+103,China,Univ Chinese Acad Sci,7471,3956,53.0
+104,Italy,Univ Padova,7424,3990,53.7
+105,Finland,Univ Helsinki,7357,3933,53.5
+106,Germany,Ludwig-Maximilians Univ München,7343,4176,56.9
+107,United Kingdom,Univ Edinburgh,7329,4389,59.9
+108,Mexico,Natl Auto Univ Mexico,7318,2783,38.0
+109,United States,Michigan State Univ,7276,3977,54.7
+110,Canada,Univ Montréal,7211,3739,51.8
+111,China,Univ Hong Kong,7202,3960,55.0
+112,Malaysia,Univ Malaya,7162,3293,46.0
+113,Italy,Univ Bologna,7123,3630,51.0
+114,Netherlands,Vrije Univ Amsterdam,7040,4276,60.7
+115,Norway,Univ Oslo,7016,3862,55.0
+116,Sweden,Uppsala Univ,7014,3794,54.1
+117,United States,Univ Utah,6980,3892,55.8
+118,United States,Univ Maryland - College Park,6976,4162,59.7
+119,Denmark,Aarhus Univ,6925,3880,56.0
+120,China,Xiamen Univ,6912,3586,51.9
+121,Netherlands,Erasmus Univ Rotterdam,6811,4124,60.5
+122,Italy,Univ Milan,6807,3540,52.0
+123,Japan,Kyushu Univ,6792,2825,41.6
+124,Portugal,Univ Lisboa,6775,3418,50.5
+125,Netherlands,Radboud Univ,6770,4013,59.3
+126,United States,Univ Arizona,6709,3674,54.8
+127,South Korea,Korea Adv Inst Sci & Technol,6633,3503,52.8
+128,Canada,Univ Calgary,6602,3560,53.9
+129,United States,Georgia Inst Technol,6579,3873,58.9
+130,France,Aix-Marseille Univ,6544,3429,52.4
+131,United States,Univ Tennessee - Knoxville,6492,3442,53.0
+132,Canada,West Univ,6482,3415,52.7
+133,Japan,Hokkaido Univ,6470,2676,41.4
+134,United Kingdom,Univ Nottingham,6456,3712,57.5
+135,Netherlands,Leiden Univ,6440,3915,60.8
+136,China,Northwestern Polytech Univ,6428,3285,51.1
+137,China,Chongqing Univ,6367,3177,49.9
+138,Brazil,Univ Estadual Paulista,6325,2590,40.9
+139,China,Capital Med Univ,6322,2648,41.9
+140,Canada,Univ Ottawa,6307,3372,53.5
+141,Japan,Nagoya Univ,6294,2830,45.0
+142,United States,Univ Cincinnati,6290,3508,55.8
+143,Saudi Arabia,King Saud Univ,6284,2478,39.4
+144,United States,N Carolina State Univ,6281,3267,52.0
+145,Canada,McMaster Univ,6261,3422,54.7
+146,United States,Univ California - Irvine,6232,3681,59.1
+147,China,Beijing Inst Technol,6228,3089,49.6
+148,United States,Arizona State Univ,6223,3498,56.2
+149,United Kingdom,Univ Bristol,6195,3810,61.5
+150,China,Peking Union Med Coll,6151,2894,47.0
+151,China,Univ Electron Sci & Technol China,6119,2871,46.9
+152,United States,Boston Univ,6093,3616,59.3
+153,Spain,Univ Barcelona,6083,3273,53.8
+154,United Kingdom,Univ Southampton,6059,3545,58.5
+155,South Korea,Hanyang Univ,6047,2565,42.4
+156,Iran,Univ Tehran,6032,2852,47.3
+157,Serbia,Univ Belgrade,6000,2267,37.8
+158,United States,Univ Iowa,5986,3297,55.1
+159,Portugal,Univ Porto,5983,3132,52.4
+160,United States,Univ Colorado - Denver,5922,3347,56.5
+161,China,E China Univ Sci & Technol,5875,2972,50.6
+162,Germany,RWTH Aachen Univ,5849,3156,54.0
+163,Canada,Univ Waterloo,5817,3106,53.4
+164,China,Nanjing Med Univ,5813,2898,49.9
+165,Germany,Friedrich-Alexander-Univ Erlangen-Nürnberg,5798,3122,53.8
+166,Australia,Univ West Australia,5776,3146,54.5
+167,United States,Virginia Tech,5757,2995,52.0
+168,Italy,Univ Naples Federico II,5751,3118,54.2
+169,China,Univ Sci & Technol Beijing,5703,2829,49.6
+170,United States,Univ Virginia,5703,3334,58.5
+171,China,Zhengzhou Univ,5682,2535,44.6
+172,China,Jiangsu Univ,5674,2638,46.5
+173,United Kingdom,Univ Sheffield,5669,3306,58.3
+174,Australia,Univ Adelaide,5662,3201,56.5
+175,China,Lanzhou Univ,5650,2989,52.9
+176,China,Nankai Univ,5644,3151,55.8
+177,United States,Univ Colorado - Boulder,5635,3488,61.9
+178,Denmark,Tech Univ Denmark,5631,3365,59.8
+179,Czech Republic,Charles Univ,5623,2368,42.1
+180,China,Chinese Univ Hong Kong,5603,3226,57.6
+181,Germany,Univ Hamburg,5568,3043,54.7
+182,United States,Univ Illinois - Chicago,5563,2995,53.8
+183,Brazil,Univ Campinas,5562,2550,45.9
+184,United Kingdom,Univ Birmingham,5523,3206,58.1
+185,Switzerland,Ecole Polytech Féd Lausanne,5504,3598,65.4
+186,United States,Univ Georgia - Athens,5478,2805,51.2
+187,Israel,Hebrew Univ Jerusalem,5468,2821,51.6
+188,Taiwan,Natl Cheng Kung Univ,5464,2373,43.4
+189,China,Hunan Univ,5451,3100,56.9
+190,Switzerland,Univ Bern,5401,3070,56.8
+191,United Kingdom,Univ Leeds,5378,3207,59.6
+192,Brazil,Fed Univ Rio Grande do Sul,5372,2357,43.9
+193,United States,Univ Connecticut,5365,2917,54.4
+194,Germany,Karlsruhe Inst Technol,5343,2923,54.7
+195,New Zealand,Univ Auckland,5334,2799,52.5
+196,China,Beijing Normal Univ,5322,2681,50.4
+197,South Korea,Kyung Hee Univ,5288,2268,42.9
+198,Netherlands,Delft Univ Technol,5284,3130,59.2
+199,Germany,Freie Univ Berlin,5229,2867,54.8
+200,United States,Icahn Sch Med - Mt Sinai,5216,3158,60.5
+201,United States,Princeton Univ,5215,3620,69.4
+202,China,China Agr Univ,5203,2739,52.6
+203,United States,Caltech,5194,3548,68.3
+204,United States,Iowa State Univ,5172,2721,52.6
+205,Australia,Australian Natl Univ,5165,2942,56.9
+206,Spain,Complutense Univ Madrid,5139,2441,47.5
+207,United States,Univ Alabama - Birmingham,5124,2887,56.3
+208,United States,Univ Miami,5113,2808,54.9
+209,Sweden,Univ Gothenburg,5105,2792,54.7
+210,Netherlands,Wageningen Univ & Res,5093,3062,60.1
+211,Germany,Eberhard Karls Univ Tübingen,5053,2760,54.6
+212,Spain,Univ Aut Barcelona,5032,2634,52.3
+213,United States,Univ Kentucky,5022,2617,52.1
+214,China,Northeastern Univ,5012,2409,48.1
+215,United States,Brown Univ,5003,2963,59.2
+216,France,Claude Bernard Lyon 1 Univ,4986,2812,56.4
+217,Norway,Norwegian Univ Sci & Technol,4952,2693,54.4
+218,Israel,Technion - Israel Inst Technol,4916,2476,50.4
+219,Italy,Univ Florence,4905,2546,51.9
+220,China,Hong Kong Polytech Univ,4878,2820,57.8
+221,Germany,Univ Bonn,4865,2752,56.6
+222,Germany,Georg-August-Univ Göttingen,4851,2817,58.1
+223,Germany,Univ Freiburg,4843,2770,57.2
+224,China,China Univ Geosci,4843,2395,49.5
+225,Switzerland,Univ Geneva,4815,2836,58.9
+226,China,Jiangnan Univ,4807,2314,48.1
+227,Germany,Tech Univ Dresden,4798,2566,53.5
+228,Saudi Arabia,King Abdulaziz Univ,4792,2315,48.3
+229,Brazil,Univ Fed Rio de Janeiro,4781,2070,43.3
+230,Italy,Univ Turin,4779,2414,50.5
+231,Taiwan,Chang Gung Univ,4749,2144,45.2
+232,China,Xidian Univ,4746,2393,50.4
+233,United States,Indiana Univ - Purdue Univ Indianapolis,4731,2514,53.1
+234,Germany,Humboldt Univ Berlin,4724,2613,55.3
+235,Germany,Univ Münster,4721,2619,55.5
+236,China,Nanjing Agr Univ,4717,2430,51.5
+237,France,Univ Toulouse III - Paul Sabatier,4692,2635,56.2
+238,South Korea,Pusan Natl Univ,4673,1857,39.7
+239,Japan,Tokyo Inst Technol,4668,2027,43.4
+240,United States,Baylor Coll Med,4667,2782,59.6
+241,Switzerland,Univ Basel,4652,2807,60.4
+242,United Kingdom,Univ Glasgow,4622,2799,60.6
+243,Netherlands,Maastricht Univ,4618,2681,58.0
+244,United Kingdom,Univ Liverpool,4613,2682,58.1
+245,India,Indian Inst Sci,4589,2117,46.1
+246,South Korea,Univ Ulsan,4572,2213,48.4
+247,Poland,Jagiellonian Univ,4513,1860,41.2
+248,Greece,Natl & Kapodistrian Univ Athens,4508,2066,45.8
+249,France,Paris-Sud Univ,4501,2641,58.7
+250,China,Shanghai Univ,4491,2172,48.4
+251,China,Northwest Agr & Forestry Univ,4490,2235,49.8
+252,United States,Univ Kansas,4479,2335,52.1
+253,United States,Univ Missouri - Columbia,4477,2321,51.9
+254,United States,Univ Texas - Southwestern Med Ctr - Dallas,4470,2729,61.1
+255,China,Nanjing Univ Aeronaut & Astronaut,4461,2164,48.5
+256,China,Natl Univ Defense Technol,4459,2004,44.9
+257,Sweden,KTH Royal Inst Technol,4428,2403,54.3
+258,Spain,Univ Valencia,4426,2212,50.0
+259,Germany,Goethe Univ Frankfurt,4420,2446,55.3
+260,United States,Univ Buffalo - SUNY,4403,2326,52.8
+261,Canada,Univ Laval,4393,2328,53.0
+262,China,China Univ Min & Technol,4381,1987,45.3
+263,China,Beijing Univ Chem Technol,4369,2378,54.4
+264,Iran,Amirkabir Univ Technol,4352,1962,45.1
+265,United States,Univ S Florida - Tampa,4346,2214,50.9
+266,Russia,Lomonosov Moscow State Univ,4340,1523,35.1
+267,Spain,Univ Granada,4339,2144,49.4
+268,United States,Univ Rochester,4326,2481,57.4
+269,China,Nanjing Univ Sci & Technol,4320,2210,51.2
+270,United Kingdom,Newcastle Univ,4315,2519,58.4
+271,United Kingdom,Cardiff Univ,4305,2432,56.5
+272,China,Southwest Univ,4273,2069,48.4
+273,France,Univ Strasbourg,4264,2332,54.7
+274,United Kingdom,Univ Warwick,4212,2479,58.9
+275,China,China Med Univ,4202,1845,43.9
+276,France,Univ Paris Diderot,4193,2442,58.2
+277,China,City Univ Hong Kong,4178,2482,59.4
+278,United States,Univ California - Santa Barbara,4175,2715,65.0
+279,India,Indian Inst Technol Kharagpur,4140,2009,48.5
+280,Italy,Univ Pisa,4138,2148,51.9
+281,Brazil,Univ Fed Minas Gerais,4121,1811,44.0
+282,South Korea,Kyungpook Natl Univ,4095,1627,39.7
+283,United States,Wayne State Univ,4088,2071,50.7
+284,Australia,Curtin Univ,4050,2192,54.1
+285,United States,Colorado State Univ,4040,2213,54.8
+286,France,Univ Montpellier,4037,2278,56.4
+287,Greece,Aristotle Univ Thessaloniki,4034,1910,47.3
+288,Switzerland,Univ Lausanne,4010,2336,58.3
+289,France,Univ Grenoble Alpes,4004,2273,56.8
+290,United States,Univ Maryland - Baltimore,3991,2250,56.4
+291,Israel,Ben-Gurion Univ Negev,3983,1809,45.4
+292,Canada,Univ Manitoba,3963,1955,49.3
+293,United States,Washington State Univ,3957,2153,54.4
+294,Iran,Tehran Univ Med Sci,3949,1529,38.7
+295,New Zealand,Univ Otago,3945,2006,50.8
+296,China,E China Normal Univ,3911,2023,51.7
+297,Spain,Univ Seville,3908,1971,50.4
+298,Japan,Japan Adv Inst Sci & Technol,3900,1531,39.3
+299,Austria,Univ Vienna,3897,2164,55.5
+300,Italy,Politec Milano,3876,2095,54.1
+301,Malaysia,Univ Putra Malaysia,3874,1643,42.4
+302,Germany,Univ Cologne,3862,2104,54.5
+303,Austria,Med Univ Vienna,3860,2111,54.7
+304,United States,Indiana Univ - Bloomington,3849,2179,56.6
+305,Australia,Griffith Univ,3835,2038,53.1
+306,United States,Univ Oklahoma,3828,1959,51.2
+307,United States,Oregon State Univ,3825,2080,54.4
+308,Spain,Univ Basque Country,3825,1984,51.9
+309,South Korea,Cath Univ Korea,3811,1597,41.9
+310,Spain,Univ Aut Madrid,3808,2029,53.3
+311,Germany,Johannes Gutenberg Univ Mainz,3779,2087,55.2
+312,United States,Stony Brook Univ - SUNY,3777,2118,56.1
+313,United States,Virginia Commonwealth Univ,3773,1990,52.7
+314,Germany,Ruhr-Univ Bochum,3765,1990,52.8
+315,Denmark,Univ South Denmark,3756,2061,54.9
+316,France,Univ Bordeaux,3710,2095,56.5
+317,Sweden,Stockholm Univ,3702,2058,55.6
+318,China,Ocean Univ China,3697,1605,43.4
+319,China,Huazhong Agr Univ,3683,1940,52.7
+320,United States,Tufts Univ,3658,2110,57.7
+321,United States,Florida State Univ,3634,2032,55.9
+322,Spain,Univ Politècnica València,3628,1841,50.7
+323,China,Nanchang Univ,3625,1678,46.3
+324,Canada,Univ Saskatchewan,3621,1667,46.0
+325,Germany,Julius Maximilian Univ Würzburg,3615,2024,56.0
+326,France,Univ Lille,3606,1851,51.3
+327,Norway,Univ Bergen,3605,1955,54.2
+328,Ireland,Univ Coll Dublin,3604,1948,54.1
+329,United States,Univ S Carolina - Columbia,3595,1926,53.6
+330,China,South Med Univ,3594,1763,49.1
+331,United States,Univ Nebraska - Lincoln,3592,1870,52.0
+332,Australia,Queensland Univ Technol,3588,1923,53.6
+333,Finland,Aalto Univ,3585,1960,54.7
+334,Germany,Friedrich Schiller Univ Jena,3585,1863,52.0
+335,Turkey,Istanbul Univ,3576,1312,36.7
+336,France,Univ Lorraine,3570,1797,50.3
+337,Australia,Deakin Univ,3566,1988,55.7
+338,Slovenia,Univ Ljubljana,3565,1548,43.4
+339,Canada,Queen's Univ,3557,1844,51.9
+340,South Korea,Chonnam Natl Univ,3546,1501,42.3
+341,China,Harbin Med Univ,3541,1639,46.3
+342,Egypt,Cairo Univ,3536,1449,41.0
+343,United States,Univ Massachusetts Amherst,3536,2040,57.7
+344,China,Wuhan Univ Technol,3530,1789,50.7
+345,Sweden,Linköping Univ,3527,1865,52.9
+346,China,Hong Kong Univ Sci & Technol,3526,2180,61.8
+347,Australia,Univ Newcastle,3526,1838,52.1
+348,Canada,Dalhousie Univ,3521,1759,50.0
+349,Japan,Keio Univ,3519,1547,44.0
+350,United States,Oregon Hlth & Sci Univ,3513,2086,59.4
+351,Taiwan,Natl Chiao Tung Univ,3503,1640,46.8
+352,United Kingdom,Queen Mary Univ London,3481,2124,61.0
+353,France,Paris Descartes Univ,3475,2012,57.9
+354,South Korea,Chung-Ang Univ,3459,1377,39.8
+355,Belgium,Univ Antwerp,3446,1938,56.2
+356,Argentina,Univ Buenos Aires,3434,1467,42.7
+357,Japan,Hiroshima Univ,3426,1357,39.6
+358,Malaysia,Univ Tek Malaysia,3416,1668,48.8
+359,United States,Carnegie Mellon Univ,3410,2058,60.3
+360,China,Beijing Jiaotong Univ,3406,1562,45.9
+361,Canada,Univ Guelph,3401,1677,49.3
+362,Australia,Univ Wollongong,3391,1885,55.6
+363,China,Wenzhou Med Univ,3387,1539,45.4
+364,India,Indian Inst Technol Madras,3385,1488,43.9
+365,Germany,Leipzig Univ,3384,1699,50.2
+366,Spain,Univ Politècnica Catalunya,3382,1711,50.6
+367,Japan,Univ Tsukuba,3370,1399,41.5
+368,China,Nanjing Tech Univ,3359,1694,50.4
+369,United States,Louisiana State Univ,3356,1619,48.2
+370,India,Indian Inst Technol Bombay,3350,1564,46.7
+371,South Korea,Pohang Univ Sci & Technol,3323,1806,54.4
+372,South Korea,Konkuk Univ,3323,1296,39.0
+373,China,Jinan Univ,3319,1582,47.7
+374,Iran,Tarbiat Modares Univ,3319,1529,46.1
+375,Germany,Univ Duisburg-Essen,3318,1755,52.9
+376,China,Chongqing Med Univ,3317,1599,48.2
+377,United States,Univ Hawaii - Manoa,3314,1730,52.2
+378,Taiwan,Natl Tsing Hua Univ,3310,1606,48.5
+379,China,Army Med Univ,3296,1651,50.1
+380,China,Beijing Univ Posts & Telecom,3293,1483,45.0
+381,Malaysia,Univ Sains Malaysia,3292,1334,40.5
+382,India,Indian Inst Technol Delhi,3287,1566,47.7
+383,Belgium,Univ Catholique Louvain,3282,1810,55.2
+384,Iran,Sharif Univ Technol,3265,1544,47.3
+385,Netherlands,Eindhoven Univ Technol,3247,1906,58.7
+386,Portugal,Univ Coimbra,3240,1640,50.6
+387,United States,Yeshiva Univ,3228,1869,57.9
+388,China,Second Mil Med Univ,3228,1670,51.8
+389,Spain,Univ Zaragoza,3227,1615,50.0
+390,Iran,Isfahan Univ Technol,3214,1539,47.9
+391,South Africa,Univ KwaZulu-Natal,3212,1297,40.4
+392,United States,Univ California - Riverside,3209,1891,58.9
+393,Ireland,Trinity Coll Dublin,3209,1780,55.5
+394,United Kingdom,Univ Exeter,3207,2018,62.9
+395,United States,Temple Univ,3179,1762,55.4
+396,South Africa,Univ Cape Town,3172,1615,50.9
+397,United States,Univ New Mexico,3169,1667,52.6
+398,South Korea,Chonbuk Natl Univ,3164,1293,40.9
+399,Japan,Kobe Univ,3149,1263,40.1
+400,United States,Univ Houston - Houston,3148,1688,53.6
+401,Italy,Univ Genoa,3125,1603,51.3
+402,United States,Univ Delaware,3123,1777,56.9
+403,Denmark,Aalborg Univ,3122,1666,53.3
+404,China,Fourth Mil Med Univ,3117,1686,54.1
+405,Australia,Macquarie Univ,3112,1704,54.8
+406,India,Banaras Hindu Univ,3110,1334,42.9
+407,Sweden,Chalmers Univ Technol,3109,1750,56.3
+408,Sweden,Umeå Univ,3108,1653,53.2
+409,United Kingdom,Durham Univ,3107,1857,59.8
+410,Iran,Iran Univ Sci & Technol,3107,1499,48.2
+411,Belgium,Univ Liège,3100,1658,53.5
+412,Mexico,Natl Polytech Inst,3092,1096,35.4
+413,Portugal,Univ Aveiro,3087,1646,53.3
+414,United States,George Washington Univ,3077,1635,53.1
+415,China,Beijing Univ Technol,3066,1389,45.3
+416,United Kingdom,Queen's Univ Belfast,3052,1711,56.1
+417,Italy,Univ Palermo,3039,1538,50.6
+418,Spain,Tech Univ Madrid,3026,1474,48.7
+419,Germany,Kiel Univ,3007,1636,54.4
+420,Brazil,Univ Fed São Paulo,2992,1167,39.0
+421,United States,Univ Notre Dame,2990,1758,58.8
+422,Croatia,Univ Zagreb,2989,1161,38.8
+423,United States,Texas Tech Univ,2988,1441,48.2
+424,Belgium,Univ Libre Bruxelles,2975,1615,54.3
+425,Germany,Heinrich Heine Univ Düsseldorf,2955,1621,54.8
+426,Chile,Univ Chile,2951,1392,47.2
+427,Netherlands,Univ Twente,2935,1645,56.0
+428,Thailand,Mahidol Univ,2924,1182,40.4
+429,Taiwan,Natl Yang-Ming Univ,2905,1361,46.9
+430,China,Hohai Univ,2900,1260,43.5
+431,United Kingdom,Univ York,2900,1659,57.2
+432,Finland,Univ Turku,2893,1501,51.9
+433,China,Southwest Jiaotong Univ,2876,1468,51.0
+434,Saudi Arabia,King Abdullah Univ Sci & Technol,2871,1798,62.6
+435,Germany,Univ Regensburg,2870,1598,55.7
+436,Germany,Tech Univ Berlin,2866,1607,56.1
+437,China,N China Elect Power Univ,2845,1311,46.1
+438,Italy,Univ Cattolica Sacro Cuore,2841,1485,52.2
+439,Italy,Univ Rome Tor Vergata,2832,1387,49.0
+440,United States,Wake Forest Univ,2825,1513,53.6
+441,Poland,Univ Warsaw,2821,1178,41.8
+442,Germany,Ulm Univ,2816,1484,52.7
+443,China,Qingdao Univ,2807,1244,44.3
+444,Belgium,Vrije Univ Brussel,2803,1482,52.9
+445,India,Indian Inst Technol Roorkee,2801,1365,48.7
+446,China,Harbin Engn Univ,2778,1289,46.4
+447,Spain,Univ Santiago de Compostela,2770,1350,48.7
+448,India,Indian Inst Technol Kanpur,2767,1292,46.7
+449,United States,Med Univ S Carolina,2759,1525,55.3
+450,South Korea,Inha Univ,2756,1084,39.3
+451,Turkey,Hacettepe Univ,2754,1110,40.3
+452,South Africa,Univ Pretoria,2752,1246,45.3
+453,United States,Dartmouth Coll,2749,1693,61.6
+454,Italy,Politec Torino,2740,1395,50.9
+455,China,Hefei Univ Technol,2729,1363,49.9
+456,Australia,Univ Tasmania,2722,1443,53.0
+457,Australia,RMIT Univ,2722,1454,53.4
+458,Thailand,Chulalongkorn Univ,2722,1137,41.8
+459,South Africa,Univ Witwatersrand,2720,1176,43.2
+460,Malaysia,Univ Kebangsaan Malaysia,2713,1111,40.9
+461,Australia,Univ Technol - Sydney,2705,1520,56.2
+462,China,Tianjin Med Univ,2691,1285,47.8
+463,Canada,Simon Fraser Univ,2691,1420,52.8
+464,United States,Univ Cent Florida,2676,1383,51.7
+465,China,China Pharmaceut Univ,2673,1444,54.0
+466,Austria,Vienna Univ Technol,2669,1431,53.6
+467,China,Shenzhen Univ,2659,1417,53.3
+468,United States,Univ Louisville,2659,1275,48.0
+469,France,Univ Rennes 1,2653,1407,53.0
+470,South Korea,Yeungnam Univ,2652,1112,41.9
+471,Iran,Ferdowsi Univ Mashhad,2645,1133,42.9
+472,China,Zhejiang Univ Technol,2638,1247,47.3
+473,India,Univ Delhi,2637,1174,44.5
+474,United States,Auburn Univ,2629,1203,45.8
+475,China,China Univ Petrol E China,2617,1273,48.6
+476,China,Donghua Univ,2611,1296,49.6
+477,China,Yangzhou Univ,2606,1165,44.7
+478,Japan,Okayama Univ,2605,968,37.2
+479,Germany,Univ Stuttgart,2597,1458,56.1
+480,Brazil,Univ Fed Santa Catarina,2597,1160,44.7
+481,United States,Drexel Univ,2592,1356,52.3
+482,United States,Kansas State Univ,2585,1273,49.2
+483,Germany,Hannover Med Sch,2583,1370,53.1
+484,United States,Rice Univ,2583,1618,62.7
+485,Japan,Chiba Univ,2580,1066,41.3
+486,United States,W Virginia Univ,2577,1201,46.6
+487,Italy,Univ Catania,2563,1328,51.8
+488,Sweden,Swed Univ Agr Sci,2558,1450,56.7
+489,China,Fuzhou Univ,2555,1442,56.4
+490,Israel,Weizmann Inst Sci,2548,1701,66.7
+491,China,Shaanxi Normal Univ,2536,1180,46.5
+492,China,Taiyuan Univ Technol,2527,1137,45.0
+493,China,China Univ Petrol Beijing,2526,1285,50.9
+494,Australia,Univ S Australia,2521,1362,54.0
+495,South Africa,Stellenbosch Univ,2520,1202,47.7
+496,China,S China Normal Univ,2506,1122,44.8
+497,Ireland,Univ Coll Cork,2503,1410,56.3
+498,China,Northwest Univ,2503,1138,45.5
+499,Italy,Univ Perugia,2498,1285,51.4
+500,Spain,Univ Oviedo,2492,1200,48.2
+501,Germany,Saarland Univ,2491,1242,49.9
+502,United States,Clemson Univ,2486,1153,46.4
+503,Tunisia,Univ Sfax,2485,1122,45.1
+504,United Kingdom,Univ Aberdeen,2480,1423,57.4
+505,Germany,Tech Univ Darmstadt,2474,1327,53.6
+506,Israel,Bar-Ilan Univ,2471,1112,45.0
+507,Italy,Univ Bari Aldo Moro,2470,1269,51.4
+508,Iran,Shiraz Univ,2463,1057,42.9
+509,United Kingdom,Univ Bath,2454,1377,56.1
+510,South Korea,Chungnam Natl Univ,2452,963,39.3
+511,Germany,Justus Liebig Univ Giessen,2436,1246,51.2
+512,Finland,Univ Oulu,2417,1188,49.1
+513,United States,Northeastern Univ - USA,2405,1340,55.7
+514,Germany,Philipps-Univ Marburg,2381,1252,52.6
+515,Russia,St Petersburg State Univ,2378,819,34.5
+516,Poland,AGH Univ Sci & Technol,2371,908,38.3
+517,China,Kunming Univ Sci & Technol,2338,989,42.3
+518,South Korea,Ewha Womans Univ,2335,1055,45.2
+519,Australia,Flinders Univ,2326,1220,52.4
+520,United Kingdom,Univ Leicester,2324,1274,54.8
+521,China,Beijing Forestry Univ,2317,1025,44.2
+522,Italy,Univ Milano-Bicocca,2312,1219,52.7
+523,China,Anhui Med Univ,2296,1080,47.1
+524,Finland,Univ East Finland,2295,1161,50.6
+525,United Kingdom,Univ Strathclyde,2293,1267,55.2
+526,Czech Republic,Masaryk Univ,2290,1048,45.8
+527,Italy,Univ Parma,2290,1172,51.2
+528,United States,Thomas Jefferson Univ,2289,1322,57.8
+529,Canada,York Univ,2284,1151,50.4
+530,Taiwan,China Med Univ - Taiwan,2282,1069,46.9
+531,Italy,Univ Pavia,2277,1171,51.4
+532,Brazil,Univ Fed Paraná,2269,948,41.8
+533,India,Anna Univ,2266,974,43.0
+534,Portugal,Univ Minho,2262,1144,50.6
+535,Poland,Adam Mickiewicz Univ Poznan,2254,925,41.0
+536,India,Indian Inst Technol Guwahati,2253,1061,47.1
+537,France,Univ Nantes,2236,1162,52.0
+538,Portugal,Univ Nova Lisboa,2236,1125,50.3
+539,United States,Med Coll Wisconsin,2231,1192,53.4
+540,Iran,Univ Tabriz,2231,1018,45.7
+541,Italy,Univ Messina,2220,1086,48.9
+542,United Kingdom,Lancaster Univ,2214,1256,56.7
+543,Saudi Arabia,King Fahd Univ Petrol & Minerals,2214,1022,46.2
+544,China,Yanshan Univ,2211,1052,47.6
+545,India,Jadavpur Univ,2207,1001,45.4
+546,United Kingdom,Loughborough Univ,2200,1214,55.2
+547,United States,Oklahoma State Univ - Stillwater,2196,1060,48.2
+548,Taiwan,Natl Cent Univ,2187,881,40.3
+549,United States,Florida Intl Univ,2187,1083,49.5
+550,China,Ningbo Univ,2183,982,45.0
+551,Taiwan,Natl Taiwan Univ Sci & Technol,2179,986,45.2
+552,China,Northeast Normal Univ,2178,1086,49.9
+553,Chile,Pontificia Univ Católica Chile,2174,1053,48.4
+554,India,All India Inst Med Sci,2170,780,35.9
+555,Canada,Univ Victoria,2165,1197,55.3
+556,Turkey,Istanbul Tech Univ,2165,929,42.9
+557,South Korea,Ajou Univ,2164,946,43.7
+558,United Kingdom,Univ St Andrews,2162,1248,57.7
+559,Turkey,Ege Univ,2161,768,35.6
+560,United States,Tulane Univ,2154,1155,53.6
+561,Greece,Natl Tech Univ Athens,2150,1042,48.5
+562,Australia,La Trobe Univ,2149,1114,51.9
+563,Australia,James Cook Univ,2142,1201,56.1
+564,United States,Georgetown Univ,2130,1127,52.9
+565,Germany,Univ Rostock,2126,1104,51.9
+566,United States,Brigham Young Univ,2124,977,46.0
+567,Spain,Univ Murcia,2115,995,47.1
+568,Japan,Waseda Univ,2109,796,37.7
+569,China,S China Agr Univ,2108,965,45.8
+570,United States,Univ Texas - Dallas,2104,1196,56.9
+571,Canada,Concordia Univ,2102,1046,49.8
+572,Iran,Shahid Beheshti Univ Med Sci,2095,785,37.5
+573,Taiwan,Natl Chung Hsing Univ,2091,900,43.1
+574,United Kingdom,Univ Sussex,2079,1188,57.2
+575,Poland,Wrocław Univ Sci & Technol,2072,863,41.6
+576,United Kingdom,London Sch Hyg & Trop Med,2069,1329,64.2
+577,United States,Georgia State Univ,2065,1078,52.2
+578,Brazil,Fed Univ Pernambuco,2057,844,41.0
+579,China,Nanjing Normal Univ,2053,1000,48.7
+580,Turkey,Gazi Univ,2045,779,38.1
+581,Japan,Kanazawa Univ,2040,832,40.8
+582,Egypt,Ain Shams Univ,2038,811,39.8
+583,China,Univ Jinan,2035,1045,51.3
+584,United States,Univ Mississippi,2032,1012,49.8
+585,United Kingdom,Univ Reading,2031,1193,58.8
+586,Germany,Gottfried Wilhelm Leibniz Univ Hannover,2022,1002,49.6
+587,India,Vellore Inst Technol,2017,919,45.6
+588,Canada,Univ Sherbrooke,2016,1032,51.2
+589,Taiwan,Taipei Med Univ,2007,911,45.4
+590,France,Univ Paris-Est Créteil Val de Marne,2007,1120,55.8
+591,China,Sichuan Agr Univ,2001,871,43.5
+592,United Kingdom,Univ Surrey,2001,1103,55.1
+593,China,Nantong Univ,1991,923,46.4
+594,Poland,Warsaw Univ Technol,1988,798,40.2
+595,Italy,Univ Salerno,1986,1065,53.6
+596,United States,Univ Massachusetts Med Sch,1983,1277,64.4
+597,United States,Univ Vermont,1977,1089,55.1
+598,Turkey,Middle E Tech Univ,1976,829,42.0
+599,New Zealand,Massey Univ,1976,944,47.8
+600,Canada,Mem Univ Newfoundland,1969,942,47.8
+601,United States,Rush Univ,1964,1051,53.5
+602,South Korea,Dongguk Univ,1963,758,38.6
+603,Austria,Univ Innsbruck,1963,1016,51.8
+604,Germany,Martin Luther Univ Halle-Wittenberg,1962,935,47.7
+605,United States,Univ Alabama - Tuscaloosa,1956,984,50.3
+606,United States,Univ Arkansas - Fayetteville,1951,884,45.3
+607,China,Henan Univ,1950,857,43.9
+608,Taiwan,Kaohsiung Med Univ,1949,804,41.2
+609,South Korea,Gyeongsang Natl Univ,1935,740,38.2
+610,Australia,West Sydney Univ,1930,1011,52.4
+611,Greece,Univ Patras,1927,914,47.4
+612,Spain,Univ Castilla-La Mancha,1923,946,49.2
+613,South Korea,Kangwon Natl Univ,1922,658,34.2
+614,Estonia,Univ Tartu,1914,888,46.4
+615,Japan,Nihon Univ,1912,603,31.5
+616,Israel,Univ Haifa,1911,797,41.7
+617,Canada,Carleton Univ,1909,913,47.8
+618,China,Guangxi Med Univ,1905,810,42.5
+619,Italy,Univ Cagliari,1890,932,49.3
+620,China,Shanxi Univ,1888,843,44.7
+621,United States,Univ California - Santa Cruz,1884,1174,62.3
+622,Italy,Univ Modena & Reggio Emilia,1884,939,49.8
+623,China,Anhui Univ,1883,903,48.0
+624,Iran,Shahid Beheshti Univ,1870,828,44.3
+625,China,Nanjing Univ Info Sci & Technol,1866,929,49.8
+626,United Kingdom,Univ E Anglia,1865,1119,60.0
+627,Argentina,Univ Nal La Plata,1864,721,38.7
+628,Japan,Kumamoto Univ,1858,789,42.5
+629,Spain,Univ Malaga,1849,887,48.0
+630,United States,Utah State Univ,1847,916,49.6
+631,United Kingdom,London Sch Econ & Polit Sci,1843,1088,59.1
+632,Taiwan,Natl Sun Yat-sen Univ,1842,776,42.1
+633,Finland,Univ Jyväskylä,1840,940,51.1
+634,Brazil,Fed Univ São Carlos,1839,831,45.2
+635,United States,George Mason Univ,1838,931,50.7
+636,United States,Univ N Texas,1833,861,47.0
+637,Spain,Univ Vigo,1827,886,48.5
+638,Ireland,Natl Univ Ireland - Galway,1827,947,51.8
+639,Iran,Islamic Azad Univ Sci & Res Tehran,1812,616,34.0
+640,Italy,Univ Verona,1810,940,51.9
+641,Germany,Univ Bremen,1805,925,51.3
+642,China,Guangzhou Med Univ,1800,802,44.6
+643,United States,Univ Oregon,1787,1025,57.4
+644,China,Hebei Med Univ,1787,702,39.3
+645,Poland,Med Univ Warsaw,1783,629,35.3
+646,United States,Univ Texas - Hlth Sci Ctr - San Antonio,1782,1007,56.5
+647,China,Fujian Med Univ,1778,733,41.2
+648,China,Univ Macau,1775,999,56.3
+649,China,Guangdong Univ Technol,1773,940,53.0
+650,Italy,Univ Trento,1768,998,56.4
+651,Turkey,Ankara Univ,1765,618,35.0
+652,Brazil,Univ Brasília,1761,731,41.5
+653,United States,Mississippi State Univ,1753,754,43.0
+654,Norway,UiT Artic Univ Norway,1749,919,52.5
+655,China,Dalian Med Univ,1746,823,47.2
+656,China,Nanjing Univ Posts & Telecom,1743,824,47.3
+657,Czech Republic,Palacký Univ Olomouc,1741,780,44.8
+658,Italy,Univ Calabria,1738,911,52.4
+659,China,Henan Normal Univ,1735,741,42.7
+660,United Kingdom,Univ Dundee,1732,1024,59.2
+661,United States,Univ Texas - Med Branch - Galveston,1731,952,55.0
+662,Japan,Tokyo Med & Dent Univ,1727,753,43.6
+663,South Korea,Ulsan Natl Inst Sci & Technol,1726,1026,59.4
+664,Italy,Univ Campania Luigi Vanvitelli,1723,918,53.3
+676,South Korea,Dankook Univ,1678,610,36.3
+677,Serbia,Univ Novi Sad,1674,640,38.3
+678,France,Univ Clermont-Auvergne,1673,871,52.1
+679,Brazil,Fed Univ Santa Maria,1666,703,42.2
+680,United States,St Louis Univ,1663,778,46.8
+681,Germany,Otto von Guericke Univ Magdeburg,1662,843,50.7
+682,Egypt,Mansoura Univ,1660,731,44.0
+683,China,Cent China Normal Univ,1656,868,52.4
+684,United States,Univ Nebraska Med Ctr,1655,862,52.1
+685,United States,Rensselaer Polytech Inst,1655,848,51.3
+686,France,Univ Nice Sophia Antipolis,1653,885,53.5
+687,Thailand,Chiang Mai Univ,1642,601,36.6
+688,Hungary,Univ Szeged,1637,609,37.2
+689,South Korea,Hallym Univ,1637,618,37.8
+690,Japan,Nagasaki Univ,1636,620,37.9
+691,Brazil,Univ Fed Viçosa,1636,674,41.2
+692,Brazil,Univ Fed Ceará,1629,729,44.8
+693,Germany,Bielefeld Univ,1619,851,52.6
+694,United States,Univ Arkansas Med Sci - Little Rock,1619,824,50.9
+695,South Korea,Chungbuk Natl Univ,1614,599,37.1
+696,Italy,Univ Siena,1603,799,49.9
+697,Iran,KN Toosi Univ Technol,1602,736,45.9
+698,Spain,Rovira & Virgili Univ,1601,861,53.8
+699,Spain,Univ Salamanca,1599,777,48.6
+700,Spain,Univ Cordoba,1596,776,48.6
+701,Germany,Univ Bayreuth,1595,855,53.6
+702,Germany,TU Dortmund Univ,1594,771,48.4
+703,Poland,Nicolaus Copernicus Univ Toruń,1593,616,38.7
+704,Japan,Tokyo Univ Agr & Technol,1591,551,34.6
+705,Spain,Univ Alicante,1591,766,48.2
+706,Canada,Univ Quebec Montreal,1584,832,52.5
+707,Brazil,Univ Fed Fluminense,1576,634,40.3
+708,Finland,Univ Tampere,1567,780,49.8
+709,Italy,Brescia Univ,1567,800,51.1
+710,Poland,Univ Wrocław,1559,642,41.2
+711,United States,Univ Akron,1556,823,52.9
+712,South Korea,Inje Univ,1553,528,34.0
+713,Turkey,Dokuz Eylül Univ,1550,599,38.6
+714,China,Shenyang Pharmaceut Univ,1550,754,48.6
+715,Poland,Med Univ Lódz,1550,553,35.7
+716,Tunisia,Univ Tunis El Manar,1549,553,35.7
+717,Germany,Univ Potsdam,1548,828,53.5
+718,Poland,Poznań Univ Med Sci,1547,549,35.5
+719,Taiwan,Natl Taipei Univ Technol,1545,657,42.5
+720,South Korea,Pukyong Natl Univ,1540,551,35.8
+721,Spain,Carlos III Univ Madrid,1538,762,49.6
+722,China,Southwest Petrol Univ,1530,683,44.6
+723,Poland,Łódź Univ Technol,1530,592,38.7
+724,China,Shandong Agr Univ,1528,730,47.8
+725,Germany,Tech Univ Braunschweig,1526,770,50.5
+726,Austria,Med Univ Graz,1522,811,53.3
+727,Japan,Niigata Univ,1509,566,37.5
+728,United States,Univ Wyoming,1507,752,49.9
+729,South Korea,Gachon Univ,1507,590,39.2
+730,Egypt,Alexandria Univ,1502,620,41.3
+731,Japan,Shinsu Univ,1500,557,37.2
+732,Austria,Med Univ Innsbruck,1498,802,53.5
+733,Australia,Swinburne Univ Technol,1497,803,53.7
+734,United States,N Dakota State Univ,1494,665,44.5
+735,United States,Univ Texas - Arlington,1491,702,47.1
+736,United States,Univ Albany - SUNY,1488,769,51.7
+737,India,Panjab Univ,1487,720,48.4
+738,Austria,Univ Nat Resources & Life Sci - BOKU,1487,840,56.5
+739,Spain,Univ Valladolid,1480,694,46.9
+740,United States,Syracuse Univ,1479,778,52.6
+741,Germany,Univ Konstanz,1479,853,57.7
+742,Turkey,Erciyes Univ,1478,615,41.7
+743,Turkey,Atatürk Univ,1472,573,38.9
+744,Thailand,Khon Kaen Univ,1471,578,39.3
+745,Hungary,Univ Debrecen,1470,592,40.3
+746,Germany,Univ Greifswald,1470,742,50.5
+747,China,Northeast Forestry Univ,1464,637,43.5
+748,India,Indian Inst Technol (Indian Sch Mines),1461,709,48.5
+749,United Kingdom,Univ Kent,1456,764,52.5
+750,China,Tianjin Polytech Univ,1449,612,42.3
+751,Brazil,Fed Univ Rio Grande do Norte,1439,552,38.4
+752,United States,Univ Nevada - Reno,1439,732,50.9
+753,United States,Univ Toledo,1439,733,51.0
+754,New Zealand,Victoria Univ Wellington,1436,717,49.9
+755,India,Aligarh Muslim Univ,1436,686,47.8
+756,United States,Augusta Univ,1434,782,54.5
+757,China,Guangxi Univ,1432,618,43.2
+758,Hungary,Budapest Univ Technol & Econ,1431,644,45.0
+759,China,Zhejiang Sci-Tech Univ,1429,676,47.3
+760,China,Changzhou Univ,1427,625,43.8
+761,Lithuania,Vilnius Univ,1426,530,37.2
+762,Turkey,Yildiz Tech Univ,1425,495,34.7
+763,Argentina,Natl Univ Cordoba,1423,566,39.8
+764,New Zealand,Univ Canterbury,1418,629,44.3
+765,Iran,Univ Isfahan,1417,564,39.8
+766,Austria,Graz Univ Technol,1416,740,52.3
+767,China,Northwest Normal Univ,1415,601,42.4
+768,China,Northeast Agr Univ,1415,613,43.3
+769,India,Natl Inst Technol Rourkela,1413,757,53.6
+770,Austria,Univ Graz,1408,771,54.8
+771,South Korea,Sejong Univ,1405,631,44.9
+772,Japan,Kindai Univ,1404,511,36.4
+773,United Kingdom,Heriot-Watt Univ,1404,743,52.9
+774,United States,Univ Texas - San Antonio,1397,713,51.0
+775,United States,San Diego State Univ,1397,719,51.5
+776,Colombia,Univ Natl Colombia,1395,541,38.8
+777,Japan,Tokushima Univ,1394,528,37.9
+778,Iran,Tabriz Univ Med Sci,1393,633,45.5
+779,Lebanon,American Univ Beirut,1387,629,45.3
+780,China,Qingdao Univ Sci & Technol,1372,653,47.6
+781,Iran,Univ Guilan,1370,591,43.1
+782,China,Hebei Univ,1369,548,40.0
+783,China,Renmin Univ China,1368,683,49.9
+784,Czech Republic,Czech Tech Univ - Prague,1368,511,37.3
+785,China,Zhejiang Normal Univ,1367,744,54.4
+786,United States,Kent State Univ,1361,689,50.6
+787,China,Xi'An Univ Technol,1358,569,41.9
+788,China,Yunnan Univ,1353,599,44.2
+789,United States,South Illinois Univ - Carbondale,1352,632,46.8
+790,Japan,Osaka City Univ,1348,545,40.4
+791,Italy,Univ Trieste,1342,656,48.9
+792,Poland,Univ Silesia Katowice,1339,469,35.0
+793,Iran,Univ Kashan,1338,707,52.8
+794,United States,Loyola Univ Chicago,1334,635,47.6
+795,Poland,Silesian Univ Technol,1331,514,38.6
+796,India,Univ Hyderabad,1329,587,44.1
+797,Germany,Univ Hohenheim,1325,688,51.9
+798,United Kingdom,Univ Plymouth,1323,737,55.7
+799,Germany,Carl von Ossietzky Univ Oldenburg,1319,672,50.9
+800,Iran,Shiraz Univ Med Sci,1314,430,32.7
+801,Ireland,Univ Limerick,1314,703,53.5
+802,Spain,Univ Extremadura,1313,580,44.2
+803,Japan,Gunma Univ,1311,472,36.0
+804,China,Hong Kong Baptist Univ,1310,731,55.8
+805,Iran,Mashhad Univ Med Sci,1309,600,45.8
+806,Spain,Pompeu Fabra Univ,1308,746,57.1
+807,South Africa,Univ Johannesburg,1298,580,44.7
+808,United States,Missouri Univ Sci & Technol,1297,695,53.6
+809,Norway,Norwegian Univ Life Sci,1296,657,50.7
+810,Poland,Med Univ Silesia,1295,424,32.8
+811,China,Capital Normal Univ,1289,609,47.3
+812,Brazil,State Univ Maringá,1288,487,37.8
+813,Chile,Univ Concepción,1285,527,41.0
+814,France,École Polytech,1284,733,57.1
+815,United States,Boston Coll,1283,751,58.6
+816,United States,Baylor Univ,1281,609,47.5
+817,Hungary,Semmelweis Univ,1279,540,42.2
+818,Poland,Gdańsk Univ Technol,1278,569,44.5
+819,Turkey,Karadeniz Tech Univ,1276,523,41.0
+820,South Korea,Sogang Univ,1275,490,38.4
+821,Italy,Gabriele d'Annunzio Univ,1272,633,49.7
+822,United States,Univ Idaho,1266,649,51.3
+823,China,Henan Univ Sci & Technol,1264,451,35.6
+824,Thailand,Prince Songkla Univ,1262,463,36.7
+825,Japan,Gifu Univ,1262,436,34.6
+826,Poland,Univ Warmia & Mazury Olsztyn,1260,419,33.2
+827,France,Univ Tours,1256,673,53.6
+828,Japan,Osaka Prefect Univ,1249,434,34.8
+829,United States,Colorado Sch Mines,1246,732,58.8
+830,Spain,Univ Navarra,1243,674,54.2
+831,South Africa,North-West Univ,1241,506,40.8
+832,United Kingdom,Brunel Univ London,1240,648,52.2
+833,France,Univ Poitiers,1238,609,49.2
+834,Australia,Murdoch Univ,1237,612,49.5
+835,Egypt,Zagazig Univ,1237,541,43.7
+836,United Kingdom,Cranfield Univ,1236,644,52.1
+837,China,Hebei Univ Technol,1234,501,40.6
+838,Poland,Univ Łódź,1234,461,37.3
+839,Italy,Univ l'Aquila,1228,650,52.9
+840,South Korea,Chosun Univ,1228,412,33.5
+841,Brazil,Rio de Janeiro State Univ,1228,441,36.0
+842,Taiwan,Natl Taiwan Normal Univ,1227,501,40.8
+843,Japan,Kagoshima Univ,1221,438,35.8
+844,China,Shanghai Univ Tradit Chinese Med,1221,612,50.1
+845,Hungary,Eötvös Loránd Univ,1216,535,44.0
+846,South Korea,Gwangju Inst Sci & Technol,1215,543,44.7
+847,United States,E Carolina Univ,1215,528,43.5
+848,Spain,Univ Alcalá,1212,596,49.1
+849,Finland,Tampere Univ Technol,1212,604,49.9
+850,Poland,Wrocław Med Univ,1211,421,34.7
+851,Spain,Univ La Laguna,1209,585,48.4
+852,Turkey,Marmara Univ,1208,469,38.8
+853,Greece,Univ Ioannina,1208,575,47.6
+854,China,Hunan Normal Univ,1204,544,45.2
+855,China,Fujian Agr & Forestry Univ,1202,585,48.7
+856,Japan,Juntendo Univ,1200,508,42.4
+857,United States,Univ New Hampshire,1200,677,56.4
+858,Poland,Univ Gdańsk,1199,467,38.9
+859,India,Inst Chem Technol,1193,586,49.1
+860,Brazil,Univ Fed Goiás,1192,507,42.5
+861,Japan,Kitasato Univ,1192,432,36.3
+862,India,Thapar Univ,1188,503,42.3
+863,United States,Michigan Technol Univ,1179,570,48.4
+864,United States,Lehigh Univ,1178,611,51.9
+865,China,Jiangxi Normal Univ,1176,532,45.2
+866,Germany,Tech Univ Kaiserslautern,1173,613,52.3
+867,United States,Montana State Univ,1172,620,52.9
+868,United States,Univ Missouri - Kansas City,1171,574,49.0
+869,China,Hangzhou Dianzi Univ,1171,580,49.6
+870,United States,Univ N Carolina - Charlotte,1171,567,48.4
+871,United States,Univ Nevada - Las Vegas,1167,526,45.1
+872,Japan,Univ Toyama,1165,454,39.0
+873,United States,Ohio Univ,1164,574,49.3
+874,Greece,Univ Crete,1161,603,51.9
+875,Iran,Isfahan Univ Med Sci,1160,409,35.3
+876,United Kingdom,City Univ London,1160,616,53.1
+877,Italy,Roma Tre Univ,1159,613,52.9
+878,Japan,Yokohama City Univ,1158,506,43.6
+879,Spain,Univ Cantabria,1158,613,53.0
+880,Brazil,Univ Fed Bahia,1156,469,40.6
+881,Japan,Yamaguchi Univ,1156,413,35.7
+882,Uruguay,Univ Republic,1156,495,42.8
+883,France,Univ Versailles Saint-Quentin-en-Yvelines,1155,595,51.5
+884,Poland,Maria Curie-Sklodowska Univ,1151,421,36.6
+885,Italy,Univ Udine,1148,614,53.4
+886,Sweden,Luleå Univ Technol,1143,560,49.0
+887,Pakistan,Univ Punjab,1142,395,34.6
+888,China,Shandong Normal Univ,1141,569,49.8
+889,Czech Republic,Inst Chem & Technol - Prague,1141,447,39.2
+890,Greece,Univ Thessaly,1138,548,48.2
+891,Netherlands,Tilburg Univ,1136,632,55.7
+892,Spain,Univ Jaume I,1135,588,51.8
+893,China,Nanjing Univ Chin Med,1135,559,49.2
+894,China,Nanjing Forestry Univ,1132,470,41.5
+895,United States,Old Dominion Univ,1127,546,48.4
+896,Iceland,Univ Iceland,1125,574,51.0
+897,China,Tianjin Univ Sci & Technol,1121,499,44.5
+898,Poland,Med Univ Gdansk,1112,423,38.0
+899,Turkey,Süleyman Demirel Univ,1108,405,36.5
+900,Austria,Johannes Kepler Univ Linz,1108,558,50.3
+901,Germany,Univ Lübeck,1106,550,49.7
+902,Iran,Shahid Bahonar Univ Kerman,1105,446,40.3
+903,Italy,Univ Salento,1104,517,46.8
+904,China,Hangzhou Normal Univ,1103,541,49.0
+905,Spain,Univ A Coruña,1102,538,48.8
+906,India,Postgrad Inst Med Educ & Res,1101,409,37.2
+907,Turkey,Bilkent Univ,1100,557,50.7
+908,China,Shantou Univ,1100,520,47.3
+909,Canada,Univ Windsor,1095,519,47.4
+910,Turkey,Selçuk Univ,1094,467,42.7
+911,Iran,Bu-Ali Sina Univ,1093,501,45.9
+912,United States,Binghamton Univ - SUNY,1092,561,51.4
+913,Spain,Univ Balearic Islands,1092,580,53.1
+914,Mexico,Univ Aut Met,1092,400,36.6
+915,Turkey,Sakarya Univ,1090,353,32.4
+916,Turkey,Akdeniz Univ,1089,412,37.8
+917,Spain,Univ Girona,1088,612,56.3
+918,Italy,Univ Sassari,1085,514,47.4
+919,China,Shanghai Normal Univ,1084,526,48.5
+920,France,École Normale Sup - Paris,1084,674,62.2
+921,Thailand,Kasetsart Univ,1083,419,38.7
+922,Iran,Razi Univ,1079,470,43.6
+923,Romania,Babeș-Bolyai Univ,1077,467,43.3
+924,Poland,Med Univ Lublin,1073,379,35.3
+925,China,PLA Univ Sci & Technol,1069,421,39.4
+926,United States,Univ Rhode Island,1069,553,51.7
+927,Brazil,Univ Fed Paraíba,1068,455,42.6
+928,Poland,Poznań Univ Technol,1067,459,43.0
+929,Japan,Tokyo Metropolitan Univ,1066,403,37.8
+930,Taiwan,Feng Chia Univ,1055,417,39.5
+931,Turkey,Samsun Ondokuz Mayis Univ,1055,357,33.9
+932,China,Fujian Normal Univ,1054,444,42.1
+933,Brazil,Univ Fed Uberlândia,1053,443,42.1
+934,United States,Uniformed Services Univ Hlth Sci,1053,529,50.2
+935,United Kingdom,Univ Hull,1053,564,53.5
+936,Iran,Semnan Univ,1053,534,50.7
+937,Russia,Novosibirsk State Univ,1053,407,38.6
+938,Australia,Univ New England,1047,505,48.2
+939,China,Jiangsu Normal Univ,1044,516,49.5
+940,Japan,Tottori Univ,1042,326,31.3
+941,Turkey,Çukurova Univ,1041,404,38.8
+942,India,Annamalai Univ,1040,515,49.5
+943,Czech Republic,Brno Univ Technol,1040,401,38.6
+944,Qatar,Qatar Univ,1038,529,50.9
+945,China,Huaqiao Univ,1036,492,47.5
+946,China,Beijing Univ Chin Med,1036,414,39.9
+947,France,Univ Rouen,1034,502,48.6
+948,Japan,Yamagata Univ,1031,347,33.7
+949,China,China Jiliang Univ,1029,458,44.5
+950,India,Manipal Acad High Educ,1027,399,38.9
+951,China,Chang'an Univ,1025,435,42.4
+952,Japan,Ehime Univ,1024,332,32.4
+953,China,Wuhan Univ Sci & Technol,1023,507,49.5
+954,Italy,Vita-Salute San Raffaele Univ,1022,605,59.2
+955,United States,Univ Memphis,1014,481,47.5
+956,France,Univ Burgundy,1007,525,52.1
+957,China,Xuzhou Med Coll,1006,452,44.9
+958,Iran,Payame Noor Univ,1006,389,38.6
+959,Canada,Univ New Brunswick,1004,448,44.6
+960,Czech Republic,Czech Univ Life Sci - Prague,1004,379,37.7
+961,China,Xinjiang Med Univ,1004,328,32.7
+962,Taiwan,National Chung Cheng Univ,1003,400,39.8
+963,Japan,Mie Univ,1002,402,40.2

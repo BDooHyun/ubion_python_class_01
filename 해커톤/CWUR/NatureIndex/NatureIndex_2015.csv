@@ -1,0 +1,501 @@
+2015,Institution,Country,"Share 2015","Count 2015"
+1,"Harvard University","United States of America (USA)",883.03,2258
+2,"Stanford University","United States of America (USA)",636.27,1513
+3,"Massachusetts Institute of Technology (MIT)","United States of America (USA)",567.76,1683
+4,"The University of Tokyo (UTokyo)",Japan,527,1219
+5,"University of Oxford","United Kingdom (UK)",438.28,1221
+6,"University of Cambridge","United Kingdom (UK)",432.89,1242
+7,"University of California, Berkeley (UC Berkeley)","United States of America (USA)",426.81,1177
+8,"Swiss Federal Institute of Technology Zurich (ETH Zurich)",Switzerland,377.17,902
+9,"Peking University (PKU)",China,369.67,1173
+10,"University of Michigan (U-M)","United States of America (USA)",368.46,894
+11,"University of California, San Diego (UC San Diego)","United States of America (USA)",363.83,905
+12,"University of California, Los Angeles (UCLA)","United States of America (USA)",345.08,908
+13,"Yale University","United States of America (USA)",338.34,815
+14,"University of Toronto (U of T)",Canada,328.52,825
+15,"Columbia University in the City of New York (CU)","United States of America (USA)",325.91,916
+16,"University of Pennsylvania (Penn)","United States of America (USA)",312.66,721
+17,"Kyoto University",Japan,311.72,730
+18,"Northwestern University (NU)","United States of America (USA)",302.78,661
+19,"University of Washington (UW)","United States of America (USA)",296.28,860
+20,"Nanjing University (NJU)",China,290.48,689
+21,"California Institute of Technology (Caltech)","United States of America (USA)",287.13,775
+22,"University of Wisconsin-Madison (UW-Madison)","United States of America (USA)",281.28,696
+23,"Tsinghua University",China,278.84,910
+24,"Cornell University","United States of America (USA)",269.21,729
+25,"The University of Texas at Austin (UT Austin)","United States of America (USA)",269.04,571
+26,"University of Illinois at Urbana-Champaign (UIUC)","United States of America (USA)",266.33,637
+27,"Johns Hopkins University (JHU)","United States of America (USA)",263.38,724
+28,"University of Science and Technology of China (USTC)",China,261.56,678
+29,"Nanyang Technological University (NTU)",Singapore,254.33,516
+30,"Princeton University","United States of America (USA)",253.18,597
+31,"University of Minnesota (UMN)","United States of America (USA)",243.06,599
+32,"Swiss Federal Institute of Technology Lausanne (EPFL)",Switzerland,228.57,576
+33,UCL,"United Kingdom (UK)",224.31,767
+34,"Imperial College London (ICL)","United Kingdom (UK)",222.99,781
+35,"Zhejiang University (ZJU)",China,222.83,470
+36,"University of California, Santa Barbara (UCSB)","United States of America (USA)",216.45,573
+37,"Duke University","United States of America (USA)",213.84,619
+38,"National University of Singapore (NUS)",Singapore,212.58,581
+39,"The University of Chicago (UChicago)","United States of America (USA)",211.59,663
+40,"Fudan University",China,209.78,428
+41,"University of California, San Francisco (UCSF)","United States of America (USA)",208.12,538
+42,"The Pennsylvania State University (Penn State)","United States of America (USA)",207.29,488
+43,"Osaka University",Japan,206.39,534
+44,"University of Colorado Boulder (CU-Boulder)","United States of America (USA)",196.92,587
+45,"Tohoku University",Japan,194.63,434
+46,"University of Maryland, College Park (UMCP)","United States of America (USA)",190.87,657
+47,"McGill University",Canada,190.41,581
+48,"Washington University in St. Louis (WUSTL)","United States of America (USA)",184.49,416
+49,"Ludwig Maximilians University of Munich (LMU)",Germany,181.05,581
+50,"The University of North Carolina at Chapel Hill (UNC)","United States of America (USA)",180.45,433
+51,"University of California, Davis (UC Davis)","United States of America (USA)",177.02,490
+52,"New York University (NYU)","United States of America (USA)",176.99,506
+53,"Weizmann Institute of Science (WIS)",Israel,171.74,394
+54,"The University of Manchester (UoM)","United Kingdom (UK)",167.65,542
+55,"Georgia Institute of Technology (Georgia Tech)","United States of America (USA)",167.21,394
+56,"Seoul National University (SNU)","South Korea",166.96,425
+57,"Texas A&M University (TAMU)","United States of America (USA)",161.19,417
+58,"The Ohio State University (OSU)","United States of America (USA)",157.55,513
+59,"Nankai University (NKU)",China,157.34,413
+60,"Korea Advanced Institute of Science and Technology (KAIST)","South Korea",156.06,330
+61,"The University of British Columbia (UBC)",Canada,154.94,452
+62,"Purdue University","United States of America (USA)",152.11,363
+63,"Nagoya University",Japan,148.32,416
+64,"The University of Queensland (UQ)",Australia,146.87,396
+65,"University of Florida (UF)","United States of America (USA)",146.68,486
+66,"University of Southern California (USC)","United States of America (USA)",144.91,364
+67,"The University of Edinburgh","United Kingdom (UK)",144.36,598
+68,"Tokyo Institute of Technology (Tokyo Tech)",Japan,140.83,368
+69,"Soochow University",China,140.28,265
+70,"Karlsruhe Institute of Technology (KIT)",Germany,137.25,381
+71,"Rutgers, The State University of New Jersey (RU)","United States of America (USA)",135.19,402
+72,"University of Pittsburgh (Pitt)","United States of America (USA)",135.05,439
+73,"University of Copenhagen (UCPH)",Denmark,133.9,557
+74,"University of Bristol (UoB)","United Kingdom (UK)",131.35,423
+75,"University of California, Irvine (UCI)","United States of America (USA)",129.81,392
+76,"Vanderbilt University (VU)","United States of America (USA)",129.67,340
+77,"Heidelberg University (Uni Heidelberg)",Germany,128.62,508
+78,"The University of Texas Southwestern Medical Center (UT Southwestern Medical Center)","United States of America (USA)",127.13,265
+79,"Technical University of Munich (TUM)",Germany,125.38,448
+80,"Sun Yat-sen University (SYSU)",China,125.08,286
+81,"Hebrew University of Jerusalem (HUJI)",Israel,123.99,271
+82,"Utrecht University (UU)",Netherlands,123.77,551
+83,"The University of Utah (Utah)","United States of America (USA)",120.61,292
+84,"University of Würzburg (JMU)",Germany,120.45,314
+85,"Xiamen University (XMU)",China,119.69,234
+86,"Hokkaido University",Japan,119.43,242
+87,"University of Zurich (UZH)",Switzerland,118.9,528
+88,"Monash University",Australia,118.12,378
+89,"Sorbonne University",France,117.38,1105
+90,"University of Geneva (UNIGE)",Switzerland,116.3,367
+91,"Rice University","United States of America (USA)",115.85,324
+92,"National Taiwan University (NTU)",Taiwan,115.83,329
+93,"Wuhan University (WHU)",China,114.67,217
+94,"University of New South Wales (UNSW Sydney)",Australia,113.92,306
+95,"Boston University (BU)","United States of America (USA)",113.38,508
+96,"University of Alberta (U of A)",Canada,112.86,350
+97,"Pohang University of Science and Technology (POSTECH)","South Korea",110.79,237
+98,"University of Chinese Academy of Sciences (UCAS)",China,110.38,600
+99,"Arizona State University (ASU)","United States of America (USA)",108.58,301
+100,"State University of New York at Stony Brook (SUNY Stony Brook)","United States of America (USA)",108.04,392
+101,"Shanghai Jiao Tong University (SJTU)",China,107.26,395
+102,"Catholic University of Leuven (KU Leuven)",Belgium,106.97,312
+103,"University of Münster (WWU)",Germany,106.73,252
+104,"University of California, Riverside (UCR)","United States of America (USA)",106.42,263
+105,"University of Göttingen",Germany,106.02,354
+106,"Technion-Israel Institute of Technology (IIT)",Israel,105.7,283
+107,"Australian National University (ANU)",Australia,105.14,298
+108,"Indiana University (IU)","United States of America (USA)",105.09,383
+109,"Baylor College of Medicine (BCM)","United States of America (USA)",104.51,284
+110,"The University of Arizona (Arizona)","United States of America (USA)",103.94,394
+111,"The Rockefeller University","United States of America (USA)",103.87,296
+112,"University of Groningen (RUG)",Netherlands,103.86,336
+113,"Jilin University (JLU)",China,103.6,220
+114,"The University of Melbourne (UniMelb)",Australia,103.45,470
+115,"Free University of Berlin (FU Berlin)",Germany,103.1,461
+116,"Yonsei University","South Korea",102.75,238
+117,"The Hong Kong University of Science and Technology (HKUST)",China,100.65,256
+118,"Lund University (LU)",Sweden,99.51,337
+119,"Hunan University (HNU)",China,99.35,152
+120,"Sichuan University (SCU)",China,98.82,213
+121,"University of Erlangen-Nuremberg (FAU)",Germany,98.79,267
+122,"East China University of Science and Technology (ECUST)",China,98.69,173
+123,"Lanzhou University (LZU)",China,96.31,189
+124,"University of Bonn (Uni Bonn)",Germany,95.6,366
+125,"Stockholm University",Sweden,94.87,436
+126,"King's College London (KCL)","United Kingdom (UK)",94.79,369
+127,"Uppsala University (UU)",Sweden,94.29,401
+128,"North Carolina State University (NCSU)","United States of America (USA)",93.24,252
+129,"University of Southampton (Soton)","United Kingdom (UK)",93.16,297
+130,"Kyushu University",Japan,92.77,295
+131,"Emory University","United States of America (USA)",92.71,245
+132,"King Abdullah University of Science and Technology (KAUST)","Saudi Arabia",92.29,224
+133,"University of Freiburg (Uni Freiburg)",Germany,92.25,313
+134,"Tel Aviv University (TAU)",Israel,92.07,321
+135,"Indian Institute of Science (IISc)",India,91.76,134
+136,"Tianjin University (TJU)",China,91.6,349
+137,"University of Basel (UB)",Switzerland,91.58,278
+138,"University of Leeds","United Kingdom (UK)",90.44,266
+139,"Brown University","United States of America (USA)",89.83,256
+140,"RWTH Aachen University (RWTH Aachen)",Germany,89.62,290
+141,"The University of Iowa (UI)","United States of America (USA)",89.38,348
+142,"University of Massachusetts Amherst (UMass Amherst)","United States of America (USA)",88.75,256
+143,"University of Paris",France,88.35,824
+144,"Humboldt University of Berlin (HU Berlin)",Germany,87.61,496
+145,"Aarhus University (AU)",Denmark,87.15,246
+146,"Huazhong University of Science and Technology (HUST)",China,86.82,231
+147,"Dresden University of Technology (TU Dresden)",Germany,86.41,376
+148,"Leiden University",Netherlands,86.38,310
+149,"University of Waterloo",Canada,86.21,182
+150,"East China Normal University (ECNU)",China,85.84,174
+151,"Carnegie Mellon University (CMU)","United States of America (USA)",84.85,248
+152,"University of Hamburg (UHH)",Germany,83.95,330
+153,"Case Western Reserve University (CWRU)","United States of America (USA)",83.47,209
+154,"Sungkyunkwan University (SKKU)","South Korea",83.24,278
+155,"University of Tübingen (Uni Tübingen)",Germany,81.88,269
+156,"The University of Sydney (USYD)",Australia,80.04,311
+157,"The University of Sheffield","United Kingdom (UK)",79.11,287
+158,"Johannes Gutenberg University Mainz (JGU)",Germany,78.94,349
+159,"National Tsing Hua University (NTHU)",Taiwan,78.87,178
+160,"The University of Warwick (Warwick)","United Kingdom (UK)",78.83,328
+161,"Delft University of Technology (TU Delft)",Netherlands,78.74,197
+162,"The University of Texas MD Anderson Cancer Center","United States of America (USA)",77.59,238
+163,"Technical University of Denmark (DTU)",Denmark,77.55,213
+164,"University of Notre Dame (ND)","United States of America (USA)",77.37,230
+165,"University of Paris-Sud (UPSud)",France,76.75,700
+166,"University of Rochester (UR)","United States of America (USA)",76.67,243
+167,"Shandong University (SDU)",China,76.19,264
+168,"Durham University","United Kingdom (UK)",74.98,228
+169,"Iowa State University","United States of America (USA)",74.14,245
+170,"University of Regensburg (UR)",Germany,74.09,160
+171,"The University of Georgia (UGA)","United States of America (USA)",73.88,171
+172,"Karolinska Institute (KI)",Sweden,73.2,318
+173,"Beijing Normal University (BNU)",China,72.58,222
+174,"Goethe University Frankfurt (GU)",Germany,72.16,202
+175,"University of Glasgow","United Kingdom (UK)",72.05,391
+176,"Dalian University of Technology (DUT)",China,71.96,136
+177,"University of Bern (UniBE)",Switzerland,71.83,336
+178,"Radboud University Nijmegen (RU)",Netherlands,71.66,452
+179,"Ghent University (UGent)",Belgium,70.94,259
+180,"University of Illinois at Chicago (UIC)","United States of America (USA)",70.76,243
+181,"Autonomous University of Madrid (UAM)",Spain,69.93,363
+182,"The University of Nottingham (UoN)","United Kingdom (UK)",69.11,171
+183,"University of Barcelona (UB)",Spain,68.9,343
+184,"University of Montreal (UdeM)",Canada,68.52,349
+185,"University of Massachusetts Medical School (UMass Medical School)","United States of America (USA)",68.42,276
+186,"University of Virginia (UVA)","United States of America (USA)",67.7,251
+187,"The University of Hong Kong (HKU)",China,67.43,261
+188,"Michigan State University (MSU)","United States of America (USA)",67.02,313
+189,"University of California, Santa Cruz (UCSC)","United States of America (USA)",66.24,286
+190,"Virginia Polytechnic Institute and State University (Virginia Tech)","United States of America (USA)",66.06,180
+191,"Technische Universität Berlin (TU Berlin)",Germany,65.76,139
+192,"University of Connecticut (UConn)","United States of America (USA)",63.81,143
+193,"University of Nebraska-Lincoln (UNL)","United States of America (USA)",63.71,179
+194,"Albert Einstein College of Medicine (Einstein)","United States of America (USA)",63.61,178
+195,"Korea University","South Korea",63.51,228
+196,"University of Strasbourg",France,63.26,380
+197,"Florida State University (FSU)","United States of America (USA)",62.64,293
+198,"Ulsan National Institute of Science and Technology (UNIST)","South Korea",62.38,156
+199,"University of Amsterdam (UvA)",Netherlands,62.33,456
+200,"University of Calgary (U of C)",Canada,62.18,249
+201,"University of Cincinnati (UC)","United States of America (USA)",62.16,244
+202,"Harbin Institute of Technology (HIT)",China,61.96,127
+203,"The Chinese University of Hong Kong (CUHK)",China,61.64,239
+204,"Icahn School of Medicine at Mount Sinai (ISMMS), MSHS","United States of America (USA)",61.25,243
+205,"Chalmers University of Technology (Chalmers)",Sweden,60.84,133
+206,"University of St Andrews","United Kingdom (UK)",60.63,232
+207,"University of Ottawa (uOttawa)",Canada,60.11,152
+208,"University of Stuttgart",Germany,59.94,143
+209,"South China University of Technology (SCUT)",China,59.93,132
+210,"Ruhr University Bochum (RUB)",Germany,59.79,192
+211,"Tongji University",China,59.72,193
+212,"University of Houston (UH)","United States of America (USA)",59.38,165
+213,"University of Toulouse",France,58.88,411
+214,"University of Cologne (UoC)",Germany,58.79,203
+215,"Oregon State University","United States of America (USA)",58.76,153
+216,"Xi'an Jiaotong University (XJTU)",China,58.51,145
+217,"University of Helsinki",Finland,58.32,304
+218,"Colorado State University","United States of America (USA)",57.97,158
+219,"University of Tsukuba",Japan,57.71,255
+220,"KTH Royal Institute of Technology",Sweden,57.55,367
+221,"University of Delaware (UD)","United States of America (USA)",57.04,151
+222,"Keio University",Japan,56.86,122
+223,"University at Buffalo, The State University of New York (SUNY UB)","United States of America (USA)",55.95,164
+224,"Aalto University",Finland,55.77,214
+225,"University of Liverpool","United Kingdom (UK)",55.1,341
+226,"University of Vienna",Austria,53.53,183
+227,"University of Hawai'i at Manoa (UH Mānoa)","United States of America (USA)",53.15,244
+228,"University of Lyon",France,53.11,405
+229,"Philipps University of Marburg (Uni Marburg)",Germany,53.08,123
+230,"Grenoble Alpes University (UGA)",France,52.79,567
+231,"University of Exeter","United Kingdom (UK)",52.77,183
+232,"Ben-Gurion University of the Negev (BGU)",Israel,52.52,112
+233,"McMaster University",Canada,52.51,122
+234,"Eindhoven University of Technology (TU/e)",Netherlands,52.46,112
+235,"University of Oregon (UO)","United States of America (USA)",51.88,171
+236,"The City University of New York (CUNY)","United States of America (USA)",51.3,163
+237,"University of Birmingham (UB)","United Kingdom (UK)",51.12,294
+238,"Vienna University of Technology (TU Wien)",Austria,50.47,148
+239,"University of Miami (UM)","United States of America (USA)",50.16,143
+240,"University of York","United Kingdom (UK)",49.81,133
+241,"Sapienza University of Rome",Italy,49.45,368
+242,"Queen Mary University of London (QMUL)","United Kingdom (UK)",49.16,249
+243,"The University of Western Australia (UWA)",Australia,48.68,209
+244,"Louisiana State University (LSU)","United States of America (USA)",48.39,142
+245,"University of São Paulo (USP)",Brazil,48.37,241
+246,"Southwest University (SWU)",China,47.91,72
+247,"University of Colorado Anschutz Medical Campus (CU Anschutz)","United States of America (USA)",47.6,145
+248,"Aix-Marseille University (AMU)",France,47.39,451
+249,"Dartmouth College","United States of America (USA)",47.19,128
+250,"University of Montpellier",France,47.14,373
+251,"The University of New Mexico (UNM)","United States of America (USA)",47.08,231
+252,"VU Amsterdam",Netherlands,46.75,338
+253,"University of Lausanne (UNIL)",Switzerland,46.46,155
+254,"Wayne State University","United States of America (USA)",46.33,165
+255,"University of Valencia (UV)",Spain,46.29,263
+256,"Homi Bhabha National Institute (HBNI)",India,46.25,146
+257,"University of Bayreuth (UBT)",Germany,46.23,98
+258,"The University of Kansas (KU)","United States of America (USA)",45.85,196
+259,"University of the Basque Country (UPV/EHU)",Spain,45.38,205
+260,"Hanyang University (HYU)","South Korea",45.16,118
+261,"University of Oslo (UiO)",Norway,45.06,267
+262,"University of Bath","United Kingdom (UK)",44.99,108
+263,"Oregon Health and Science University (OHSU)","United States of America (USA)",44.96,109
+264,"Beihang University (BUAA)",China,44.88,131
+265,"University of Padova (UNIPD)",Italy,44.71,282
+266,"Leipzig University",Germany,44.68,132
+267,"Friedrich Schiller University Jena (FSU)",Germany,44.5,169
+268,"University of South Carolina - Columbia (SC)","United States of America (USA)",44.29,118
+269,"Indian Institute of Technology Bombay (IIT Bombay)",India,44.04,84
+270,"University of Konstanz",Germany,43.99,89
+271,"The University of Dublin",Ireland,43.95,137
+272,"Tufts University","United States of America (USA)",43.95,260
+273,"The University of Oklahoma (OU)","United States of America (USA)",43.3,202
+274,"Beijing University of Chemical Technology (BUCT)",China,42.83,69
+275,"Northeastern University (NEU)","United States of America (USA)",41.94,167
+276,"National Autonomous University of Mexico (UNAM)",Mexico,41.87,144
+277,"City University of Hong Kong (CityU)",China,41.55,144
+278,"University of Maryland, Baltimore (UMB)","United States of America (USA)",41.08,125
+279,"University of Kiel (CAU)",Germany,41.06,165
+280,"The University of Tennessee at Knoxville (UTK)","United States of America (USA)",41.02,224
+281,"Brandeis University","United States of America (USA)",40.99,140
+282,"Southeast University (SEU)",China,40.35,90
+283,"Newcastle University","United Kingdom (UK)",40.33,172
+284,"Temple University","United States of America (USA)",40.24,111
+285,"Queen's University",Canada,40.13,176
+286,"Hiroshima University (HU)",Japan,39.97,143
+287,"University of Kentucky (UK)","United States of America (USA)",39.23,130
+288,"Complutense University of Madrid (UCM)",Spain,38.86,160
+289,"Université Libre de Bruxelles (ULB)",Belgium,38.74,178
+290,"National Chiao Tung University (NCTU)",Taiwan,38.53,90
+291,"Ulm University",Germany,38.43,134
+292,"University of Bordeaux",France,38.39,249
+293,"Linköping University (LiU)",Sweden,38.25,110
+294,"The University of Adelaide (Adelaide Uni)",Australia,38.2,188
+295,"Lomonosov Moscow State University (MSU)",Russia,38.01,312
+296,"The University of Akron (UAkron)","United States of America (USA)",37.93,71
+297,"Heinrich Heine University Düsseldorf (HHU)",Germany,37.77,114
+298,"Cardiff University","United Kingdom (UK)",37.54,136
+299,"University of Turin (UNITO)",Italy,37.5,230
+300,"National Institute of Applied Sciences (INSA)",France,37.42,301
+301,"University of Warsaw (UW)",Poland,37.18,139
+302,"Queen's University Belfast (QUB)","United Kingdom (UK)",37.15,103
+303,"University of South Florida (USF)","United States of America (USA)",37.14,98
+304,"University of Saskatchewan (U of S)",Canada,36.69,92
+305,"Umeå University (UMU)",Sweden,36.5,109
+306,"Northeast Normal University (NENU)",China,36.22,53
+307,"Leibniz University Hannover (LUH)",Germany,36.2,83
+308,"University of Florence (UNIFI)",Italy,36.15,198
+309,"University of Duisburg-Essen (UDE)",Germany,35.93,108
+310,"Wageningen University & Research (WUR)",Netherlands,35.87,144
+311,"Shanghai University (SHU)",China,35.24,89
+312,"Chongqing University (CQU)",China,35.22,79
+313,"Okayama University",Japan,35.13,159
+314,"The University of Texas at Dallas (UT Dallas)","United States of America (USA)",34.49,168
+315,"University of Gothenburg (GU)",Sweden,34.34,122
+316,"Western University (UWO)",Canada,34.14,113
+317,"Fuzhou University (FZU)",China,34.04,60
+318,"University of Naples Federico II (UNINA)",Italy,33.98,264
+319,"Ewha Womans University (Ewha)","South Korea",33.91,112
+320,"University of Otago","New Zealand",33.75,117
+321,"University of Bremen (Uni Bremen)",Germany,33.48,116
+322,"University of Sherbrooke (USherbrooke)",Canada,33.29,105
+323,"University of Sussex","United Kingdom (UK)",33.19,166
+324,"Autonomous University of Barcelona (UAB)",Spain,32.7,232
+325,"Bar-Ilan University (BIU)",Israel,32.63,84
+326,"Virginia Commonwealth University (VCU)","United States of America (USA)",32.44,71
+327,"Washington State University (WSU)","United States of America (USA)",32.24,92
+328,"University of Strathclyde","United Kingdom (UK)",32.09,106
+329,"University of Lisbon (ULISBOA)",Portugal,32.02,193
+330,"The University of Alabama at Birmingham (UAB)","United States of America (USA)",31.6,104
+331,"Jagiellonian University (UJ)",Poland,31.3,157
+332,"Waseda University",Japan,31.25,153
+333,"University of Santiago de Compostela (USC)",Spain,31.23,137
+334,"Laval University (UL)",Canada,31.06,142
+335,"University of Potsdam",Germany,30.85,117
+336,"Central China Normal University (CCNU)",China,30.71,118
+337,"Catholic University of Louvain (UCLouvain)",Belgium,30.65,134
+338,"Beijing Institute of Technology (BIT)",China,30.21,71
+339,"Bielefeld University",Germany,30.01,64
+340,"University of Science and Technology Beijing (USTB)",China,29.89,62
+341,"University of Leicester","United Kingdom (UK)",29.84,113
+342,"University of Missouri (Mizzou)","United States of America (USA)",29.82,76
+343,"Indian Institute of Technology Kanpur (IIT Kanpur)",India,29.73,49
+344,"University of Twente (UTwente)",Netherlands,29.67,62
+345,"Norwegian University of Science and Technology (NTNU)",Norway,29.59,82
+346,"Charles University (CU)","Czech Republic",29.52,255
+347,"University of Milano-Bicocca (UNIMIB)",Italy,29.47,185
+348,"University of Reading","United Kingdom (UK)",29.41,101
+349,"Gwangju Institute of Science and Technology (GIST)","South Korea",29.3,75
+350,"University of Antwerp (UA)",Belgium,29.29,140
+351,"The University of Texas Health Science Center at Houston (UTHealth)","United States of America (USA)",29.21,116
+352,"Drexel University","United States of America (USA)",29.19,79
+353,"Curtin University",Australia,29.16,102
+354,"University of Bologna (UNIBO)",Italy,29.04,291
+355,"Indian Institute of Science Education and Research Pune (IISER Pune)",India,29.04,64
+356,"Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR)",India,28.97,40
+357,"The Hong Kong Polytechnic University (PolyU)",China,28.77,76
+358,"University of Innsbruck (LFU)",Austria,28.61,169
+359,"Central South University (CSU)",China,28.15,87
+360,"Simon Fraser University (SFU)",Canada,28.08,169
+361,"Saint Petersburg State University (SPbU)",Russia,28.01,101
+362,"Technical University of Darmstadt (TU Darmstadt)",Germany,27.95,97
+363,"Kyung Hee University (KHU)","South Korea",27.77,86
+364,"Kobe University",Japan,27.67,149
+365,"Chinese Academy of Medical Sciences & Peking Union Medical College (CAMS & PUMC)",China,27.28,94
+366,"University of Southern Denmark (SDU)",Denmark,27.22,97
+367,"University of Crete (UOC)",Greece,27.21,73
+368,"Rensselaer Polytechnic Institute (RPI)","United States of America (USA)",27.09,79
+369,"Nanjing Tech University (NanjingTech)",China,26.85,67
+370,"Zhengzhou University (ZZU)",China,26.62,72
+371,"Saarland University (Saar-Uni)",Germany,26.61,75
+372,"Dalhousie University",Canada,26.49,75
+373,"University of Jyväskylä",Finland,26.49,150
+374,"Indian Institute of Science Education and Research Bhopal (IISER Bhopal)",India,26.44,33
+375,"Technical University Braunschweig (TU Braunschweig)",Germany,26.43,91
+376,"Shandong Normal University (SDNU)",China,26.33,34
+377,"University of Milan (UNIMI)",Italy,26.3,248
+378,"Boston College (BC)","United States of America (USA)",25.57,56
+379,"The University of Auckland","New Zealand",25.46,143
+380,"École Normale Supérieure (ENS Paris)",France,25.23,272
+381,"University of Graz (Uni Graz)",Austria,25.2,66
+382,"Scuola Internazionale Superiore di Studi Avanzati (SISSA)",Italy,25.16,97
+383,"University of Wollongong (UOW)",Australia,25.14,84
+384,"University College Dublin (UCD)",Ireland,25.04,180
+385,"University of Oviedo (UniOvi)",Spain,25.01,103
+386,"University of East Anglia (UEA)","United Kingdom (UK)",24.92,96
+387,"Tokyo University of Agriculture and Technology (TUAT)",Japan,24.87,49
+388,"Lancaster University","United Kingdom (UK)",24.86,172
+389,"University of Victoria (UVic)",Canada,24.71,183
+390,"Clemson University","United States of America (USA)",24.63,60
+391,"University of Rostock",Germany,24.57,102
+392,"Georgia State University (GSU)","United States of America (USA)",24.29,60
+393,"Institute for Advanced Study (IAS)","United States of America (USA)",23.98,70
+394,"Erasmus University Rotterdam (EUR)",Netherlands,23.9,149
+395,"West Virginia University (WVU)","United States of America (USA)",23.83,45
+396,"National Cheng Kung University (NCKU)",Taiwan,23.71,70
+397,"University of Nevada, Reno (UNR)","United States of America (USA)",23.49,61
+398,"Changzhou University (CZU)",China,23.38,33
+399,"University of Porto (UP)",Portugal,23.27,111
+400,"Syracuse University","United States of America (USA)",23.09,94
+401,"University of Wyoming","United States of America (USA)",23.02,61
+402,"São Paulo State University (UNESP)",Brazil,23,104
+403,"TU Dortmund University",Germany,22.92,184
+404,"China University of Geosciences (CUG)",China,22.79,60
+405,"University of Zaragoza (Unizar)",Spain,22.75,98
+406,"Macquarie University",Australia,22.68,92
+407,"University of Arkansas (UARK)","United States of America (USA)",22.65,62
+408,"The University of South Australia (UniSA)",Australia,22.63,73
+409,"University of Central Florida (UCF)","United States of America (USA)",22.53,44
+410,"Giessen University (JLU)",Germany,22.48,166
+411,"Shaanxi Normal University (SNNU)",China,22.36,37
+412,"Thomas Jefferson University (TJU)","United States of America (USA)",22.35,53
+413,"Nagoya Institute of Technology (NITech)",Japan,22.12,33
+414,"Nanjing Normal University (NNU)",China,22.03,56
+415,"University of Dundee","United Kingdom (UK)",22,85
+416,"Indian Institute of Technology Kharagpur (IIT Kharagpur)",India,21.8,33
+417,"York University",Canada,21.72,148
+418,"Royal Melbourne Institute of Technology (RMIT University)",Australia,21.62,69
+419,"Osaka Prefecture University (OPU)",Japan,21.55,42
+420,"Pompeu Fabra University (UPF)",Spain,21.51,93
+421,"Heriot-Watt University","United Kingdom (UK)",21.47,56
+422,"University of Hyderabad (UoH)",India,21.32,30
+423,"University of Aberdeen","United Kingdom (UK)",21.15,84
+424,"University of Seville (US)",Spain,21.12,100
+425,"Tulane University","United States of America (USA)",21.08,62
+426,"University of Siegen",Germany,20.96,117
+427,"University of Lille Nord de France",France,20.89,146
+428,"Sogang University","South Korea",20.88,45
+429,"Tokyo University of Science (TUS)",Japan,20.8,55
+430,"University of Bergen (UIB)",Norway,20.79,208
+431,"China Agricultural University (CAU)",China,20.67,50
+432,"National Institute of Scientific Research (INRS)",Canada,20.66,84
+433,"University of Guelph",Canada,20.65,154
+434,"University of Turku (UTU)",Finland,20.6,84
+435,"University of Manitoba",Canada,20.22,159
+436,"Nanjing University of Science and Technology (NUST)",China,20.13,50
+437,"Northwest University (NWU)",China,19.92,36
+438,"Grenoble Institute of Technology (Grenoble INP)",France,19.84,316
+439,"Indian Institute of Technology Guwahati (IIT Guwahati)",India,19.83,41
+440,"University of Idaho","United States of America (USA)",19.79,50
+441,"Swedish University of Agricultural Sciences (SLU)",Sweden,19.74,84
+442,"Indian Institute of Technology Madras (IIT Madras)",India,19.7,37
+443,"École Polytechnique",France,19.61,202
+444,"University of Chile",Chile,19.58,116
+445,"University of Vermont (UVM)","United States of America (USA)",19.53,55
+446,"Medical University of Vienna (MUW)",Austria,19.52,96
+447,"Martin Luther University Halle-Wittenberg (MLU)",Germany,19.5,80
+448,"Yamagata University",Japan,19.24,48
+449,"University of Wrocław (UWr)",Poland,19.22,49
+450,"Kansas State University (K-State)","United States of America (USA)",19.22,90
+451,"Kanazawa University (KU)",Japan,19.12,53
+452,"University of Liège (ULg)",Belgium,19.1,69
+453,"Chiba University",Japan,19.07,73
+454,"University of Louisville (UofL)","United States of America (USA)",18.99,47
+455,"University of Tasmania (UTAS)",Australia,18.97,83
+456,"University of Rome Tor Vergata",Italy,18.91,195
+457,"Colorado School of Mines","United States of America (USA)",18.89,60
+458,"Pusan National University (PNU)","South Korea",18.87,83
+459,"University of Fribourg (UNIFR)",Switzerland,18.65,68
+460,"University of Buenos Aires (UBA)",Argentina,18.48,156
+461,"King Abdulaziz University (KAU)","Saudi Arabia",18.44,221
+462,"University of Girona (UdG)",Spain,18.43,48
+463,"Wake Forest University (WFU)","United States of America (USA)",18.35,61
+464,"University of Electronic Science and Technology of China (UESTC)",China,18.26,69
+465,"Kumamoto University",Japan,18.21,49
+466,"Victoria University of Wellington (Victoria)","New Zealand",18.17,86
+467,"University of Rennes 1",France,18.1,131
+468,"The George Washington University (GW)","United States of America (USA)",17.98,68
+469,"Ocean University of China (OUC)",China,17.7,52
+470,"State University of New York at Albany (SUNY Albany)","United States of America (USA)",17.67,136
+471,"Shanxi University (SXU)",China,17.62,39
+472,"Lehigh University","United States of America (USA)",17.57,35
+473,"University of Granada (UGR)",Spain,17.45,146
+474,"Swansea University","United Kingdom (UK)",17.43,56
+475,"Osaka City University (OCU)",Japan,17.41,57
+476,"The University of Texas at Arlington (UTA)","United States of America (USA)",17.4,118
+477,"The University of Toledo (UT)","United States of America (USA)",17.22,46
+478,"Nara Institute of Science and Technology (NAIST)",Japan,17.12,44
+479,"Chung-Ang University (CAU)","South Korea",17.09,42
+480,"Huazhong Agricultural University (HZAU)",China,17.04,44
+481,"Free University of Brussels (VUB)",Belgium,17.01,122
+482,"The University of Texas Health Science Center at San Antonio (UT Health San Antonio)","United States of America (USA)",16.98,49
+483,"University of Kaiserslautern (TU Kaiserslautern)",Germany,16.89,50
+484,"Nanjing University of Information Science and Technology (NUIST)",China,16.87,50
+485,"University of Alaska Fairbanks (UAF)","United States of America (USA)",16.83,67
+486,"The University of Alabama (UA)","United States of America (USA)",16.79,93
+487,"Nanchang University (NCU)",China,16.76,36
+488,"Kyungpook National University (KNU)","South Korea",16.66,108
+489,"Polytechnic University of Milan",Italy,16.63,84
+490,"University of Pisa (UNIPI)",Italy,16.57,234
+491,"Southern University of Science and Technology (SUSTech)",China,16.45,40
+492,"Henan Normal University",China,16.41,42
+493,"Tokyo Metropolitan University (TMU)",Japan,16.32,123
+494,"University of Lorraine (UL)",France,16.31,98
+495,"Federal University of Rio de Janeiro (UFRJ)",Brazil,16.13,165
+496,"University of Oldenburg",Germany,16.05,56
+497,"Medical College of Wisconsin (MCW)","United States of America (USA)",16.01,41
+498,"University of Rhode Island (URI)","United States of America (USA)",16.01,41
+499,"National Taiwan Normal University (NTNU)",Taiwan,15.95,41
+500,"Swinburne University of Technology",Australia,15.89,64
